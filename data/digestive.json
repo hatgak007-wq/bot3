@@ -1,0 +1,530 @@
+{
+  "module": "digestive",
+  "lessons": {
+    "biochimie": {
+     "1.1 Exploration biochimique de la digestion et de l'absorption": {
+"2024": [
+{"question":"Concernant le suc gastrique :","options":["Les cellules pariétales secretant l'HCL","Les cellules G fabriquent la gastrine","Les cellules a pepsine donnent le mucus","La pepsine est secretee sous la forme d'une proenzyme inactive"],"correct_option_ids":[0,1,3]},
+{"question":"Le diagnostic biologique de la maladie cœliaque repose sur :","options":["Le dosage serologique des Ac anti-gliadine","La recherche des anticorps sur une biopsie ileale","Dosage de la Vit B12 et les folates","Dosage serologique des Ac anti-transglutaminase"],"correct_option_ids":[0,3]}
+],
+"2023": [
+{"question":"En cas de pancreatite aiguë : Cochez la ou les proposition(s) fausse(s)","options":["On note une augmentation de l'amylasémie dans les 24 premières heures.","L'amylasémie se normalise dans les 10 jours.","L'amylasémie est très specifique et très sensible.","La demi-vie de l'amylasémie est supérieure à celle de la lipase."],"correct_option_ids":[2,3]},
+{"question":"La transformation des aliments en nutriments se fait grâce à : Cochez la proposition fausse","options":["Une action chimique.","Une action des enzymes digestives.","Une action des levures digestives.","Une action mécanique."],"correct_option_ids":[2]},
+{"question":"Le diagnostic biologique de la maladie cœliaque repose sur :","options":["Le dosage sérologique des Anticorps anti-gliadine.","La recherche des anticorps sur une biopsie duodénale.","Dosage de la Vit B12 et les folates.","Dosage sérologique des Anticorps anti-transglutaminase."],"correct_option_ids":[0,3]},
+{"question":"Le test au dilaurate de fluorescéine :","options":["Utilisé dans l'exploration du pancréas.","Hydrolysée par l'estérase pancréatique.","Réalisé directement sur le suc gastrique.","La quantité excrétée est comparée à la quantité ingérée en calculant un rapport."],"correct_option_ids":[1,2,3]},
+{"question":"Parmi les propositions suivantes concernant la sécrétion exocrine pancréatique, lesquelles sont justes ?","options":["Elle a un pH neutre.","Elle est de l'ordre de 1,5 L/24 h.","Elle contient plus d'ions bicarbonate lorsque le pancréas est stimulé par la sécrétine.","Elle ne dépend pas de la cholecystokinine."],"correct_option_ids":[0,1,3]}
+],
+"2022": [
+{"question":"Le diagnostic biologique de la maladie coéliaque repose sur : Cochez les réponses justes","options":["Le dosage sérologique des Ac anti-glialine.","La recherche des anticorps Ac sur une biopsie duodénale.","Dosage de la Vit B12 et les folates.","Dosage sérologique de Ac anti-transglutaminase."],"correct_option_ids":[0,3]},
+{"question":"Le test au dilaurate de fluorescéine : Cochez les réponses justes","options":["Utilisé dans l'exploration du pancréas.","Hydrolysee par l'estérase pancréatique.","Réalisé directement sur le suc gastrique.","La quantité excrétée est comparée à la quantité ingérée en calculant un rapport."],"correct_option_ids":[0,1,3]}
+],
+"2021": [
+{"question":"Cochez la réponse juste :","options":["En cas de pancréatite aigué ; on note une augmentation de l'amylasémie dans les 24 premières heures.","En cas de pancréatite aigué ; l'amylasémie se normalise dans les 10 jours.","En cas de pancréatite aigué ; l'amylasémie est très spécifique et très sensible.","En cas de pancréatite aigué ; la demi-vie de l'amylasémie est supérieure à celle de la lipase."],"correct_option_ids":[0]},
+{"question":"Cochez les réponses justes :","options":["Dosage de la gastrénemie se fait par méthodes radio enzymatiques.","On dose la gastrénemie de base puis la gastrénemie provoquée.","La gastrénemie provoquée après un repas lipidique ou inhibition par les prostaglandines.","Il faut arrêter tout médicament diminuant la sécrétion gastrique."],"correct_option_ids":[1,3]},
+{"question":"Cochez les réponses justes :","options":["La réponse au test D Xylose est diminuée en cas d'enteropathie.","La réponse au test D Xylose est fortement augmentée en cas d'ielites.","La réponse au test D Xylose est fortement diminuée dans les stéatorrhées.","La réponse au test D Xylose est normale en cas de malabsorption pancréatique."],"correct_option_ids":[0,2,3]}
+]
+},
+     "1.2 Exploration biochimique des fonctions hépatiques": {
+"2024": [
+{"question":"Aérobilie présente les caractères suivants :","options":["Signifie la présence anormale du sang dans les voies biliaires","Oriente vers une éventuelle fistule bilio-digestive","Se traduit par des clartés dessinant la silhouette du foie","Se traduit par des clartés branchées se projetant dans l'hypochondre droit"],"correct_option_ids":[1,3]},
+{"question":"Au cours de la réalisation d'un ASP, la technique d'acquisition doit se faire :","options":["Avec une cassette couvrant l'abdomen depuis l'apex pulmonaire jusqu'à la symphyse pubienne","Avec une cassette grande format depuis les coupoles diaphragmatiques jusqu'à la symphyse pubienne","Depuis les coupoles diaphragmatiques jusqu'à l'ombilic","Inspiration forcée obligatoire"],"correct_option_ids":[1]},
+{"question":"Cochez la ou les proposition(s) fausse(s)","options":["La bilirubine libre est toxique pour l'organisme, elle est eliminée dans les urines","La bilirubine directe est liposoluble eliminée dans le tube digestif","La maladie Crigler-Najjar est due l'absence totale de l'enzyme glucuronyl transferase dans l'hépatocyte","La decoloration des selles lors de la cholestase extra-hépatique est due a l'absence des sels biliaires dans les selles"],"correct_option_ids":[0,1,3]},
+{"question":"Concernant l'insuffisance hepatocellulaire :","options":["Le syndrome d'insuffisance hepatocellulaire est defini par la diminution ou l'arrêt des fonctions de l'hépatocyte","L'hypoalbuminemie est a l'origine d'une hyperhydratation extracellulaire et formation d'œdèmes, épanchements et ascite","Le temps de Quick sera élevé","La diminution de l'urée est un signe d'hyperproduction d'ammoniac"],"correct_option_ids":[0,1,3]},
+{"question":"L'hypertension portale se definit par :","options":["Un gradient de pression porto-sus hepatique superieur a 5 mmHg","Un gradient de pression porto-sus hepatique inferieur a 5 mmHg","Augmentation de la pression portale au-dessus de 10 mmHg","Augmentation de la pression portale au-dessous de 5 mmHg"],"correct_option_ids":[]},
+{"question":"La majeure partie de la bilirubine non conjuguée provient de :","options":["De la destruction des erythroblastes dans la moelle osseuse","De l'absorption de la bilirubine au niveau de l'ileon","De la destruction des hematies dans le système réticulo-endothélial par les macrophages mononucléés","De la conjugaison des sels biliaires primaires au niveau du foie"],"correct_option_ids":[2]},
+{"question":"Le profil électrophorétique de la cirrhose décompensée est caractérisé par :","options":["Un dôme plus au moins important au niveau de la zone des gammaglobulines","Un bloc beta gamma caractéristique","Un pic au niveau des beta-globuline","Une elevation des alpha-globulines"],"correct_option_ids":[1]},
+{"question":"Le syndrome cytolytique présente les caractères suivants : Cochez la ou les proposition(s) (fausses)","options":["Il est du a la liberation des enzymes hepatiques par lyse de la membrane hepatocytaire","Il se traduit biologiquement par une elevation des phosphatases alcalines et de la yGT","Une cytolyse superieure a 10 fois la normale indique une hepatite aigue","Il est systematiquement associé a une cholestase"],"correct_option_ids":[1,3]},
+{"question":"Les complications de l'hypertension portale sont :","options":["La circulation collatérale de la paroi abdominale","Dilatation des veines en amont de l'obstacle","L'ascite","L'encephalopathie hepatique"],"correct_option_ids":[0,1,2]},
+{"question":"Parmi les propositions suivantes concernant le syndrome de cytolyse hepatique, laquelle ou lesquelles est ou sont exacte(s):","options":["Une diminution du taux de l'albumine serique.","Une elevation de l'activite de l'alanine aminotransferase (ALAT)","Une diminution de la gamma transferase (GGT)","Une elevation de la bilirubine conjuguée"],"correct_option_ids":[1]},
+{"question":"Une hepatomegalie tumorale est caracterisee par :","options":["Peut etre diffuse ou localisee","Mobile avec les mouvements respiratoires","Sensible a la palpation","De consistance dure a la palpation"],"correct_option_ids":[0,2,3]}
+],
+"2023": [
+{"question":"L'ictère physiologique du nouveau-né :","options":["Est une cause d'anemie.","Evolue rapidement vers un ictere nucleaire.","Est frequent chez le premature.","Est du a une immaturite enzymatique."],"correct_option_ids":[2,3]},
+{"question":"La maladie de Gilbert presente les caracteres suivants : Cochez la ou les propositions fausse(s)","options":["C'est une maladie grave.","C'est une maladie bénigne.","Une hyperbilirubinémie non conjuguée.","Une hyperbilirubinémie conjuguée."],"correct_option_ids":[0,3]},
+{"question":"La phosphatase alcaline est une enzyme hepatique. C'est une hydrolase qui clive une liaison phosphoester :","options":["L'augmentation des taux de cette enzyme hepatocytaire s'observe lors d'une cholestase.","Physiologiquement eleve chez l'enfant et chez la femme enceinte.","Peut etre eleve lors des pathologies osseuses.","N'est pas specifique de la cholestase car la PAL est constituee d'isoenzymes a distribution extra-hepatique."],"correct_option_ids":[0,1,2,3]},
+{"question":"Le syndrome cytolytique se caracterise par : Cochez la ou les proposition(s) juste(s)","options":["Il est du a la liberation des enzymes hepatiques par lyse de la membrane hepatocytaire.","Il se traduit biologiquement par une elevation des phosphatases alcalines et de la yGT.","Une cytolyse superieure a 10 fois la normale indique une hepatite aigue.","Il est systematiquement associé a une cholestase."],"correct_option_ids":[0,3]},
+{"question":"Quel est le parametre le plus specifique pour confirmer une cytolyse hepatique ?","options":["Albuminémie diminuee.","Bilirubine totale elevee.","Transaminases elevees.","Enzyme lactate deshydrogenase augmente."],"correct_option_ids":[2]}
+],
+"2022": [
+{"question":"La phosphatase alcaline est une enzyme hepatique, c'est une hydrolase qui clive une liaison phosphoester : Cochez les reponses justes","options":["L'augmentation des taux de cette enzyme hepatocytaire s'observe lors d'une cholestase.","Physiologiquement eleve chez l'enfant et chez la femme enceinte.","Peut-être eleve lors des pathologies osseuses.","N'est pas specifique du cholestase car la PAL est constituee d'isoenzymes a distribution extra-hepatique."],"correct_option_ids":[0,1,2,3]},
+{"question":"Le profil electrophoretique de la cirrhose décompensée est caracterisé par : Cochez la reponse juste","options":["Un dôme plus ou moins important au niveau de la zone des gammaglobulines.","Un bloc bêta-gamma caractéristique.","Un pic au niveau des bêta-globulines.","Une élévation des alpha-globulines."],"correct_option_ids":[1]},
+{"question":"Quels sont les parametres les plus specifiques pour confirmer une cytolyse hepatique ? Cochez la reponse juste","options":["Albuminémie diminuee.","Bilirubine totale élevée.","Transaminases élevées.","Enzyme lactate déshydrogénase augmentée."],"correct_option_ids":[2]}
+],
+"2021": [
+{"question":"Cochez la reponse juste :","options":["Dans la maladie de Gilbert existe une élévation des transaminases.","Dans la maladie de Gilbert existe une hyperbilirubinémie non conjuguée.","Dans la maladie de Gilbert existe une élévation des phosphatases alcalines.","Dans la maladie de Gilbert existe une hyperbilirubinémie conjuguée."],"correct_option_ids":[1]},
+{"question":"Cochez la réponse juste :","options":["La bilirubine est le produit de dégradation des protéines héminiques.","La bilirubine est synthétisée au niveau hepatique.","La bilirubine non conjuguée est hydrophobe et liée à l'albumine.","La bilirubine non conjuguée est éliminée dans les urines."],"correct_option_ids":[0]},
+{"question":"Cochez les réponses justes :","options":["L'ictère physiologique du nouveau-né est une cause d'anémie.","L'ictère physiologique du nouveau-né évolue rapidement vers un icère nucléaire.","L'ictère physiologique du nouveau-né est fréquent chez le prématuré.","L'ictère physiologique du nouveau-né est dû à une immaturité enzymatique."],"correct_option_ids":[2,3]}
+]
+},
+     "1.3 Exploration biochimique des protéines plasmatiques": {
+"2024": [
+{"question":"Indiquer parmi les proteines mentionnées celles dont la concentration plasmatique est augmentée au cours de la réaction inflammatoire aiguë:","options":["Albumine","L'alpha-1 antitrypsine","Orosomucoside","Haptoglobinine."],"correct_option_ids":[1,2,3]},
+{"question":"Quelle est ou quelles sont la ou les causes possibles de l'hypoalbuminémie parmi les propositions suivantes?","options":["Syndrome néphrotique","Brulures","Deshydratation extra-cellulaire","Insuffisance hépatique chronique"],"correct_option_ids":[0,1,3]}
+],
+"2023": [
+{"question":"A l'électrophorèse des protéines :","options":["La bisalbuminémie est souvent observée en cas de deshydratation.","Lors du syndrome néphrotique on observe une élévation de la fraction Alpha2.","En cas d'anémie ferriprive on peut constater une élévation de la fraction Beta 1.","En electrophorèse capillaire l'orosomucotide migre dans la zone Beta-2 globulines."],"correct_option_ids":[0,2]},
+{"question":"A l'électrophorèse des protéines :","options":["Bloc beta-gamma traduit l'augmentation de la synthese des IgA polyclonales.","Bloc beta-gamma est observé dans les cirrhoses hepatiques.","Une elevation polyclonale des gamma-globulines est typique du myélome multiple.","Une baisse de l'alpha-2 globulines peut traduire une hemolyse."],"correct_option_ids":[2]},
+{"question":"Le profil électrophorétique de la cirrhose décompensée est caractérisé par :","options":["Un dôme plus ou moins important au niveau de la zone des gammaglobulines.","Un bloc beta-gamma caractéristique.","Un pic au niveau des beta-globulines.","Une élévation des alpha-globulines."],"correct_option_ids":[1]},
+{"question":"Pour le suivi d'un sujet âgé de 40 ans atteint d'un myélome multiple on réalise un protéinogramme pour établir ce protéinogramme :","options":["On dose la protéinémie seulement.","On réalise sur le même prélèvement une EPS et un dosage de la protéinémie.","On réalise une EPS et une protéinémie totale sur deux prélèvements différents.","On dose individuellement toutes les protéines sériques."],"correct_option_ids":[1]},
+{"question":"Une des proteines suivantes n'est pas une proteine de la reaction inflammatoire, laquelle ?","options":["Haptoglobine.","L'orosomucoide.","La calcitonine.","Alpha-1 antitrypsine."],"correct_option_ids":[2]}
+],
+"2022": [
+{"question":"Pour le suivi d'un sujet âgé de 40 ans atteint d'un myélome multiple on réalise un protéinogramme pour établir ce protéinogramme : Cochez la réponse juste","options":["On dose la protéinémie seulement.","On réalise sur le même prélèvement une EPS et un dosage de la protéinémie.","On réalise une EPS et une protéinémie totale sur deux prélèvements différents.","On dose individuellement toutes les protéines sériques."],"correct_option_ids":[1]},
+{"question":"Une des proteines suivantes n'est pas une proteine de la reaction inflammatoire, laquelle ? Cochez la réponse juste","options":["Haptoglobine.","L'orosomucoide.","La calcitonine.","Alpha-1 antitrypsine."],"correct_option_ids":[2]}
+]
+},
+     "1.4 Hématimétrie": {
+"2024": [
+{"question":"Parmi les circonstances de découvertes suivantes, quelles sont celles évocatrices d'adénopathies profondes médiastinales: Cochez la ou les proposition(s) fausse(s)","options":["Un syndrome cave supérieur","Une circulation veineuse collatérale thoracique","Des douleurs abdominales","Des œdemes des membres inférieurs"],"correct_option_ids":[2,3]},
+{"question":"Un ganglion de Troisier présente les caracteres suivants:","options":["Est une adénopathie sus claviculaire droite","Est une adénopathie sus claviculaire gauche","Est toujours suspect de malignité","Son origine est sous diaphragmatique (tube digestif, pelvis, abdomen)"],"correct_option_ids":[1,2,3]},
+{"question":"Une Inversion de la formule leucocytaire est definie par:","options":["Un pourcentage de polynucléaire neutrophile supérieur à celui des monocytes","Un pourcentage de polynucléaire neutrophile supérieur à celui des lymphocytes.","Un pourcentage de lymphocytes supérieur à celui des polynucleaires neutrophiles","Un pourcentage de lymphocytes supérieur à celui des monocytes"],"correct_option_ids":[2]},
+{"question":"Une polkylocytose est definie par:","options":["Une anomalie de taille des globules rouges","Une anomalie de forme des globules blancs","Une anomalie de couleur des globules rouge","Une anomalie de forme des globules rouges"],"correct_option_ids":[3]}
+],
+"2023": [
+{"question":"Le frottis sanguin permet une:","options":["Une étude quantitative des éléments figurés du sang.","Une étude qualitative des éléments figurés du sang.","La détection du groupe sanguin.","Éliminer une fausse thrombopénie."],"correct_option_ids":[1,3]},
+{"question":"Parmi ces cellules, quels sont celles qui sont des globules blancs:","options":["Les polynucléaires eosinophiles.","Les érythroblastes","Les polynucléaires basophiles.","Les monocytes."],"correct_option_ids":[0,2,3]}
+],
+"2022": [
+{"question":"L'hémogramme est défini comme : Cochez la réponse juste","options":["La quantification des cellules sanguines et l'étude du frottis sanguin.","La FNS + l'étude du frottis sanguin.","La FNS, l'étude du frottis sanguin + le taux de réticulocytes.","La FNS + médullogramme."],"correct_option_ids":[1]},
+{"question":"Parmi ces éléments, quels sont ceux qui interviennent dans l'hémostase primaire : Cochez les réponses justes","options":["La paroi vasculaire.","Le facteur de Von Willebrand.","Le facteur V de la coagulation.","Les plaquettes."],"correct_option_ids":[0,1,3]}
+]
+}
+},
+"physiopathologie": {
+  "2.1 Coagulation intravasculaire disséminée (CIVD)": {
+"2020": [
+{"question":"La coagulation intra-vasculaire disséminée (CIVD) est : (Cochez la réponse juste.)","options":["Est une maladie congénitale","Est un syndrome secondaire a une inhibition de la coagulation","Est un syndrome congénital secondaire a une activation systemique et excessive de la coagulation","Est un syndrome acquis secondaire a une activation systemique et excessive de la coagulation"],"correct_option_ids":[3]},
+{"question":"La coagulation intra-vasculaire disséminée (CIVD) résulte de : (Cochez la réponse juste.)","options":["L'implication de la voie extrinsèque suite au contact entre le FT (facteur tissulaire) et le FIIa","L'implication de la voie extrinsèque suite au contact entre le FT (facteur tissue) et le FVIIa","Contact entre le FT constitutif intra-vasculaire et le FVIIa","Deséquilibre entre mécanismes pro-coagulants et anti-coagulants est dépassé au profit de l'agrégation plaquettaire"],"correct_option_ids":[1]},
+{"question":"Quand la thrombine est produite de manière excessive on a : (Cochez la réponse juste.)","options":["La transformation de fibrin en fibrinogene","L'arrêt de l'agregation plaquettaire","Une consommation des facteurs et des inhibiteurs de la coagulation","Une inhibition de la fibrinolyse"],"correct_option_ids":[2]}
+],
+"2019": [
+{"question":"Au cours d'une CIVD les D-dimères signifient : (Cochez la réponse juste.)","options":["Activation de plaquettes","Activation de la coagulation","Fibrinolysse","Activation des facteurs plasmatiques"],"correct_option_ids":[2]},
+{"question":"La CIVD : (Cochez la réponse juste.)","options":["Est une maladie congénitale","Est un syndrome secondaire a une inhibition de la coagulation","Est un syndrome congénital secondaire a une activation systemique et excessive de la coagulation","Est un syndrome acquis secondaire a une activation systemique et excessive de la coagulation"],"correct_option_ids":[3]},
+{"question":"La CIVD est définie par : (Cochez la réponse juste.)","options":["Anomalies biologiques","Manifestations cliniques","Manifestations cliniques +/- anomalies biologiques","Anomalies biologiques +/- manifestations cliniques"],"correct_option_ids":[3]},
+{"question":"La CIVD résulte de : (Cochez la réponse juste.)","options":["L'implication de la voie extrinsèque suite au contact entre le FT (facteur tissulaire) et le FIIa","L'implication de la voie extrinsèque suite au contact entre le FT (facteur tissue) et le FVIIa","Contact entre le FT constitutif intra-vasculaire et le FVIIa","Deséquilibre entre mécanismes pro-coagulation et anti-coagulants est dépassé au profit de l'agrégation plaquettaire"],"correct_option_ids":[1]},
+{"question":"Parmi les critères suivants lesquels permettent de différencier une CIVD d'une fibrinolyse aiguë primitive : (Cochez la réponse juste.)","options":["D-Dimères et numération des plaquettes","Dosage du fibrinogène","D-dimères et numération globulaire","PDF"],"correct_option_ids":[0]}
+],
+"2018": [
+{"question":"Au cours de la CIVD, l'activation de fibrinolyse est caractérisée par : (Cochez la réponse fausse.)","options":["Contribue au risque hémorragique","Formation des PDF et Dimères","Ne tend pas à empêcher l'installation et surtout l'extension du caillot","L'inhibition de la fibrinolyse contribue à l'hypoperfusion des tissus par formation de thrombose"],"correct_option_ids":[3]},
+{"question":"Au cours du syndrome de CIVD il peut exister : (Cochez la réponse juste.)","options":["Une thrombopénie","Une diminution du taux des PDF","Une augmentation du temps de lyse des euglobulines","Une augmentation du taux de prothrombine"],"correct_option_ids":[0]},
+{"question":"La CIVD : (Cochez la réponse juste.)","options":["S'observe dans des situations cliniques graves et contribue a les aggraver","Syndrome irréversible même si l'étiologie est maitrisée","Est une maladie et non un syndrome","Son diagnostic est clinique"],"correct_option_ids":[0]},
+{"question":"Parmi les propositions suivantes, quel est le critère diagnostic d'une CIVD biologique : (Cochez la réponse juste.)","options":["Elevation des dimères n'est pas un critère obligatoire","Taux de fibrinogène élevé","Thrombopénie inférieure à 100000/mm3 est un critère majeur","Diminution du taux de prothrombine inférieure à 50% est un critère majeur"],"correct_option_ids":[3]}
+],
+"2017": [
+{"question":"La CIVD est un trouble d'hémostase sévère, secondaire à : (Cochez la réponse juste.)","options":["Une activation systémique et excessive de fibrinolyse","Une activation systémique et excessive du temps vasculaire de l'hémostase primaire","Une activation systémique et excessive de la coagulation","Une activation systémique et excessive de l'adhésion plaquettaire"],"correct_option_ids":[2]},
+{"question":"Parmi les conséquences physiopathologiques de la CIVD, une conséquence est juste :","options":["La transformation du fibrinogène en fibrin","L'inactivation de l'agrégation plaquettaire","Une consommation des inhibiteurs de la coagulation, et non des facteurs de la coagulation","Une inhibition de la fibrinolyse"],"correct_option_ids":[0]}
+]
+},
+"2.2 Coagulopathie": {
+"2025": [
+{"question":"l'hémophilie : Cochez les propositions justes","options":["Est une coagulopathie acquise.","Est une coagulopathie congénitale","Est liée au chromosome X","Les filles sont conductrices"],"correct_option_ids":[1,2,3]},
+{"question":"Les articulations cibles de l'hémophilie sont :","options":["Genoux","Coudes","Hanches","Chevilles"],"correct_option_ids":[0,1,3]}
+]
+},
+"2.3 Dyskaliémies": {
+"2025": [
+{"question":"L'hyperkalémie est favoriser par les troubles suivants : Cocher la ou les proposition(s) juste(s)","options":["acidose métabolique","Hyperinsulinisme","insuffisance rénale chronique","Hypoaldosteronisme"],"correct_option_ids":[0,2,3]},
+{"question":"L'hyperkalémie se traduit l'ECG par les anomalies suivantes : Cocher la ou les proposition(s) juste(s)","options":["Des ondes T apiquées avec aspect en tante","Un allongement du PR","Un raccourcissement du QRS","Apparition de ronde U"],"correct_option_ids":[]}
+],
+"2024": [
+{"question":"Le traitement d'une hypokaliémie profonde et menaçante est la :","options":["Perfusion d'1g de Kcl en 3min","Perfusion de 3g de Kcl sur 4h","Perfusion du glucose a 30%+ insuline ordinaire 30 unites sur 3h","Dialyse"],"correct_option_ids":[1]},
+{"question":"Les signes ECG évocateurs de l'hyperkalémie sont :","options":["Onde T ample pointue dont l'amplitude est superieure a l'onde R","Onde T geante en « stalagmite » avec un debut a distance des QRS","Lors de l'hyperkalémie severe on a un ralentissement de la conduction et une reduction de l'automatisme","Lors de l'hyperkalémie severe on a un bloc auriculo ventriculaire de degre variable avec ondes"],"correct_option_ids":[0,1,2,3]}
+],
+"2023": [
+{"question":"Le traitement d'une hypokaliémie profonde et menaçante est la :","options":["Perfusion d'1gr de Kcl en 3 min","Perfusion de 3 gr de Kcl sur 4h","Perfusion du glucose a 30%+ insuline ordinaire 30 unites sur 3h","Dialyse en urgence avec transfusion sanguine"],"correct_option_ids":[1]},
+{"question":"Les signes cliniques suivants font partie du tableau clinique d'hypokaliémie sauf un. Lequel ?","options":["L'asthénie","La fatigabilité musculaire","La constipation rebelle","Les convulsions"],"correct_option_ids":[3]},
+{"question":"Quel est le signe évocateur de l'hyperaldostéronisme primaire ?","options":["Hypomagnésémie","Acidose métabolique","Hypokaliémie","Hypercalciurie"],"correct_option_ids":[2]},
+{"question":"Quelles sont parmi les situations suivantes celles qui peuvent être à l'origine d'une hyperkaliémie :","options":["L'hémolyse","Coup de chaleur","L'hypersécrétion d'insuline","L'intoxication digitalique"],"correct_option_ids":[0,3]}
+],
+"2022": [
+{"question":"Les signes cliniques suivants font partie du tableau clinique d'hypokaliémie sauf un. Lequel ? Cochez la réponse juste","options":["Asthénie","Fatigabilité musculaire","Constipation rebelle","Convulsions"],"correct_option_ids":[3]},
+{"question":"Quelles sont parmi les situations suivantes celles qui peuvent être à l'origine d'une hyperkaliémie ? Cochez les réponses justes","options":["Hémolyse","Coups de chaleur","Hypersécrétion d'insuline","Intoxication digitalique"],"correct_option_ids":[0,3]},
+{"question":"Le traitement d'une hyperkaliémie nécessite l'association de plusieurs moyens : Cochez la ou les réponses justes","options":["Le calcium","Le Kayexalate","Le mannitol","La dialyse"],"correct_option_ids":[0,1,3]}
+],
+"2019": [
+{"question":"Le traitement d'une hypokaliémie profonde et menaçante est la : Cochez la réponse juste","options":["Perfusion de 1g de Kcl en 3 min","Perfusion de 3 g de Kcl en 4 h","Perfusion du glucose à 30% + Insuline ordinaire 30 unités sur 3 h","Dialyse en urgence avec transfusion sanguine"],"correct_option_ids":[1]},
+{"question":"Parmi les mécanismes quels sont ceux qui favorisent le transfert intracellulaire du K+ : Cochez la ou les réponses justes","options":["pH diminué","Digitaliques","Insuline","Bêta 2 mimétiques"],"correct_option_ids":[2,3]}
+],
+"2018": [
+{"question":"L'hypokaliémie se manifeste sur l'ECG par : Cochez la réponse juste","options":["Sus-décalage du segment ST","Bloc auriculo-ventriculaire","Torsade de pointe","Bradycardie sinusale"],"correct_option_ids":[2]},
+{"question":"Parmi les propositions suivantes, une seule ne représente pas le traitement de l'hyperkaliémie :","options":["Gluconate ou chlorure de calcium","Captation digestive du potassium","Diurétique thiazidique","Épuration extrarénale"],"correct_option_ids":[2]}
+],
+"2017": [
+{"question":"Quelle est parmi les propositions suivantes celle qui peut être à l'origine d'une hyperkaliémie : Cochez la réponse juste","options":["Perfusion d'insuline","Hyperhydratation globale","Rhabdomyolyse","Perfusion de salbutamol"],"correct_option_ids":[2]},
+{"question":"L'hypokaliémie peut se traduire à l'ECG par : Cochez la réponse fausse","options":["Un sous-décalage du segment ST","Un élargissement de QRS","Une onde U","Un aplatissement de T"],"correct_option_ids":[1]},
+{"question":"Toutes les propositions suivantes au cours d'une hyperkaliémie sont justes sauf une laquelle :","options":["Onde T haute","Onde T asymétrique","Onde T pointue","Un élargissement de QRS"],"correct_option_ids":[1]},
+{"question":"Une hypokaliémie : Cochez la ou les réponses justes","options":["Expose à une torsade de pointe","Expose à une fibrillation ventriculaire","Potentialise la toxicité des digitaliques","Est irréversible"],"correct_option_ids":[0,1]},
+{"question":"Une hypokaliémie peut être responsable de : Cochez la ou les réponses justes","options":["Un raccourcissement de l'intervalle QT","D'ondes T amples pointues symétriques","De l'apparition d'une onde U","D'un bloc auriculo-ventriculaire de 1ere degré"],"correct_option_ids":[2,3]}
+]
+},
+"2.4 Physiologie de l'hémostase": {
+"2025": [
+{"question":"Un trouble de l'hémostase primaire comporte les éléments cliniques suivants sauf un :","options":["Un purpura","Des vabis","Des ecchymoses","Des hématomes"],"correct_option_ids":[3]}
+],
+"2024": [
+{"question":"Parmi les éléments suivants, quel est ou quels sont, celui ou ceux implique(s) dans l'hémostase primaire :","options":["Les facteurs de Von Willebrand","Le fibrinogène","Le facteur VIII de la coagulation","Les plaquettes"],"correct_option_ids":[0,1,3]},
+{"question":"Un déficit en facteur VII de la coagulation se traduit par : Cochez la proposition juste","options":["Un allogement du TCK (temps de céphaline active)","Un allogement du TQ (temps de Quiq)","Un taux de prothrombine élevé","Un allogement du temps d'adhésion plaquettaire"],"correct_option_ids":[1]}
+],
+"2023": [
+{"question":"La thrombine intervient dans : Cochez les propositions fausses","options":["La fibrinofomation","L'activation plaquettaire","L'amplification de la coagulation","La régulation négative de la plasmine"],"correct_option_ids":[3]},
+{"question":"Le foie synthétise : Cochez la ou les propositions justes","options":["Tous les facteurs de coagulation","L'antithrombine","Les protéines S et C","Uniquement des facteurs et des protéines vitamine K dépendants"],"correct_option_ids":[0,1,2]},
+{"question":"Parmi ces facteurs de la coagulation suivants, quel est le facteur qui n'est pas vitamine K dépendant :","options":["Facteur II","Facteur VII","Facteur X","Facteur XII"],"correct_option_ids":[3]}
+],
+"2022": [
+{"question":"Dans lesquelles de ces affections observe-t-on une thrombopénie : Cochez les réponses justes","options":["Coagulation intravasculaire","Maladie de Willebrand typique","Hypovitaminose K","Maladie de Biermer"],"correct_option_ids":[0,1,3]},
+{"question":"L'hémostase primaire met en jeu des acteurs principaux : Cochez les réponses justes","options":["Le sous-endothélium","Le facteur V","Le facteur de Willebrand","Les plaquettes sanguines"],"correct_option_ids":[0,2,3]},
+{"question":"La thrombine intervient dans : Cochez les réponses justes","options":["La fibrinofomation","L'activation plaquettaire","L'amplification de la coagulation","La régulation negative de la plasmine"],"correct_option_ids":[0,1,2]},
+{"question":"Le foie synthetise : Cochez les réponses justes","options":["Tous les facteurs de coagulation","L'antithrombine","Les proteines S et C","Uniquement des facteurs et des proteines vitamine K dependants"],"correct_option_ids":[1,2]},
+{"question":"Quels sont les facteurs Vit K dépendants : Cochez les réponses justes","options":["Facteur II","Facteur VII","Facteur X","Facteur XII"],"correct_option_ids":[0,1,2]}
+]
+}
+},
+"🩻 Radiologie" : {
+"3.1 Exploration radiologique du tube digestif": {
+"2025": [
+{"question":"L'ASP peut mettre en évidence les anomalies suivantes : Cochez la ou les proposition(s) juste(s)","options":["Pneumoperitoine","Niveaux hydro-aeriques","Lithiase biliaire radio-opaque","Appendicite"],"correct_option_ids":[0,1,2]},
+{"question":"Les signes de perforation digestive en imagerie comprennent les images suivantes : Cochez les propositions justes","options":["Pneumoperitoine","Pneumobile","Epanchement peritoneal","Absence de peristaltisme a l'echographie"],"correct_option_ids":[0,2]},
+{"question":"Les signes radiologiques d'un cancer colique au lavement baryte comprennent les caracteristiques suivantes. Cochez les propositions justes","options":["Lacune a contours irreguliers","Image en \"pomme croquee\"","Retraction parietale","Ulceration centrale"],"correct_option_ids":[0,1,2,3]}
+],
+"2024": [
+{"question":"A propos du lavement baryte (LB) :","options":["Est actuellement l'examen de choix dans l'analyse de la paroi colique","Permet l'analyse des haustrations coliques","L'aspect en trognon de pomme est caracteristique du cancer colo-rectal","La diverticulose se caracterise au LB par de multiples images d'addition tout au long du cadre colique"],"correct_option_ids":[1,2,3]},
+{"question":"Dans le TOGD (transit oeso-gastro-duodenal), l'ulcere de la petite courbure gastrique apparait comme:","options":["Un defile axial regulier","Une hypertrophie des plis gastriques","Une image d'addition.","Une niche"],"correct_option_ids":[2,3]},
+{"question":"La presence de niveaux hydro-aeriques sur L'ASP peut etre en rapport avec :","options":["Une occlusion Intestinale","-","-","-"],"correct_option_ids":[0,1,2,3]},
+{"question":"Parmi les interets d'une TDM abdominale sans injection du produit de contraste :","options":["Preciser les limites d'une masse tissulaire","Rechercher des lesions spontanément hyperdenses","Siege des structures anatomiques","Exploration de la paroi du tube digestif"],"correct_option_ids":[1,2]},
+{"question":"Sur un ASP de face réalisé debout, les signes traduisant une occlusion de type colique sont","options":["La presence de niveaux hydro-aériques plus hauts que larges","La presence de niveaux hydro-aériques de topographie centrale","La presence de niveaux hydro-aériques plus nombreux et centraux","Aucune de ces réponses n'est juste"],"correct_option_ids":[1,2]},
+{"question":"Une lacune est definie comme :","options":["Une image d'addition, reguliere, se raccordant a la lumiere par un collet","Une image de soustraction sessile ou pédiculaire","Une image de soustraction, entouree par le PCI","Une image d'addition se raccordant a la lumiere sans collet"],"correct_option_ids":[1]}
+],
+"2023": [
+{"question":"Dans le TOGD (transit oeso-gastro-duodenal), la stenose bénigne:","options":["Est un defile axial regulier","Est une dyskinesie","Est une image d'addition","Est une niche"],"correct_option_ids":[0]},
+{"question":"L'ASP ne permet pas de déceler : Cochez la ou les réponse(s) fausse(s)","options":["L'ileus reflexe","L'hémorragie digestive","La perforation des organes creux","Les lithiases cholestéroliques"],"correct_option_ids":[1,3]},
+{"question":"La présence d'un croissant clair sous phrénique droit présente les caractères suivants :","options":["Oriente vers une perforation d'un organe creux devant un tableau abdominal chirurgical","Son absence exclue de façon formelle une perforation digestive","Il n'a pas de valeur d'orientation dans le cas où le malade est en post opératoire précoce (pour une périnote appendiculaire)","Definit une aérobile"],"correct_option_ids":[0,2]},
+{"question":"Les structures anatomiques visibles sur le cliché d'ASP normal, sont :","options":["Psoas et les ombres rénales","Rachis et bassin","Voies biliaires","Moelle épinière"],"correct_option_ids":[0]},
+{"question":"Parmi les critères de réussite d'un ASP: Cochez la ou les réponse(s) fausse(s)","options":["Bonne visibilité du pôle supérieur des deux reins","Bonne visibilité du bord inférieur de la symphyse pubienne","Bonne visibilité du bord externes des deux psoas","... de flou géométrique"],"correct_option_ids":[0,1,2]},
+{"question":"Parmi les intérêts d'une TDM abdominale sans injection du produit de contraste :","options":["Préciser les limites d'une masse tissulaire","Rechercher des lésions spontanément hyperdensées","Siège des structures anatomiques","Exploration de l'os"],"correct_option_ids":[1,2,3]},
+{"question":"Quelles sont les indications de la TDM dans la pathologie abdominale ?","options":["Traumatismes","Detection des tumeurs","Exploration du colon","Exploration des vaisseaux"],"correct_option_ids":[0,1,2,3]},
+{"question":"Sur un ASP de face réalisé debout les signes traduisant une occlusion de type colique :","options":["La présence de niveaux hydro-aériques plus larges que hauts","La présence de niveaux hydro-aériques de topographie centrale","La présence de niveaux hydro-aériques plus nombreux et centraux","Aucune de ces réponses n'est juste"],"correct_option_ids":[3]},
+{"question":"Un ASP de face réalisé debout, les signes traduisant une occlusion intestinale de type grélique sont :","options":["La présence des niveaux hydro-aériques plus larges que hauts","La présence des niveaux hydro-aériques de topographie centrale","La présence des niveaux hydro-aériques plus nombreux et centraux","La présence d'un croissant clair sous phrénique droit"],"correct_option_ids":[0,1,2]},
+{"question":"Un diverticule est defini comme :","options":["Une image d'addition, reguliere, se raccordant a la lumiere par un collet","Une image de soustraction sessile ou pedicule","Une image de soustraction, entouree par le PCI","Une image d'addition se raccordant a la lumiere sans collet"],"correct_option_ids":[0]},
+{"question":"Une lacune au cours du lavement baryte est definie comme :","options":["Une image d'addition, reguliere, se raccordant a la lumiere par un collet","Une image de soustraction","Une image d'addition, entouree par le PCI","Une image d'addition se raccordant a la lumiere sans collet"],"correct_option_ids":[1]},
+{"question":"Une stenose oesophagienne maligne :","options":["Est un defile excentre","Est un defile irregulier","Se raccorde progressivement avec les segments sus et sous-jacent","Se raccorde a angle aigu avec les segments sus et sous-jacent"],"correct_option_ids":[0,1,3]}
+],
+"2022": [
+{"question":"L'ASP permet de deceler :","options":["L'occlusion intestinale aigue","Une piece de monnaie ingeree par un enfant","Le rein mastic","Les lithiases intra-vesicales de stase"],"correct_option_ids":[0,1,2,3]},
+{"question":"L'echo-endoscopie est un examen qui permet d'etudier :","options":["La paroi oesophagienne","La paroi gastrique","La paroi duodenale","La voie biliaire principale intra/pancreatique, le pancreas et la région péri-pancreatique immediate"],"correct_option_ids":[0,1,2,3]},
+{"question":"Le lavement opaque mono-contraste consiste a :","options":["L'injection intra-rectale d'une petite quantité de baryte epaisse suivie d'une insufflation d'air","-","Remplissage du colon par de l'eau tiede suivie d'une insufflation d'air","Remplissage du colon par de l'eau tiede sans insufflation d'air"],"correct_option_ids":[1]},
+{"question":"Sur le TO (transit oesophagien), une stenose excentrée, irregulière se raccordant de façon aigue avec les segments sus et sous-jacents, est une :","options":["Sténose peptique","Sténose caustique","Sténose néoplasique","Lésion de RGO (reflux gastro-œsophagien)"],"correct_option_ids":[2]},
+{"question":"Une lacune est definie comme :","options":["Une image d'addition, reguliere, se raccordant a la lumiere par un collet","Une image de soustraction sessile ou pedicule","Une image de soustraction, entouree par le PCI","Une image d'addition se raccordant a la lumiere sans collet"],"correct_option_ids":[1,2]}
+],
+"2021": [
+{"question":"ASP ne permet pas de deceler ; cochez les reponses fausses :","options":["L'ileus reflexe","L'hemorragie digestive","La perforation des organes creux","Les lithiases cholesteroliques"],"correct_option_ids":[1,3]},
+{"question":"L'entéroscanner est une technique scanographique permettant l'étude des intestins grace à ; cochez la réponse juste :","options":["Une acquisition hélicoidale + entéroclose a l'eau","Une acquisition en 3D + entéroclose a l'eau","Une acquisition en 3D + lavement évacuateur","Une acquisition hélicoidale + ingestion de la baryte"],"correct_option_ids":[0]},
+{"question":"La présence de niveaux hydro-aériques sur l'ASP peut être en rapport avec ; cochez les réponses justes :","options":["Une occlusion intestinale","Un iléus paralyique","Une diarrhée aiguë","Un trouble des éléments électrolytiques"],"correct_option_ids":[0,1,2,3]},
+{"question":"Parmi les intérêts d'une TDM abdominales sans injection de produit de contraste ; cochez les réponses justes :","options":["Préciser les limites de la masse tissulaire.","Rechercher des lésions spontanément hyperdenses.","Siège des structures anatomiques.","Exploration de l'os."],"correct_option_ids":[1,2,3]},
+{"question":"Sur un abdomen sans préparation ; l'occlusion grélique se manifeste par des niveaux hydro-aériques ; cochez les réponses justes :","options":["Plus larges que hauts.","Plus hauts que larges.","Centraux.","Multiples."],"correct_option_ids":[0,2,3]},
+{"question":"Un diverticule est défini comme","options":["Une image d'addition ; reguliere ; se raccordant a la lumiere par un collet.","Une image de soustraction.","Une image lacunaire ; entouree par le PCI.","Une image d'addition se raccordant a la lumiere sans collet."],"correct_option_ids":[0,3]},
+{"question":"Une stenose oesophagienne benigne ; cochez les reponses justes :","options":["Est un defile axial ; central.","Est un defile regulier.","Se raccorde progressivement avec les segments sus et sous-jacent.","Se raccorde a angle aigu avec les segments sus et sous-jacent."],"correct_option_ids":[0,1,2]}
+],
+"2019": [
+{"question":"L'exploration du grele par le transit du grele necessite : (Cochez la ou les reponse(s) justes.)","options":["Preparation de l'intestin grele par les laxatifs.","Jeun de 12 heures avant l'examen.","Premedication.","Lavement evacuateur le jour de l'examen.","Malade doit manger le matin avant l'examen."],"correct_option_ids":[0,1]}
+],
+"2018": [
+{"question":"Caractéristiques d'une stenose colique d'origine inflammatoire : (Cochez la ou les reponse(s).)","options":["Angle de raccordement aigu avec le segment d'amont.","Angle de raccordement aigu avec le segment d'aval.","Stenose centrée.","Dilatation du segment d'amont toujours présente."],"correct_option_ids":[1,2]},
+{"question":"En cas de maladie de Crohn : l'examen de choix pour la surveillance :","options":["Echographie abdominale.","Entero IRM.","Entero scanner.","Transit du grêle."],"correct_option_ids":[1]},
+{"question":"Le diagnostic de l'atresie duodénale : (Cochez la ou les réponse(s) justes.)","options":["Aspect en double bulle à l'ASP.","Absence d'aération gastrique.","Épreuve à la sonde gastrique et à la seringue","Absence d'aération des anses digestives."],"correct_option_ids":[0,3]},
+{"question":"Les critères de réussite d'un ASP : (Cochez la ou les réponse(s) justes.)","options":["Bonne visibilité des corps vertébraux.","Ombre rénale visible.","Bord interne du psoas visible.","Visibilité des coupoles diaphragmatiques."],"correct_option_ids":[1,3]},
+{"question":"Les lésions élémentaires d'une image de soustraction au TOGD : (Cochez la ou les réponse(s) justes.)","options":["Polype.","Fistule.","Ulcere.","Tumeur bourgeonnante."],"correct_option_ids":[0,3]},
+{"question":"Les niveaux hydro-aréiques d'origine grelique sont :","options":["Plus haut que large.","Distribution centrale.","Plus large que haut.","Distribution peripherique."],"correct_option_ids":[1,2]}
+],
+"2017": [
+{"question":"Au TOGD : si risque de fuite de baryte dans le peritoine on utilise : (Cochez la ou les réponse(s) justes.)","options":["Les hydrosolubles.","L'eau.","Le produit de contraste iode.","L'opacification est contre-indiquee."],"correct_option_ids":[0]},
+{"question":"Caractéristiques d'une sténose colique maligne : (Cochez la ou les réponse(s) justes.)","options":["Angle de raccordement aigu avec le segment d'amont.","Angle de raccordement aigu avec le segment d'aval.","Opacification heterogene.","Dilatation du segment d'amont toujours presente."],"correct_option_ids":[0,2]},
+{"question":"Le diagnostic de l'atresie de l'œsophage : (Cochez la ou les réponse(s) justes.)","options":["Aspect en double bulle à l'ASP","Absence d'aération gastrique.","Epreuve à la sonde gastrique et à la seringue.","Absence toujours d'aération des anses digestives"],"correct_option_ids":[1,2]},
+{"question":"Les lesions élémentaires d'une image d'addition au TOGD : (Cochez la ou les réponse(s) justes.)","options":["Polype.","Diverticule.","Ulcere.","Fistule."],"correct_option_ids":[1,2,3]},
+{"question":"Parmi les interets de la TDM abdominale sans injection de produit de contraste : (Cochez la ou les réponse(s) justes.)","options":["Precise les lesions tumorales.","Recherche des calcifications.","Siege des structures anatomiques.","Detection des lesions hemorragiques."],"correct_option_ids":[1,3]},
+{"question":"Chez un caustique, le produit de contraste utilisé pour une opacification digestive est : (Cochez la ou les réponse(s) justes.)","options":["Gadolinium.","Baryte.","Produit de contraste hydrosoluble.","Baryte diluée."],"correct_option_ids":[2]},
+{"question":"Sur un transit caso-astro-duodénal ; une sténose oesophagienne maligne a les caractéristiques suivantes : (Cochez la ou les réponse(s) justes.)","options":["Excentrée.","Se raccorde de façon progressive avec les segments sus et sous-jacents.","Régulière.","Homogène."],"correct_option_ids":[0]},
+{"question":"Un transit caso-astro-duodénal peut mettre en évidence une hypertrophie de : (Cochez la ou les réponse(s) justes.)","options":["L'oreillette gauche.","L'oreillette droite.","Le ventricule droit.","Le ventricule gauche."],"correct_option_ids":[0]}
+]
+},
+"3.2 Imagerie de foie et des voies biliaires et du pancréas": {
+"2025": [
+{"question":"Dans la pancréatite chronique, on peut observer sur les examens d'imagerie les anomalies suivantes : Cochez la ou les proposition(s) juste(s)","options":["Des calcifications pancréatiques au scanner","une atrophie pancréatique","une dilatation du canal de Wirsung","Une hypodensité homogène"],"correct_option_ids":[0,1,2]}
+],
+"2024": [
+{"question":"Cochez la ou les proposition(s) fausse(s)","options":["La contracture abdominale est une contraction diffuse des muscles abdominaux déclenchée par la palpation","La maladie de Cushing est l'une des étiologies des vergetures","Une hypocalcémie sévère et l'occlusion intestinale aiguë sont parmi les étiologies de l'iléus paralytique","La hernie ombilicale est la hernie la plus fréquente dans la population générale"],"correct_option_ids":[0,2,3]},
+{"question":"Concernant l'exploration biochimique du pancréas exocrine:","options":["La lipasémie n'a aucun intérêt dans le diagnostic de la pancréatite aiguë","L'amylasémie est toujours normale au cours d'une pancréatite chronique","Le test au dilaurate de fluorescène <20% de la quantité ingérée, est en faveur d'une insuffisance pancréatique","L'amylasémie sérique peut augmenter en l'absence d'affections pancréatiques"],"correct_option_ids":[2,3]},
+{"question":"L'aéroportie :","options":["Signifie la présence anormale de l'air dans les voies biliaires","Signifie la présence anormale de lithiases dans le système porte","Se traduit par des clartés branchées se projetant dans l'hypochondre droit","Aucune de ces réponses n'est juste"],"correct_option_ids":[2]},
+{"question":"L'ictère secondaire à une hyperhémolyse se traduit par les anomalies biologiques suivantes: Cochez la ou la proposition(s) Juste(s)","options":["Une anémie normochrome normocytaire","Un taux de réticulocyte supérieur à 120000 éléments/mm3","Un taux plasmatique de l'enzyme lactinodéhydrogénase (LDH) élevé","Un taux plasmatique haptoglobine bas"],"correct_option_ids":[0,1,2,3]},
+{"question":"Les occlusions mécaniques par obstruction de la lumière intestinale surviennent suite à : Cochez la ou les proposition(s) fausse(s)","options":["Un rétrécissement de la lumière intestinale par un épaississement Inflammatoire de la paroi","Une bride postopératoire","Une tumeur bénigne ou maligne de la paroi intestinale","Une compression de l'intestin par une lésion extrinsèque"],"correct_option_ids":[1]},
+{"question":"Parmi les etiologies possibles des rectorragies abondantes","options":["Un ulcere gastroduodenale","Une rectocolite hemorragique","Une hemorragie provenant des voies biliaires","Une maladie hemorroidaire"],"correct_option_ids":[0,1,2,3]}
+],
+"2023": [
+{"question":"L'aérobilie : (Cochez la réponse juste.)","options":["Signifie la présence anormale de l'air dans les voies biliaires","Signifie la présence anormale de lithiases dans les voies biliaires","Oriente vers une éventuelle fistule bilio-digestive","Se traduit par des clartés branchées se projetant dans l'hypochondre droit"],"correct_option_ids":[0]},
+{"question":"Parmi les signes de la pancréatite aiguë à l'imagerie : (Cochez la réponse juste.)","options":["Une atrophie pancréatique","La présence de calcifications","La présence de collections liquidiennes péri-pancréatiques","Des plages de nécrose pancréatique non rehaussées en TDM"],"correct_option_ids":[2,3]},
+{"question":"Parmi les signes de la pancréatite chronique aux examens radiologiques: (Cochez la réponse juste.)","options":["Une atrophie pancréatique","La présence de calcifications","La présence de collections liquidiennes péri-pancréatiques","Des plages de nécrose pancréatique non rehaussées en TDM"],"correct_option_ids":[0,1]}
+],
+"2022": [
+{"question":"Au cours de la pancréatite aiguë : (Cochez la réponse juste.)","options":["Le scanner abdominal est réalisé en extrême urgence","Le scanner abdominal est réalisé 24h après le début de la symptomatologie","La TDM abdominale en urgence permet de poser le diagnostic positif","La TDM abdominale est réalisée 72h après le début de la symptomatologie"],"correct_option_ids":[3]},
+{"question":"L'ASP ne permet pas de déceler : (Cochez la réponse juste.)","options":["L'aérobilie","L'aéroportie","La perforation des organes creux","Les épaississements digestifs"],"correct_option_ids":[3]},
+{"question":"La bili-IRM est une technique d'imagerie des vaisseaux biliaires : (Cochez la réponse juste.)","options":["Invasive avec ponction directe des VBIH","Non invasive, sans ponction directe des VBIH","Nécessitant l'injection d'un produit de contraste type GADO","Se fait à l'aide d'un repérage"],"correct_option_ids":[1]},
+{"question":"Le kyste biliaire du foie est : (Cochez la réponse juste.)","options":["Une lesion hepatique focale en hyposignal T2 et hypersignal T1 sur l'IRM","Une lesion hepatique focale de densite entre 0 UH et 20 UH sur la TDM","Un kyste hydatique anchegone homogene a renforcement posterieur sur l'echographie","Une lesion kystique focale rehaussee sur l'echographie de contraste"],"correct_option_ids":[1]}
+],
+"2021": [
+{"question":"La bili-IRM est une technique d'imagerie des vaisseaux biliaires : (Cochez la réponse juste.)","options":["Invasive avec ponction directe des VBIH","Non invasive ; sans ponction directe des VBIH","Nécessitant l'ingestion d'un produit de contraste","Se fait à l'aide d'un repérage scannographique"],"correct_option_ids":[1]},
+{"question":"Le calcul vesiculaire apparait en echographie comme : (Cochez la réponse juste)","options":["Image hypoechogene avec cone d'ombre posterieur","Image hyperechogene avec cone d'ombre posterieur","Image hyperechogene sans cone d'ombre posterieur","Image hyperechogene avec attenuation conique posterieure"],"correct_option_ids":[1,3]},
+{"question":"Parmi les signes de la pancreatite chronique aux examens radiologiques : (Cochez la réponse juste.)","options":["Une atrophie pancréatique","La presence de calcifications","La presence de collections liquidiennes peri-pancreatiques","Des plages de necrose pancreatiques non rehaussees en TDM"],"correct_option_ids":[0,1]}
+],
+"2018": [
+{"question":"L'angiome hepatique typique se traduit par : (Cochez la ou les reponses justes)","options":["Image anchegène à l'échographie","Lesion mal limite","Formation nodulaire avec rehaussement precoce en peripherie avec remplissage progressif à la TDM + PC","Formation hyperechogene homogene à l'echographie"],"correct_option_ids":[0,3]},
+{"question":"Douleur épigastrique aiguë avec antécédents de lithiase vésiculaire, diagnostic le plus probable : (Cochez la ou les réponses justes)","options":["Perforation d'ulcere gastrique","Infarctus mesenterique","Pancreatite aigue","Stenose de pylore"],"correct_option_ids":[2]},
+{"question":"Ictère cutanéo-muqueux, l'intérêt de l'échographie : (Cochez la ou les réponses justes.)","options":["Recherche une dilatation des voies biliaires","Recherche des lithiases vésiculaires","Exploration de la queue du pancreas","Recherche des signes de cirrhose"],"correct_option_ids":[0,1,3]},
+{"question":"Un kyste biliaire se représente comme : (Cochez la ou les réponses justes.)","options":["Image anecogene a l'echographie","Lesion mal limitee","Formation hypodense de densite liquidienne a la TDM sans prise de contraste","Formation hyperechogene homogene a l'echographie"],"correct_option_ids":[0,2]}
+],
+"2017": [
+{"question":"La sequence specifique pour exploration des voies biliaires :","options":["Sequence T2 FATSAT","Sequence T1 EG","Sequence T1 EG + injection de gadolinium","Sequence BILI en 3D forte ponderation T2"],"correct_option_ids":[3]},
+{"question":"La technique de TDM hepatique la plus fiable :","options":["TDM avec quatre acquisitions (sans et avec IPC (temps arteriel, portal et tardif))","TDM avec trois acquisitions (sans et avec IPC (temps arteriel, portal))","TDM avec trois acquisitions avec injection de pc (IPC) (temps arteriel, portal et tardif)","TDM avec deux acquisitions (sans et avec IPC (temps portal))"],"correct_option_ids":[0]},
+{"question":"Un angiome hepatique se presente comme : (Cochez la ou les reponses justes.)","options":["Image anchegène à l'échographie","Lesion mal limite","Formation nodulaire avec rehaussement precoce en peripherie avec remplissage progressif à la TDM + PC","Formation hyperechogene homogene à l'echographie"],"correct_option_ids":[2,3]},
+{"question":"La fleche hepatique sur la ligne medio-claviculaire est : (Cochez la ou les reponses justes.)","options":["11 à 12 cm","12 à 13 cm","12 à 15 cm","11 à 13 cm"],"correct_option_ids":[2]},
+{"question":"Le diagnostic de gravité de la pancréatite aiguë se fait par : (Cochez la ou les reponses justes.)","options":["Une echographie","Un scanner en urgence","Une TDM 48 à 72 heures","Une IRM à 48 h"],"correct_option_ids":[2]},
+{"question":"Le foie est divisé en : (Cochez la ou les reponses justes.)","options":["5 segments","6 segments","7 segments","8 segments"],"correct_option_ids":[3]},
+{"question":"Une stéatose hepatique est : (Cochez la ou les reponses justes.)","options":["Hypoechogene en echographie","Hypo dense en TDM","Toujours diffuse","Parfois localisee"],"correct_option_ids":[1,3]}
+]
+}
+},
+"Semiologie": {
+"4.1 Adénopathies": {
+"2025": [
+{"question":"Parmi les circonstances de decouverte suivantes, quelles sont celles évocatrices d'adénopathies profondes médiastinales:","options":["Un syndrome cave superieur","Une circulation veineuse collaterale thoracique","Des douleurs abdominales","Des troubles digestives"],"correct_option_ids":[0,1]},
+{"question":"Une adénopathie axillaire peut poser un diagnostic différentiel avec :","options":["Une hernie inguinale","Une hidradénite","Un kyste thyroidien","Un lipome"],"correct_option_ids":[1]}
+],
+"2023": [
+{"question":"Devant une adénopathie cervicale d'apparition récente, que faites-vous :","options":["Hemogramme : NFS et frottis sanguin","Biopsie ganglionnaire","TDM thoraco-abdominale a la recherche d'adénopathies profondes","Rechercher une hépatomégalie"],"correct_option_ids":[0]},
+{"question":"Quelles sont les caractéristiques des adénopathies métastatiques des tumeurs solides? Cochez la proposition juste","options":["Dures, adherentes aux plans sous-jacents","Molles avec un point de fistulation","Douloureuses, chaudes avec réaction de péridénite","Bilatérales et symétriques touchant toutes les autres aires ganglionnaires"],"correct_option_ids":[0]}
+],
+"2020": [
+{"question":"Les adénopathies sus-claviculaires gauches drainent :","options":["Le tube digestif.","Le rein.","Le pelvis et les testicules.","Le sinus et la thyroide."],"correct_option_ids":[0,1,2]},
+{"question":"Les ganglions cervicaux sont composés des :","options":["Ganglions sus-claviculaires.","Ganglions sous-mentonniers.","Ganglions sous-maxillaires.","Ganglions axillaires"],"correct_option_ids":[0,1,2]}
+],
+"2019": [
+{"question":"Les adenopathies axillaires drainent :","options":["Le sein.","La paroi thoracique.","Le membre superieur.","Les organes genitalux externes."],"correct_option_ids":[0,1,2]},
+{"question":"Les adenopathies sont dites locoregionales :","options":["Lorsqu'elles sont localisees a une aire ganglionnaire.","Lorsqu'elles occupent plusieurs aires du meme cote du diaphragme.","Lorsqu'elles sont reparties de part et d'autre du diaphragme.","Lorsque la rate est augmentee de volume."],"correct_option_ids":[1]},
+{"question":"Les ganglions cervicaux drainent :","options":["Le cuir chevelu.","La thyroide.","La sphere oto-rhino-laryngee.","Le mediastin."],"correct_option_ids":[0,1,2]},
+{"question":"Les organes lymphoides primaires sont :","options":["La moelle osseuse.","Le ganglion.","La rate.","Le thymus."],"correct_option_ids":[0,3]},
+{"question":"Chez un patient qui presente des adenopathies generalisees avec fiivre et syndrome hemorragique evoluant depuis une semaine ; le premier examen a pratiquer est :","options":["Une ponction ganglionnaire.","Une biopsie ganglionnaire.","Un hemogramme.","Une echographie abdominale.","Un scanner thoracique."],"correct_option_ids":[2]},
+{"question":"Chez une patiente de 30 ans qui presente une adenopathie sus-claviculaire droite ; le premier examen a pratiquer est :","options":["Un teléthorax.","Une ponction ganglionnaire","Une échographie abdominale.","Un hémogramme"],"correct_option_ids":[1]},
+{"question":"Chez un patient qui consulte pour des adenopathies cervicales basses évoluant depuis deux mois ; le bilan de première intention est le suivant sauf :","options":["Hémogramme.","Ponction ganglionnaire.","Bilan rénal.","Intradermo réaction à la tuberculine."],"correct_option_ids":[0]}
+]
+},
+"4.2 Anémie et hematimetrie": {
+"2025": [
+{"question":"Dans une anémie hemolytique tous les éléments suivants sont retrouvés sauf un","options":["Un taux de réticulocytes >120.000/mm3","Une hyperbilirubinémie mixte","Un taux de LDH élevé","Une haptoglobine diminuée."],"correct_option_ids":[1]},
+{"question":"La formule de numeration et le taux de réticulocytes d'un patient sont comme suit: GB: 10000/mm²; GR: 3500 000/mm3; Hb: 8,5 gr/dl, Plaquettes: 190 000/mm3 Taux de réticulocytes: 5%, l'anémie est dans ce cas:","options":["Regenerative peripherique","Regenerative centrale","Regenerative centrale","Regenerative peripherique"],"correct_option_ids":[2]},
+{"question":"Le bilan etiologique de l'anémie nécessite la connaissance d'un parametre parmi les suivants, lequel?","options":["Taux d'hemoglobine","Le taux de globule rouge","Le VGM","Le taux de globules blancs"],"correct_option_ids":[2]},
+{"question":"Les cellules mure la lignée myeloide sont les suivants sauf une, laquelle","options":["Les globules rouges","Les lymphocytes B","Les plaquettes","les polynucleaires neutrophiles"],"correct_option_ids":[1]}
+],
+"2024": [
+{"question":"Les signes d'intolerance cardiaque d'une anémie sont : Cochez la ou les proposition(s) fausse(s)","options":["Tachycardie","Hypotension","Dyspnée","Asthenie"],"correct_option_ids":[3]},
+{"question":"Une anémie régénérative est définie par :","options":["Un taux de réticulocyte <120000/mm3","Un taux de réticulocyte >120000/mm3","Un VGM","Une CCMH < 32%"],"correct_option_ids":[1]},
+{"question":"Cochez la ou les proposition(s) fausse(s)","options":["Le toucher rectal se fait le plus souvent en position genu pectorale","Le toucher rectal peut explorer le bas, moyen et haut rectum","Le toucher rectal permet de palper la prostate à travers la paroi antérieure du rectum","Le toucher rectal permet de palper une masse dure à surface irrégulière en cas d'un adénome de la prostate"],"correct_option_ids":[1,3]},
+{"question":"Dans le purpura fulminant, toutes ces propositions sont justes hormis une, laquelle ?","options":["Le germe en cause est en general le meningocoque","Des troubles de la conscience peuvent se voir","Il n'existe jamais de syndrome meninge associe","Le purpura est souvent extensif"],"correct_option_ids":[2]},
+{"question":"L'anemie chez la femme enceinte est definie comme :","options":["Un taux d'hemoglobine <10.5 g/dl","Un taux d'hemoglobine <13 g/dl","Un taux d'hemoglobine <14 g/dl","Un taux d'hemoglobine <12 g/dl"],"correct_option_ids":[1,2]},
+{"question":"L'anemie chez la femme enceinte est definie comme :","options":["Un taux d'hemoglobine <10.5 g/dl","Un taux d'hemoglobine <13 g/dl","Un taux d'hemoglobine <14 g/dl","Un taux d'hemoglobine <12 g/dl"],"correct_option_ids":[0]},
+{"question":"L'hepatite virale A presente les caracteres suivants :","options":["La phase Incubation dure de 2 a 4 jours","Le diagnostic positif repose sur la mise en evidence d'anticorps anti VHA d'isotype IgM","Elle est souvent asymptomatique et benigne","Elle evolue parfois a la chronicite"],"correct_option_ids":[1,2]},
+{"question":"La paleur cutaneo-muqueuse au cours de l'anemie est : (Cochez la proposition fausse)","options":["Generalisee","Cutanee et muqueuse","Nette au niveau de la coloration ungueale et les conjonctives","Identique chez tous les patients"],"correct_option_ids":[3]},
+{"question":"La paleur cutaneo-muqueuse au cours de l'anemie est : (Cochez la proposition fausse)","options":["Generalisée","Cutanée et muqueuse","Nette au niveau de la coloration unguéale et les conjonctives","Identique chez tous les patients"],"correct_option_ids":[3]},
+{"question":"Le diagnostic différentiel d'une splénomégalie se pose avec :","options":["Tumeur du rein droit","Tumeurs médiastinales","Masses de l'angle colique gauche","Tumeurs de la queue du pancréas"],"correct_option_ids":[2,3]},
+{"question":"Les caractères suivants correspondent à la description sémiologique d'une diarrhée motrice sauf un caractère. Lequel ?","options":["Les selles liquidiennes surviennent typiquement le soir","Les selles surviennent en postprandial","Les selles sont impérieuses, groupées en salves","Les selles contiennent des débris alimentaires"],"correct_option_ids":[0]},
+{"question":"Les pétéchies sont : Cochez la ou les proposition(s) fausse(s)","options":["Des ponctuations pourpres planes en tête d'épingle","Des placards bleu-violacés","Des stries ecchymotiques allongé","Predominantes au niveau des zones dechives"],"correct_option_ids":[1,2]},
+{"question":"Les signes d'intolérance cardiaque d'une anémie sont : Cochez la ou les proposition(s) fausse(s)","options":["Tachycardie","Hypotension","Dyspnée","Asthénie"],"correct_option_ids":[0]},
+{"question":"Les signes d'intolérance cardiaque d'une anémie sont : Cochez la ou les proposition(s) fausse(s)","options":["Tachycardie","Hypotension","Dyspnée","Asthénie"],"correct_option_ids":[0]},
+{"question":"Quelles sont les situations responsables d'une anémie d'origine centrale :","options":["Anémie ferriprive","Hémorragie aiguë","Leucémie aiguë","Hyperémolyse"],"correct_option_ids":[0,2]},
+{"question":"Une anémie régénérative est définie par : Cochez la proposition juste","options":["Un taux de réticulocytes <120 000/mm³","Un taux de réticulocytes >120 000/mm³","Un VGM >100 fL","Une CCMH <32%"],"correct_option_ids":[1]},
+{"question":"Une anémie régénérative est définie par : Cochez la proposition juste","options":["Un taux de réticulocyte <120000/mm³","Un taux de réticulocyte >120 000/mm³","Un VGM >100 fL","Une CCMH <32%"],"correct_option_ids":[0,2]},
+{"question":"Une hépatomégalie tumorale présente les caractères suivants : Cochez la ou les proposition(s) fausse(s)","options":["Peut être diffuse ou localisée","Elle est mobile avec les mouvements respiratoires","Elle est sensible à la palpation","Elle est de consistance ferme à la palpation"],"correct_option_ids":[1,3]},
+{"question":"Une insuffisance hépatocellulaire peut se manifester par : Cochez la ou les proposition(s) fausse(s)","options":["Un ictère","Des angiomes stellaires","Par un hypocratisme digital","Une circulation veineuse collatérale"],"correct_option_ids":[3]},
+{"question":"Les signes d'intolérance cardiaque d'une anémie sont :","options":["Tachycardie.","Hypotension.","Dyspnée.","Asthénie."],"correct_option_ids":[0,1,2]},
+{"question":"Quel est l'intérêt du taux de réticulocytes ? Cochez les réponses justes","options":["Il exprime la profondeur d'une anémie.","Il détermine le mécanisme de l'anémie.","Il exprime le caractère régénératif ou non d'une anémie.","Les réponses A, B et C sont justes."],"correct_option_ids":[3]},
+{"question":"Quelles sont les situations responsables d'une anémie d'origine centrale : Cochez les réponses justes","options":["Anémie ferriprive.","Hémorragie aiguë.","Leucémie aiguë.","Hyperémolyse."],"correct_option_ids":[0,1]}
+],
+"2020": [
+{"question":"Une poikylocytose au frottis sanguin correspond à la présence :","options":["De globules rouges de petite taille.","De globules rouges de grande taille.","De microcytose et macrocytose.","De globules rouges de toutes formes : en croissant ou drépanocyte, sphérocytes, cellules en larme."],"correct_option_ids":[3]}
+],
+"2019": [
+{"question":"Dans une anémie l'anisocytose est un caractère cellulaire qui correspond à la présence au frottis sanguin de globules rouges :","options":["De petite taille.","De grande taille.","De toute forme.","Hypochrome."],"correct_option_ids":[0]},
+{"question":"Dans une anémie la poikylocytose est un caractère cellulaire qui correspond à la présence au frottis sanguin de globules rouges :","options":["De petite taille.","De grande taille.","De toute forme.","Très hypochrome."],"correct_option_ids":[2]},
+{"question":"L'anémie se définit par :","options":["Une pâleur cutanée-muqueuse.","Une diminution du taux d'hémoglobine.","Une diminution du taux des globules rouges.","Une diminution du taux d'hématocrite."],"correct_option_ids":[1]},
+{"question":"La tolérance de l'anémie dépend :","options":["De la rapidité d'installation.","De la profondeur de l'anémie.","Du taux associé des globules blancs.","De l'état cardio-vasculaire."],"correct_option_ids":[0,1,3]},
+{"question":"Des réticulocytes sanguins supérieurs à 120.000/mm² se retrouvent lors :","options":["D'anémie par carence martiale.","D'anémie hémolytique par déficit en G6PD.","D'une anémie hémolytique auto-immune (AHAI).","D'une aplasie médullaire.","D'une maladie de Minkowski-Chauffard en poussée."],"correct_option_ids":[1,2,4]},
+{"question":"La beta-thalassémie se caractérise par :","options":["Une langue dépaillée.","Un ictère.","Les crises d'hémolyses sont favorisées par les infections.","Une splénomégalie.","A l'électrophorèse de l'hémoglobine : Hb F majoritaire."],"correct_option_ids":[0,1,2,3,4]},
+{"question":"La drépanocytose homozygote se caractérise par :","options":["Des crises douloureuses vaso-occlusives.","Le taux de réticulocytes est inférieur à 25000/mm².","Au frottis sanguin : des drépanocytes.","Les crises d'hémolyses sont déclenchées par l'ingestion de fèves.","Le traitement repose sur la supplémentation en fer."],"correct_option_ids":[0,1,2]},
+{"question":"Lors d'une carence martiale ; on retrouve :","options":["Syndrome anémique+les signes de l'hyposidérémie.","Une glossite atrophique.","Une microcytose des hématies.","Une kollonychie.","Une ferritine augmentée."],"correct_option_ids":[0,2,3]},
+{"question":"Lors d'une maladie de Biermer ; on retrouve :","options":["Une microcytose des hématies.","Une macrocytose des hématies.","Une hyper réticulocytose sanguine.","Déficit en vit B12."],"correct_option_ids":[1,3,4]},
+{"question":"Quelles causes suivantes d'anémie sont liées à un mécanisme central :","options":["Insuffisance rénale par déficit en érythropoïétine.","Hémolyse aiguë extra corpusculaire.","Carence martiale.","Syndrome myélodysplasique.","Leucémie aiguë."],"correct_option_ids":[0,2,3,4]},
+{"question":"Quelles sont les étiologies possibles d'une carence martiale ?","options":["Maladie céliaque.","Un fibrome utérin.","Un défaut d'absorption post chirurgical.","Saignement digestif.","Syndrome drépanocytaire majeure."],"correct_option_ids":[0,1,2,3]},
+{"question":"Quels sont les éléments du syndrome anémique ?","options":["Pâleur.","Bradycardie.","Souffle diastolique éjectionnel.","Vertige.","Céphalée."],"correct_option_ids":[0,3,4]},
+{"question":"Une « fausse anémie » par hemodilution est habituelle au cours de quelques situations qui sont :","options":["La grossesse.","Les déshydratations par diarrhée importante.","L'insuffisance rénale.","Splénomégalie volumineuse.","Les déficits en vitamine B12."],"correct_option_ids":[0,1,3]},
+{"question":"Une anémie macrocrytaire doit faire rechercher :","options":["Une carence en folates.","Une carence martiale.","Un syndrome myélodysplasique.","Une cirrhose éthylique.","Une insuffisance thyroidienne."],"correct_option_ids":[0,2,3,4]}
+],
+"2017": [
+{"question":"L'anémie se définit par :","options":["Une pâleur intense avec dyspnée.","Un taux d'hématocrite à la limite inférieure de la normale.","Une baisse de la masse de l'hémoglobine circulante ; au dessus des valeurs normales.","Un taux de l'hémoglobinémie fonctionnelle au dessous des valeurs normales selon l'age ; le sexe ; et l'ethnie."],"correct_option_ids":[3]},
+{"question":"Le taux de réticulocytes est un élément sémiologique biologique de l'anémie ; il est caractérisé par :","options":["Hématies les plus jeunes (1%) ; valeur normale 25 à 75000/mm3.","Rôle dans la classification des anémies microcytaires.","120000 Ret =A. Régénérative.","120000 Ret =R. Régénérative."],"correct_option_ids":[0]}
+],
+"2015": [
+{"question":"Après centrifugation d'un tube de sang avec anti-coagulant ; nous obtenons :","options":["Une couche de plasma.","Une couche de précurseurs de globules blancs.","Une couche de précurseurs des plaquettes.","Une couche de monocyte."],"correct_option_ids":[2]},
+{"question":"Chez un patient de 60 ans ; la formule de numération sanguine retrouve les globules blancs à 2499/mm3 ; c'est :","options":["Une hyper-leucocytose.","Une hyper-lymphocytose.","Une leucopénie.","Une lymphopénie."],"correct_option_ids":[1]},
+{"question":"Interpréter l'hémogramme suivant : GB=6300/mm3 ; GR=3.6 million/mm³ ; Hb=8.5g/dl ; Ht=30% ; VGM=65 femtolitre ; CCMH=27% ; plaquettes =525G/l ; réticulocytes =1% :","options":["Anémie microcytaire hypochrome arégénérative.","Anémie microcytaire hypochrome arégénérative + leucopénie.","Anémie microcytaire hypochrome arégénérative + leucopénie + thrombocytose.","Anémie microcytaire hypochrome arégénérative + thrombocytose."],"correct_option_ids":[3]},
+{"question":"Interpréter l'hémogramme suivant : GB=8000/mm3 ; GR=2.45 million/mm³ ; Hb=8.2g/dl ; Ht=23.2% ; VGM=80 femtolitre ; CCMH=33.4% ; plaquettes =21000/mm3 ; réticulocytes =0.5% :","options":["Anémie microcytaire hypochrome arégénérative.","Anémie microcytaire hypochrome régénérative.","Anémie macrocytaire hypochrome arégénérative.","Anémie normocytaire normochrome arégénérative."],"correct_option_ids":[3]},
+{"question":"Le rapport (hématoctrite/taux de globules rouges) x100 correspond :","options":["Au volume globulaire moyen (VGM).","A la concentration corpusculaire moyenne en hémoglobine (CCMH).","Hématoctrite.","Au taux d'hémoglobine."],"correct_option_ids":[0]},
+{"question":"Le rapport (hématoctrite/taux de globules rouges) x10 correspond :","options":["A la concentration corpusculaire moyenne en hémoglobine (CCMH).","Au volume globulaire moyen (VGM).","Au taux d'hémoglobine.","Teneur globulaire moyenne en hémoglobine."],"correct_option_ids":[0,2]},
+{"question":"Le sang est constitué de :","options":["Plasma.","Précurseurs des globules rouges.","Cellules sanguines.","Cellules souches hématopoïétiques."],"correct_option_ids":[1]},
+{"question":"On définit une anémie par :","options":["Le taux des globules rouges.","Le taux d'hémoglobine.","Le taux d'hématoctrite.","Toutes les réponses sont justes."],"correct_option_ids":[0,2]},
+{"question":"Pour pouvoir classer une anémie ; les examens nécessaires et suffisants sont :","options":["Un hémogramme.","Un bilan hépatique.","Un taux des réticulocytes.","Toutes les réponses sont justes."],"correct_option_ids":[0,2]}
+],
+"2014": [
+{"question":"Interpréter l'hémogramme suivant : Hb=12/mm³ ; VGM=80fl ; CCMH=32 ; GB=12000 éléments/mm³ ; plaq=225000/mm³ ; frottis sanguin PN=82% ; lymphocytes= 18% :","options":["Anémie normochrome normocytaire.","Leucopénie.","Hyperleucocytose faite de polynucléaires neutrophiles.","Pancytopénie."],"correct_option_ids":[2]},
+{"question":"Interpreter l'hemogramme suivant : Hb=4 g/mm² ; GR=2.2 million/mm² ; Hte=12% ; GB=2500 éléments/mm² ; plaq=50000/mm² ; le taux des réticulocytes 0.5% :","options":["Anémie normochrome normocytaire arégénérative isolée.","Pancytopénie.","Leucopénie isolée.","Thrombopénie isolée."],"correct_option_ids":[1]},
+{"question":"Interpréter l'hémogramme suivant : Hb=8.3 g/mm³ ; GR=3 million/mm³ ; Hte=24% ; GB=4200 éléments/mm³ ; plaq=156000/mm³ ; le taux des réticulocytes 0.5% :","options":["Anémie normochrome normocytaire arégénérative.","Anémie microcytaire hypochrome arégénérative.","Anémie normochrome macrocytaire arégénérative.","Anémie normochrome normocytaire régénérative."],"correct_option_ids":[0]},
+{"question":"Interpréter l'hémogramme suivant : Hb=8.5 g/mm³ ; GR=3.2 million/mm³ ; Hte=24.5% ; GB=5600 éléments/mm³ ; plaq=4000/mm³ ; le taux des réticulocytes 0.5% :","options":["Anémie normochrome normocytaire arégénérative + thrombopénie.","Anémie normochrome normocytaire arégénérative + leucopénie.","Anémie microcytaire hypochrome arégénérative + leucopénie.","Anémie normochrome macrocytaire arégénérative + leucopénie."],"correct_option_ids":[0]}
+]
+},
+"4.3 Appendicite": {
+"2025": [
+{"question":"Le signe de Blumberg est positif si:","options":["La douleur est provoquée en fosse iliaque droite après sa décompression rapide","La douleur est localisée en fosse iliaque droite après la décompression rapide de la fosse iliaque gauche","La douleur est provoquée en fosse iliaque gauche après la décompression rapide de la fosse iliaque droite","La Douleur est spontanée en fosse iliaque droite"],"correct_option_ids":[0]}
+],
+"2024": [
+{"question":"Lors de l'examen physique d'un patient suspect d'appendicite aiguë, le signe de Lapinski ou signe de Meltzer, est une Manoeuvre où l'examinateur:","options":["Appuie légèrement sur le point de Rovsing du patient et lui demande de decoller le talon du plan du lit sans flechir le genou","Appuie légèrement sur le point de Mac Burney du patient et lui demande de decoller le talon du plan du lit avec flexion du genou","Appuie fortement sur le point de Mac Burney du patient et lui demande de decoller le talon du plan du lit sans flechir le genou","Appuie légèrement sur le point de Mac Burney du patient et lui demande de decoller le talon du plan du lit sans flechir le genou"],"correct_option_ids":[3]}
+],
+"2020": [
+{"question":"Concernant l'appendicite aiguë :","options":["L'appendicite mésocæliaque peut simuler une salpingite aiguë.","L'appendicite pelvienne peut être révélée par des signes urinaires.","Il existe souvent une hyperleucocytose à PNN.","L'appendicite sous hépatique peut simuler une cholécystite aiguë."],"correct_option_ids":[1,2,3]},
+{"question":"Le plastron appendiculaire :","options":["Se traduit par une masse de l'hypochondre droit.","Nécessite une intervention chirurgicale d'urgence.","Est dû à une agglutination d'anges intestinales et d'épiploon autour de l'appendice.","Est évident à l'ASP."],"correct_option_ids":[2]}
+],
+"2019": [
+{"question":"Dans l'appendicite aiguë la douleur abdominale est caractérisée :","options":["Par un début brutal siégeant au niveau de la fosse iliaque droite.","Par son caractère discontinu et intense.","Par son association à des troubles du transit surtout constipation.","Par son association à des brûlures mictionnelles"],"correct_option_ids":[0,2]},
+{"question":"L'examen physique au cours de l'appendicite aiguë :","options":["Révèle une douleur provoquée au niveau du point de Mac Burney.","La décompression de la fosse iliaque droite provoque une douleur vive c'est le signe de Rovsing.","Révèle une défense localisée à la fosse iliaque droite.","Au toucher rectal une masse palpable."],"correct_option_ids":[0,2]},
+{"question":"Parmi les formes cliniques d'une appendicite on distingue :","options":["L'appendicite retro-caecale.","L'appendicite pelvienne.","L'appendicite sous hépatique.","L'appendicite mesocaeliaque."],"correct_option_ids":[0,1,2,3]}
+],
+"2017": [
+{"question":"Cochez la réponse juste ; dans l'appendicite aiguë ; le signe de Rovsing est une douleur de :","options":["Spontanée de la fosse iliaque gauche.","De la fosse iliaque gauche déclenchée par la décompression de la fosse iliaque droite.","De la fosse iliaque droite déclenchée par la décompression de la fosse iliaque gauche.","Spontanée de la fosse iliaque droite."],"correct_option_ids":[2]}
+]
+},
+"4.4 Ascite": {
+"2025": [
+{"question":"Cochez la ou les proposition(s) Juste(s)","options":["La cirhose compliquee d'une HTP, entraine une ascite transudative par baisse de la pression oncotique","L'insuffisance cardiaque globale, entraine une ascite transudative par augmentation de la pression hydrostatique","Le syndrome nephroique entraine une ascite transudative par augmentation de la pression hydrostatique","La mesotheliome entraine une ascite exsudative par inflammation des feuilles du peritone"],"correct_option_ids":[1,3]},
+{"question":"Parmi les etiologies de l'ascite exsudative, quelle est ou quelles sont les propositions juste(s)?","options":["La tuberculose peritoneale","L'hypothyroidie","La carcinose peritoneale","Le mesotheliome"],"correct_option_ids":[0,1,2,3]},
+{"question":"parmi les etiologies des vergetures quelle est ou quelles sont la proposition(s) juste(s)","options":["Les grosses repetees et rapprochees","l'ascite d'installation rapide","La corticotherapie","Le syndrome de Cushing"],"correct_option_ids":[0,1,2,3]}
+],
+"2024": [
+{"question":"Cochez la ou les proposition(s) fausse(s) Parmi les causes de l'ascite d'origine inflammatoire:","options":["La carcinose peritoneale","La cirrhose","La tuberculose peritoneale","Le mesotheliome."],"correct_option_ids":[1]},
+{"question":"Cochez la ou les proposition(s) fausse(s)","options":["L'ascite tuberculeuse est due a une inflammation de la serieuse peritoneale provoquee par l'infection a BK","L'ascite secondaire a un syndrome nephroique est due a une augmentation de la pression hydrostatique dans les vaisseaux peritoneaux","L'ascite secondaire a une malabsorption intestinale est due a une baisse de la pression oncotique dans les vaisseaux peritoneaux","L'ascite secondaire à une HTP est due a une augmentation de la pression hydrostatique dans les vaisseaux péritoneaux"],"correct_option_ids":[1]}
+],
+"2023": [
+{"question":"L'ascite de moyenne abondance présente les caracteres suivants : (Cochez la ou les proposition(s) fausse(s))","options":["A l'inspection, il n'y a pas de hernie ombilicale","Elle peut être responsable d'une dyspnée par compression des poumons","En decubitus lateral droit, la percussion perçoit une matite du flanc gauche et un tympanisme du flanc droit","A la palpation, la rate hypertrophie n'est pas accessible"],"correct_option_ids":[1,2]},
+{"question":"L'ascite secondaire a un syndrome nephrotique presente les caracteres suivants : Cochez la ou les proposition(s) juste(s)","options":["Elle s'explique par une fuite massive des proteines plasmatiques dans la lumiere du tube digestif","Elle est parfois cloisonnee","La concentration du liquide de l'ascite en proteines est inferieure a 25 g/L","Le liquide d'ascite est le plus souvent d'aspect jaune citrin"],"correct_option_ids":[2,3]},
+{"question":"Les principales causes de l'ascite d'origine inflammatoire (ascite exsudative) :","options":["La carcinose peritoneale","La cirrhose","La tuberculose peritoneale","Le syndrome nephrotique"],"correct_option_ids":[0,2]}
+],
+"2022": [
+{"question":"L'ascite exsudative presente les caracteres suivants : Cochez les reponses justes","options":["L'ascite est due a une inflammation des deux feuillets du peritone.","L'ascite est riche en proteines.","La carcinose peritoneale est sa principale cause.","Le liquide d'ascite est le plus souvent jaune citrin."],"correct_option_ids":[0,1,2,3]},
+{"question":"Les principales causes d'ascite d'origine mecanique (transsudat) : Cochez la reponse fausse","options":["La cirrhose.","L'insuffisance cardiaque droite ou globale.","La tuberculose peritoneale.","Le syndrome nephrotique."],"correct_option_ids":[2]},
+{"question":"Dans l'ascite d'origine tuberculeuse ; le liquide est :","options":["Riche en polynucléaires neutrophiles.","Riche en lymphocytes.","Pauvre en albumine.","Hématique."],"correct_option_ids":[1]},
+{"question":"L'ascite au cours du syndrome néphrotique est :","options":["De type exsudatif.","De type transsudatif.","De type chyleuse.","De type hémorragique."],"correct_option_ids":[1]},
+{"question":"Un épanchement péritonéal n'est pas défini comme une ascite :","options":["S'il est dû à des métastases péritonéales.","S'il est fait de sang pur.","S'il s'agit d'une péritonite tuberculeuse.","S'il s'agit d'une péritonite purulente."],"correct_option_ids":[1,3]},
+{"question":"Une des pathologies suivantes n'est pas une étiologie d'une ascite mécanique ; laquelle ?","options":["Cirrhose.","Syndrome néphrotique.","Carcinose péritonéale.","Péricardite constrictive."],"correct_option_ids":[2]}
+],
+"2019": [
+{"question":"Dans l'ascite d'origine tuberculeuse ; le liquide est :","options":["Riche en polynucléaires neutrophiles.","Riche en lymphocytes.","Pauvre en albumine.","Hématique."],"correct_option_ids":[1]},
+{"question":"L'ascite au cours du syndrome néphrotique est :","options":["De type exsudatif.","De type transsudatif.","Chyleuse.","Hémorragique."],"correct_option_ids":[1]},
+{"question":"Un épanchement péritonéal n'est pas défini comme une ascite :","options":["S'il est dû à des métastases péritonéales.","S'il est fait de sang pur.","S'il s'agit d'une péritonite tuberculeuse.","S'il s'agit d'une péritonite purulente."],"correct_option_ids":[1,3]},
+{"question":"Une des pathologies suivantes n'est pas une étiologie d'une ascite mécanique ; laquelle ?","options":["Cirrhose.","Syndrome néphrotique.","Carcinose péritonéale.","Péricardite constrictive."],"correct_option_ids":[2]}
+],
+"2018": [
+{"question":"Une ascite inflammatoire peut être due à :","options":["Une cirrhose.","Une maladie cœliaque.","Une péricardite constrictive.","Une carcinose péritonéale."],"correct_option_ids":[3]}
+],
+"2016": [
+{"question":"L'ascite est définie par :","options":["Épanchement liquidien dans la cavité péritonéale.","Présence du pus dans la cavité péritonéale.","Épanchement liquidien dans la cavité pleurale.","Épanchement aérien dans la cavité péritonéale."],"correct_option_ids":[0]},
+{"question":"Le siège de ponction d'ascite est :","options":["À la jonction du 1/3 interne et 2/3 externe de ligne entre l'ombilic et la crête iliaque droite.","À la jonction du 1/3 externe et 2/3 interne de ligne entre l'ombilic et la crête iliaque gauche.","À 2 cm au-dessus de l'ombilic.","À 2 cm au-dessus de l'ombilic."],"correct_option_ids":[1]},
+{"question":"Le signe cardinal retrouvé à la percussion d'une ascite est :","options":["Tympanisme.","Matité hydrique à concavité vers le haut.","Matité hydrique à convexité vers le haut.","Défense abdominale."],"correct_option_ids":[1]},
+{"question":"Le signe de glaçon à l'examen clinique d'une ascite permet de mettre en évidence :","options":["Une ascite libre.","Une splénomégalie et/ou une hépatomégalie.","Une ascite cloisonnée.","Une appendicite aiguë."],"correct_option_ids":[2]},
+{"question":"Un ascite d'origine tuberculeuse se caractérise par :","options":["Un liquide d'ascite d'aspect chyleux.","Un liquide d'ascite d'aspect séro-hématique.","Un liquide d'ascite riche en albumine et en lymphocytes.","Un liquide d'ascite pauvre en albumine et en lymphocytes."],"correct_option_ids":[2]},
+{"question":"Une ascite d'origine inflammatoire (exsudative) est caractérisée par :","options":["Un liquide d'ascite hémorragique à la ponction.","Un taux de LDH plasmatique élevé.","Un taux d'albumine dans le liquide d'ascite supérieur à 30 g/l.","Un liquide pauvre en cellules inflammatoires."],"correct_option_ids":[2]}
+],
+"2015": [
+{"question":"Une ascite d'origine cardiaque est caractérisée par :","options":["Un liquide d'ascite pauvre en albumine.","Un liquide d'ascite chyleux.","La présence d'un reflux hépato-jugulaire.","La présence d'une circulation veineuse collatérale abdominale."],"correct_option_ids":[0]},
+{"question":"Une ascite tuberculeuse est caractérisée par :","options":["Un liquide d'ascite riche en polynucléaires neutrophiles.","Un liquide d'ascite riche en protéines.","Un liquide d'ascite riche en cellules mésothéliales.","Un liquide d'ascite riche en lymphocytes."],"correct_option_ids":[1,3]},
+{"question":"Une laparoscopie est indiquée en cas d'une :","options":["Ascite inflammatoire.","Ascite transsudative.","Ascite exsudative.","Ascite compliquant une cirrhose alcoolique."],"correct_option_ids":[0,2]}
+]
+},
+"4.5 Constipation": {
+"2025": [
+{"question":"A propos de la dyschesie rectale, quelles sont propositions justes?","options":["Elle correspond a une anomalie d'evacuation des selles","Elle peut etre liee a une hypertomie du sphincter anal","Elle se diagnostique uniquement par l'interrogatoire","Elle peut necessiter une reeducation du plancher pelvien (biofeedback)"],"correct_option_ids":[0,1,3]},
+{"question":"quels sont les signes cliniques qui orientent vers une constipation d'origine grave ?","options":["Constipation d'apparition recente chez un patient age","Rectorragies associees","Amagrissement inexplique","Douleurs abdominales Isolees sans autres signes"],"correct_option_ids":[0,1,2]}
+],
+"2024": [
+{"question":"Les mecanismes de la constipation maladie (primitive) sont :","options":["L'inertie colique","Le colon spastique","a dyschesie","L'anisme"],"correct_option_ids":[0,1,2,3]},
+{"question":"Parmi les etiologies de la constipation secondaire:","options":["Hypocalcemie","Hypokaliemie","Tumeurs coliques","Traitement neuroleptique"],"correct_option_ids":[1,2,3]}
+],
+"2023": [
+{"question":"Les mecanismes de la constipation maladie (primitive) sont :","options":["L'inertie colique","Le colon spastique","La dyschesie","L'anisme"],"correct_option_ids":[0,2]},
+{"question":"Parmi les etiologies de la constipation secondaire :","options":["Hypocalcemie","Hypokaliemie","Tumeurs coliques","Traitement neuroleptique"],"correct_option_ids":[1,2,3]}
+],
+"2022": [
+{"question":"Parmi les etiologies de la constipation secondaire : Cochez les reponses justes","options":["Hypocalcémie.","Hypokaliémie.","Tumeurs coliques.","Traitement neuroleptique."],"correct_option_ids":[1,2,3]},
+{"question":"Parmi les mécanismes de la constipation maladie (primitive) : Cochez les réponses justes","options":["L'inertie colique.","Le colon spastique.","La dyschésie.","L'anisme."],"correct_option_ids":[0,1]}
+],
+"2020": [
+{"question":"Les mécanismes responsables de la constipation maladie sont :","options":["Une anomalie de la progression des selles.","Dues a une inertie colique d'un colon spastique.","Une anomalie d'évacuation des selles.","Révélateurs d'une maladie colique sous-jacente."],"correct_option_ids":[0,1,2]}
+],
+"2018": [
+{"question":"Les éléments orientant vers une constipation distale d'évacuation sont ; sauf un lequel ?","options":["Efforts de poussée.","Sensation d'une gêne au passage des selles ou d'évacuation incomplète.","Temps d'exonération anormalement court.","Nécessité de manœuvres digitales pour obtenir une vacuité rectale."],"correct_option_ids":[2]},
+{"question":"Lors d'une approche d'un patient consultant pour une constipation; l'anamnèse précisera deux choses parmi les propositions suivantes :","options":["Confirmer le diagnostic de constipation et son caractère chronique.","Apprécier son retentissement sur la fonction cardiaque.","Chercher des facteurs de risque (sédentarité ; régime pauvre en fibres...).","Chercher des éléments en faveur d'une cause non organique ou psychique."],"correct_option_ids":[0,2]}
+],
+"2017": [
+{"question":"La constipation est connue par :","options":["Émission de selles inférieures à 300g par jour ; selles trop liquides ; peu abondantes ; parfois fréquentes.","Exonérations incomplètes.","Émission supérieure à 2 selles/jours.","Absence de troubles psychologiques associées."],"correct_option_ids":[1]}
+]
+},
+"4.6 Diarrhée": {
+"2025": [
+{"question":"Le syndrome dysentérique se caractérise par: Cochez les réponses justes","options":["Des diarrhées glairo-sanglantes","Une atteinte du recto-colon","Une atteinte de l'intestin grele proximal","Une réaction inflammatoire de la muqueuse intestinale"],"correct_option_ids":[0,1,3]},
+{"question":"Parmi les propositions suivantes, lesquelles caractérisent la diarrhée hydrique (hydroélectrolytique)?","options":["Elle est souvent d'origine Infectieuse ou médicamenteuse","Elle résulte d'un envahissement muqueux avec destruction tissulaire","Elle implique une fuite liquidienne et électrolytique due à une entérotoxine","Elle est généralement accompagnée de fièvre élevée"],"correct_option_ids":[0,2]}
+],
+"2024": [
+{"question":"La colite pseudomembraneuse:","options":["Est responsable d'une diarrhée aigue hydroélectrolytique","Peut être due à la prise des antibiotiques","Est due à la bactérie clostridium difficile","Donne une diarrhée par malabsorption"],"correct_option_ids":[0,1,2]},
+{"question":"La diarrhée aiguë:","options":["Elle se définit par un nombre de selle supérieur à 3 fois par jour pendant plus de 4 semaines","Elle est dite cholériforme lorsqu'elle est associée à un syndrome dysentérique","Peut être grave chez les sujets âgés","Elle est toujours d'origine infectieuse"],"correct_option_ids":[2]}
+],
+"2023": [
+{"question":"La colite pseudomembraneuse présente les caractères suivants :","options":["Est responsable d'une diarrhée aigue hydroélectrolytique","Peut être du à la prise des antibiotiques","Est due au clostridium difficile","Donne une diarrhée par malabsorption"],"correct_option_ids":[0,1,2]},
+{"question":"La diarrhée aiguë présente les caractères suivants :","options":["Elle se définit par un nombre de selles >3 fois/pendant plus de 4 semaines","Elle est dite cholériforme lorsqu'elle est associée à un syndrome dysentérique","Peut être grave chez les sujets âgés","Elle est toujours d'origine infectieuse"],"correct_option_ids":[2]},
+{"question":"Les caractères suivants correspondent à la description sémiologique d'une diarrhée motrice sauf un caractère. Lequel ?","options":["Les selles liquidiennes surviennent typiquement le soir","Les selles survenant en postprandial","Les selles sont impérieuses, groupées en salves","Les selles contiennent des débris alimentaires"],"correct_option_ids":[0]},
+{"question":"Les caractères suivants correspondent à la description sémiologique d'une diarrhée motrice sauf un caractère. Lequel ?","options":["Les selles liquidiennes surviennent typiquement le soir","Les selles survenant en postprandial","Les selles sont impérieuses, groupées en salves","Les selles contiennent des débris alimentaires"],"correct_option_ids":[0]}
+],
+"2022": [
+{"question":"La diarrhée aiguë est définie par : Cochez les réponses justes","options":["Augmentation du nombre de selle supérieure à 3 fois par jour.","Évolution de moins de trois semaines.","Début progressif.","L'association à une déshydratation."],"correct_option_ids":[0,1,3]},
+{"question":"Les caractéristiques sémiologiques de diarrhée chronique par malabsorption : Cochez la réponse juste","options":["La présence d'une stéatorrhée.","La présence de sang dans le sang.","Selles impérieuses.","La présence d'une déshydratation."],"correct_option_ids":[0]}
+],
+"2021": [
+{"question":"La diarrhée au cours du syndrome dysentérique s'accompagne d'une douleur abdominale appelée épreinte ; celle-ci présente les caractères sémiologiques suivants ; cochez la réponse fausse :","options":["C'est douleur intense qui parcoure le cadre colique.","Prédomine au niveau de la fosse iliaque gauche.","Se propage vers l'angle colique droit.","Elle s'accompagne d'une envie impérieuse d'aller à la selle."],"correct_option_ids":[2]},
+{"question":"La diarrhée présente les caractères sémiologiques suivants ; cochez la réponse fausse :","options":["Emission de selles trop abondantes et/ou trop liquides.","Augmentation du debit fecal au-dela de 300 g/j.","Par un contenu augmenté en eau.","Sa richesse en graisse (créatorrhée)."],"correct_option_ids":[3]},
+{"question":"La maldigestion est l'une des causes des diarrhées chroniques ; elle présente les caractères suivants ; cochez la réponse fausse :","options":["Les anomalies fonctionnelles se produisent dans la lumière intestinale et non pas dans ...","Se caractérise par un manque de sécrétion d'enzymes digestives.","Les graisses alimentaires ne sont pas digérées dans la lumière intestinale.","Les anomalies fonctionnelles se situent en post-enterocytaire."],"correct_option_ids":[3]},
+{"question":"Le risque d'une diarrhée aiguë grave est la déshydratation extracellulaire qui présente les caractères cliniques suivants ; cochez la réponse fausse :","options":["Hypotension artérielle systémique.","Pli cutané.","Hypotonie des globes oculaires.","Sécheresse des muqueuses et troubles de la conscience."],"correct_option_ids":[2]},
+{"question":"Le syndrome dysentérique présente les caractères sémiologiques suivants ; une seule proposition est juste ; laquelle ?","options":["De nombreuses émissions rectales généralement afécales.","N'est jamais mélangées à du sang du pus.","De vrais besoins d'aller à la selle.","Il traduit la réaction inflammatoire de la cavité colique à différentes agressions infectieuses ou tumorales."],"correct_option_ids":[0]},
+{"question":"Les caractères suivants correspondent à la description sémiologique d'une diarrhée motrice sauf ; cochez la réponse fausse :","options":["Les selles liquidiennes surviennent typiquement le soir.","Les selles survenant en postprandial.","Les selles sont impérieuses groupées en salves.","Les selles contiennent des débris alimentaires."],"correct_option_ids":[0]},
+{"question":"On parle de diarrhée chronique lors que celle-ci présente les caractères sémiologiques suivants ; cochez la réponse fausse :","options":["Evolue depuis plus de 3 semaines.","Les selles sont trop nombreuses (3/24heures).","Trop abondantes et/ou liquides.","Poids moyen des selles >300 g/j."],"correct_option_ids":[1]}
+],
+"2020": [
+{"question":"La diarrhée aiguë est l'émission de selles pendant moins de 14 jours et dont le mécanisme peut être lié à :","options":["Une destruction de la muqueuse intestinale par invasion d'un micro-organisme.","Une diarrhée motrice.","Une production d'une entéro-toxine.","Des effets indésirables d'un médicament."],"correct_option_ids":[0,2,3]},
+{"question":"La diarrhée motrice est une conséquence d'une augmentation de la vitesse du transit intestinal ayant les caractéristiques sémiologiques suivantes :","options":["Selles matinales, postprandiales immédiates émises en plusieurs fois.","Selles peu abondantes, impérieuses.","Présence d'aliments non digérés en général d'origine végétale.","Avec retentissement sur l'état général."],"correct_option_ids":[0,1,2]},
+{"question":"La diarrhée se définit comme :","options":["Des selles qui surviennent après quelques jours de constipation.","L'émission de selles trop fréquentes, supérieure ou égale à 3 selles/jour.","L'émission de selles trop liquides, poids de l'eau supérieur à 90% du poids des selles.","L'émission de selles trop abondantes, pesant plus de 300g/j ou."],"correct_option_ids":[1,2,3]},
+{"question":"Les causes des diarrhées sécrétoires sont :","options":["Polypose adenomateuse colique.","Une invasion de la paroi intestinale.","Une origine virale.","Certains médicaments."],"correct_option_ids":[0,3]}
+],
+"2017": [
+{"question":"La diarrhée par malabsorption est faite de :","options":["Diarrhée abondante (>500m/j) ; selles complètement liquides ; réparties sur le nycthémère (possibilité de selles nocturne) ; diarrhée persiste lors du jeune.","Selles abondantes ; volontiers bouseuses ; parfois visiblement graisseuses (taches grasses surnageant à la surface de la cuvette des toilettes).","Selle matinale au lever : selle « réveille-matin » : les autres selles sont exclusivement postprandiales précoces (survenir en fin de repas) ; rarement nocturne ; nombreuse (>5j) ; rapprochée ; petit volume en salves (<500g/j).","Selles liquides ; abondance proportionnelle au nombre de molécules ingérées exerçant leur pouvoir osmotique ; rythme dictés par la prise alimentaire des molécules osmotiques ; cesse lors du jeune ou de l'éviction molécules en cause."],"correct_option_ids":[1]},
+{"question":"La dyschésie est définie comme étant :","options":["Trouble de l'évacuation au niveau du sigmoide ou de la sphère ano-rectale.","Trouble de la progression sur l'ensemble du colon.","Troubles de digestion avec dyspepsie.","Exacerbation de la douleur à la dépression soudaine appliquée à la paroi abdominale."],"correct_option_ids":[0]},
+{"question":"Le syndrome dysentérique est défini comme étant :","options":["Un ballonnement abdominale+ douleur+ troubles du transit.","Selles fréquentes dont le poids et la consistance est normale.","Hemianopsie associe a des troubles de la sensibilite tactile du membre superieur.","Evacuations glaireuses et sanglantes pouvant ne pas contenir de matieres fecales et souvent associe a des epreintes et a un tenesme."],"correct_option_ids":[3]}
+]
+}
+}
+}
+}
+
+
+
+

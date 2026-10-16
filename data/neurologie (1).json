@@ -1,0 +1,3371 @@
+{
+  "module": "neurologie",
+  "lessons": {
+    "Biochimie": {
+      "1.1 Enzymes sériques musculaires et tissulaires": {
+        "2024": [
+          {
+            "question": "Comment est mesurée l'activité enzymatique ?",
+            "options": [
+              "Par la concentration des substrats",
+              "Par la concentration des produits",
+              "Le dosage des inhibiteurs et activateurs enzymatiques",
+              "Par la détermination du pH"
+            ],
+            "correct_option_ids": [
+              0,
+              1
+            ]
+          },
+          {
+            "question": "Concernant l'enzyme alanine aminotransferase :",
+            "options": [
+              "Est une enzyme à prédominance hépatique",
+              "Est une enzyme uniquement mitochondriale.",
+              "Son action nécessite la présence du phosphate du pyridoxal.",
+              "Son action nécessite la présence d'un coenzyme qui dérive de la vitamine B12."
+            ],
+            "correct_option_ids": [
+              0,
+              2
+            ]
+          },
+          {
+            "question": "Le dosage des enzymes en pratique clinique informe sur :",
+            "options": [
+              "La détermination des origine intracellulaire ou plasmatique de l'enzyme",
+              "L'origine de l'atteinte",
+              "La sévérité de l'atteinte",
+              "L'étendue de la région"
+            ],
+            "correct_option_ids": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "question": "Quel est l'enzyme non plasmatique qui provient de glandes exocrines ?",
+            "options": [
+              "Aminotransferase",
+              "Amylase",
+              "Phosphatase alcaline",
+              "Lipoprotéine lipase"
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Quelle enzyme est associée principalement aux affections osseuses ?",
+            "options": [
+              "Amylase",
+              "Phosphatase alcaline",
+              "Créatine phosphokinase (CPK)",
+              "Lactate déshydrogénase (LDH)"
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Quelle(s) sont les réponses justes concernant les isoenzymes ?",
+            "options": [
+              "Elles ont la même propriété catalytique",
+              "Elles sont toutes présentes dans le foie",
+              "Elles ont des concentrations élevées dans le plasma",
+              "Elles peuvent être différentes par leurs propriétés physico-chimiques"
+            ],
+            "correct_option_ids": [
+              0,
+              3
+            ]
+          }
+        ],
+        "2023": [
+          {
+            "question": "Concernant l'enzyme créatine phosphokinase :",
+            "options": [
+              "Son taux est plus élevé chez la femme que chez l'homme.",
+              "L'isoenzyme CPKBB augmente au cours de l'infarctus du myocarde.",
+              "L'isoenzyme CPKMM augmente au cours des myopathies.",
+              "Le taux de la CPK total augmente en cas d'exercice musculaire"
+            ],
+            "correct_option_ids": [
+              2,
+              3
+            ]
+          },
+          {
+            "question": "Concernant les enzymes du métabolisme cellulaire, en cas de dommage cellulaire :",
+            "options": [
+              "Leur taux augmente dans le plasma.",
+              "Les enzymes membranaires et cytoplasmiques augmentent tardivement dans le plasma.",
+              "Les enzymes mitochondriales augmentent précocement dans le plasma.",
+              "Les enzymes mitochondriales augmentent tardivement dans le plasma."
+            ],
+            "correct_option_ids": [
+              0,
+              3
+            ]
+          },
+          {
+            "question": "La amylase :",
+            "options": [
+              "En cas de parotide, l'augmentation de l'amylase est associée d'une augmentation de la lipase.",
+              "L'amylasémie augmente en cas d'une atteinte pancréatique.",
+              "Elle dégrade les liaisons (α 1-4).",
+              "Toutes les réponses sont fausses."
+            ],
+            "correct_option_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "question": "Le dosage de l'activité des isoenzymes est important pour :",
+            "options": [
+              "L'orientation du diagnostic par rapport à l'expression de l'enzyme.",
+              "La quantification des différents substrats utilisés.",
+              "La recherche de la température optimale pour le dosage de l'enzyme.",
+              "L'identification des produits de la réaction enzymatique."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          }
+        ],
+        "2022": [
+          {
+            "question": "Concernant l'enzyme créatine phosphokinase :",
+            "options": [
+              "Son taux est plus élevé chez la femme que chez l'homme.",
+              "L'isoenzyme CPKBB augmente au cours de l'infarctus du myocarde.",
+              "L'isoenzyme CPKMM augmente au cours des myopathies.",
+              "Le taux de la CPK total augmente en cas d'exercice musculaire"
+            ],
+            "correct_option_ids": [
+              2,
+              3
+            ]
+          },
+          {
+            "question": "Concernant les enzymes du métabolisme cellulaire, en cas de dommage cellulaire :",
+            "options": [
+              "Leur taux augmente dans le plasma.",
+              "Les enzymes membranaires et cytoplasmiques augmentent tardivement dans le plasma.",
+              "Les enzymes mitochondriales augmentent précocement dans le plasma.",
+              "Les enzymes mitochondriales augmentent tardivement dans le plasma."
+            ],
+            "correct_option_ids": [
+              0,
+              3
+            ]
+          },
+          {
+            "question": "La mesure de l'activité enzymatique se fait par :",
+            "options": [
+              "Le dosage du substrat.",
+              "Le dosage pondéral des protéines enzymatiques.",
+              "Le dosage du produit.",
+              "Le dosage des inhibiteurs et activateurs enzymatiques."
+            ],
+            "correct_option_ids": [
+              0,
+              2
+            ]
+          },
+          {
+            "question": "La variation de l'activité enzymatique dépend de :",
+            "options": [
+              "La température.",
+              "Le PH.",
+              "La voie métabolique.",
+              "La concentration en enzyme."
+            ],
+            "correct_option_ids": [
+              0,
+              1
+            ]
+          },
+          {
+            "question": "Le dosage de l'activité des isoenzymes est important pour :",
+            "options": [
+              "L'orientation du diagnostic par rapport à l'expression de l'enzyme.",
+              "La quantification des différents substrats utilisés.",
+              "La recherche de la température optimale pour le dosage de l'enzyme.",
+              "L'identification des produits de la réaction enzymatique."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "Lors d'une cholestase extra hépatique :",
+            "options": [
+              "Il y a augmentation importante de la PAL plasmatique sans augmentation de la GGT.",
+              "Augmentation uniquement de la GGT.",
+              "Augmentation importante de la PAL et GGT.",
+              "Augmentation modérée de ASAT et ALAT."
+            ],
+            "correct_option_ids": [
+              2,
+              3
+            ]
+          }
+        ],
+        "2021": [
+          {
+            "question": "Concernant la LDH :",
+            "options": [
+              "Son taux augmente au cours des pancréatites aiguës.",
+              "L'anémie pernicieuse présente des valeurs extrêmement élevées de LDH pouvant atteindre 8 000 à 10 000 U/L.",
+              "La LDH4 est appelée également α-hydroxybutyrate déshydrogénase.",
+              "Dans l'hépatite virale, la LDH5 augmente très fortement et peut alors représenter jusqu'à 50% de la LDH totale.",
+              "A 6 iso-enzymes qui peuvent être séparées par électrophorèse."
+            ],
+            "correct_option_ids": [
+              1,
+              3
+            ]
+          },
+          {
+            "question": "L'amylase :",
+            "options": [
+              "Présente 2 iso-enzymes : une pancréatique et l'autre salivaire.",
+              "Hydrolyse les triglycérides alimentaires en glycérol, acides gras, monoglycérides et diglycérides.",
+              "Son taux sanguin s'élève 30 à 40 fois la normale en cas de pancréatite aigüe.",
+              "Son coenzyme est le phosphate de pyridoxal.",
+              "Les macro-amylases donnent une hyperamylasémie avec hyperamylasurie."
+            ],
+            "correct_option_ids": [
+              0,
+              2
+            ]
+          },
+          {
+            "question": "L'ASAT :",
+            "options": [
+              "Catalyse une réaction de transamination entre l'aspartate et l'α-cétoglutarate.",
+              "Est une enzyme essentiellement pancréatique.",
+              "Est une enzyme cytosolique et mitochondriale.",
+              "Son taux est fortement augmenté dans les cholestases hépatiques en parallèle avec l'augmentation des phosphatases alcalines.",
+              "Ces valeurs augmentent chez la femme enceinte, ceci est dû à l'iso-enzyme placentaire."
+            ],
+            "correct_option_ids": [
+              0,
+              2
+            ]
+          },
+          {
+            "question": "Les aminotransferases (ASAT et ALAT):",
+            "options": [
+              "Ont une iso-enzyme prostatique majoritaire.",
+              "Sont dosées dans la pathologie osseuse.",
+              "L'ALAT est fortement augmentée dans les hépatites aigues (10 à 100 fois la normale) tandis que l'augmentation de l'ASAT reste modérée.",
+              "Ont comme co-enzyme la vitamine B6.",
+              "Leur élévation est le seul signe biologique des hépatites virales anictériques."
+            ],
+            "correct_option_ids": [
+              2,
+              4
+            ]
+          },
+          {
+            "question": "Les phosphatases alcalines :",
+            "options": [
+              "Sont des phospho-monoesterases agissant à un PH optimum acide.",
+              "Son iso-enzyme osseuse est majoritaire comparativement à l'iso-enzyme intestinale.",
+              "Son taux augmente fortement dans les cancers de la prostate.",
+              "Les néoplasies comme les leucémies et les lymphomes, on observe alors une élévation des phosphatases alcalines.",
+              "Son PH optimum se situe entre 7,5 et 9,6°."
+            ],
+            "correct_option_ids": [
+              1,
+              4
+            ]
+          }
+        ]
+      },
+      "1.2 Exploration biochimique du lcr": {
+        "2025": [
+          {
+            "question": "Concernant la ponction lombaire, quelles affirmations sont correctes ?",
+            "options": [
+              "Contre-indiquée en cas de troubles de la coagulation",
+              "Réalisée dans des conditions strictes d'asepsie",
+              "Obligatoirement par voie lombaire chez le nouveau-né",
+              "Repos allongé conseillé après la ponction",
+              "Aucune réponse n'est juste"
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "En cas de méningite bactérienne, les modifications biochimiques du LCR sont :",
+            "options": [
+              "Glycorachie diminuée, protéinorachie augmentée",
+              "Glycorachie normale, protéinorachie diminuée",
+              "Glycorachie augmentée, protéinorachie diminuée",
+              "Glycorachie normale, lactates bas",
+              "Aucune réponse n'est juste"
+            ],
+            "correct_option_ids": [
+              0,
+              2
+            ]
+          },
+          {
+            "question": "Parmi les propositions concernant le LCR normal, laquelle est fausse ?",
+            "options": [
+              "Le LCR est limpide et incolore",
+              "Il contient moins de 3 leucocytes/mm³ chez l'adulte",
+              "Le taux de chlorures est plus bas que dans le plasma",
+              "Le pH du LCR est plus agité que celui du plasma",
+              "Aucune réponse n'est juste"
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Parmi les protéines dosées dans le LCR, quelle affirmation est correcte ?",
+            "options": [
+              "La protéinorachie est plus faible en lombaire qu'en ventriculaire",
+              "L'albumine est exclusivement synthétisée par les cellules gliales",
+              "La protéinorachie augmente en cas de méningite bactérienne",
+              "La protéinorachie est identique quel que soit l'âge",
+              "Aucune réponse n'est juste"
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          }
+        ],
+        "2024": [
+          {
+            "question": "Dans les pathologies du LCR :",
+            "options": [
+              "En cas de méningite virale, les lymphocytes sont inférieurs à 500 éléments.",
+              "Au cours de méningite bactérienne : on retrouve une hypo protéinorachie.",
+              "En cas de sclérose en plaque, la glucorachie est normale.",
+              "La lymphocytose est constante."
+            ],
+            "correct_option_ids": [
+              0,
+              2
+            ]
+          },
+          {
+            "question": "Que peut indiquer un aspect hémorragique du LCR ?",
+            "options": [
+              "Méningite virale",
+              "Infection parasitaire",
+              "Hémorragie traumatique",
+              "Hémorragie méningée récente"
+            ],
+            "correct_option_ids": [
+              2,
+              3
+            ]
+          },
+          {
+            "question": "Quel est l'aspect normal d'un LCR selon l'analyse macroscopique ?",
+            "options": [
+              "Jaune citrin",
+              "Incolore et limpide (eau de roche)",
+              "Vert trouble",
+              "Brun foncé"
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Quelle est l'intérêt de l'analyse des protéines du LCR ?",
+            "options": [
+              "Mesurer le pH du LCR",
+              "Évaluer l'intégrité de la barrière hématoencéphalique",
+              "Déceler l'existence de réaction immunitaire à l'intérieur du SNC",
+              "Déceler l'existence d'une maladie dégénérative du SNC"
+            ],
+            "correct_option_ids": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "question": "Quelle pathologie est associée à un profil oligoclonal dans l'immunoélectrophorèse du LCR ?",
+            "options": [
+              "Myélomes",
+              "Méningite bactérienne",
+              "Sclérose en plaques",
+              "Hypertension intracrânienne"
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Quels sont les rôles principaux du liquide céphalorachidien (LCR) dans le corps humain ?",
+            "options": [
+              "La digestion des protéines",
+              "La protection du cerveau et de la moelle épinière",
+              "Le transport des nutriments",
+              "La production d'énergie"
+            ],
+            "correct_option_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "question": "Au cours d'une méningite bactérienne, le LCR présente les particularités suivantes :",
+            "options": [
+              "Aspect trouble ; dit « eau de roche » du LCR.",
+              "Une hypoglucorachie associée à une diminution des protéines du LCR.",
+              "Une glycorachie normale avec une augmentation importante des chlorures.",
+              "L'analyse de l'immunité intrathécale est en faveur d'un transsudat inflammatoire avec IgG polyclonale."
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          },
+          {
+            "question": "Un LCR :",
+            "options": [
+              "Normal est jaune",
+              "Rouge est hémorragique récent",
+              "Rouge dans le 1er tube est hémorragique",
+              "Xanthochromique peut refléter un ictère par obstruction"
+            ],
+            "correct_option_ids": [
+              1,
+              2
+            ]
+          }
+        ],
+        "2022": [
+          {
+            "question": "À propos de l'exploration du LCR :",
+            "options": [
+              "N'est pas considérée comme examen urgent.",
+              "Il est normalement jaune citrin.",
+              "Il est rouge en cas de prélèvement traumatique.",
+              "Sa concentration en chlorure est égale à celle du plasma."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Au cours d'une méningite bactérienne, le LCR présente les particularités suivantes :",
+            "options": [
+              "Aspect trouble ; dit « eau de roche » du LCR.",
+              "Une hypoglycorachie associée à une diminution des protéines du LCR.",
+              "Une glycorachie normale avec une augmentation importante des chlorures.",
+              "L'analyse de l'immunité intrathécale est en faveur d'un transsudat inflammatoire avec IgG polyclonale."
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          },
+          {
+            "question": "Dans les pathologies du LCR :",
+            "options": [
+              "Au cours de méningite bactérienne ; on retrouve une hypo protéinorachie.",
+              "En cas de sclérose en plaque, la glycorachie est normale.",
+              "Il est toujours exsudatif.",
+              "La lymphocytose est constante."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          }
+        ],
+        "2021": [
+          {
+            "question": "Au cours des méningites bactériennes les paramètres perturbés dans le LCR sont :",
+            "options": [
+              "La glycorachie.",
+              "La protéinorachie.",
+              "Les lactates.",
+              "Le sodium.",
+              "Les immunoglobulines."
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              2,
+              4
+            ]
+          },
+          {
+            "question": "La glycorachie :",
+            "options": [
+              "Est identique à la glycémie prélevée en même temps.",
+              "Est augmentée en cas de méningite bactérienne.",
+              "Est augmentée avec l'hyperglycémie.",
+              "Est normale en cas de méningite bactérienne.",
+              "Est normale en cas de méningite virale."
+            ],
+            "correct_option_ids": [
+              2,
+              4
+            ]
+          },
+          {
+            "question": "La protéinorachie :",
+            "options": [
+              "Les valeurs normales sont de 0,2 à 0,5 g/l.",
+              "Est inchangée dans des méningites bactériennes.",
+              "Est augmentée dans les méningites virales.",
+              "Est élevée physiologiquement chez le nouveau-né.",
+              "Est équivalente à la protéinémie."
+            ],
+            "correct_option_ids": [
+              0,
+              3
+            ]
+          },
+          {
+            "question": "Un aspect sanglant du LCR est retrouvé en cas de :",
+            "options": [
+              "Méningite virale.",
+              "Méningite bactérienne.",
+              "Hémorragie méningée.",
+              "Injection d'anesthésie.",
+              "Sclérose en plaque."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          }
+        ]
+      }
+    },
+    "Physiologie pathologique": {
+      "2.1 Equilibre acido-basique": {
+        "2025": [
+          {
+            "question": "Un patient présente un pH = 7,52, une PaCO2 = 28 mmHg et un HCO3- = 22 mmol/L. Quel est le diagnostic ?",
+            "options": [
+              "Acidose respiratoire",
+              "Alcalose métabolique",
+              "Alcalose respiratoire",
+              "Acidose mixte",
+              "Aucune réponse n'est juste"
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          }
+        ],
+        "2024": [
+          {
+            "question": "Le trou anionique plasmatique est calculé par la formule suivante :",
+            "options": [
+              "(Na + K) - (Cl + HCO3)",
+              "(Cl + HCO3) - (Na + K)",
+              "(Na + HCO3) + (Cl + K)",
+              "(Na + K) + (Cl + HCO3)"
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "Le trouble acido-basique pour les paramètres suivants : pH : 7.00 ; PaCO2 : 12,5 ; HCO3- : 3 est :",
+            "options": [
+              "Alcalose respiratoire",
+              "Alcalose métabolique",
+              "Acidose respiratoire",
+              "Acidose métabolique"
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          },
+          {
+            "question": "Le trouble acido-basique pour les paramètres suivants : pH : 7.50 ; PaCO2 : 22 ; HCO3- : 18 est :",
+            "options": [
+              "Alcalose respiratoire",
+              "Alcalose métabolique",
+              "Acidose respiratoire",
+              "Acidose métabolique"
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "Les troubles acido-basiques pour les paramètres suivants : pH : 6.90 ; PaCO2 : 40 ; HCO3- : 8 sont :",
+            "options": [
+              "Alcalose respiratoire",
+              "Alcalose métabolique",
+              "Acidose respiratoire",
+              "Acidose métabolique"
+            ],
+            "correct_option_ids": [
+              2,
+              3
+            ]
+          }
+        ],
+        "2023": [
+          {
+            "question": "Dans le cas d'acidose métabolique :",
+            "options": [
+              "Le PH est inférieur à 7.38 ou normal avec [HCO3-] inférieur à 22 mmol/l",
+              "Le PH est inférieur à 7.38 avec [HCO3-] supérieur à 24 mmol/l",
+              "L'insuffisance rénale et l'accumulation de lactate peuvent être l'origine de ce type d'acidose",
+              "L'organisme répond en hyperventilation pour compenser ce type d'acidose"
+            ],
+            "correct_option_ids": [
+              0,
+              2,
+              3
+            ]
+          },
+          {
+            "question": "L'alcalose métabolique :",
+            "options": [
+              "Le PH est inférieur à 7.38",
+              "Le PH est supérieur à 7.45 avec [HCO3-] inférieur à 22 mmol/l",
+              "Le PH est supérieur à 7.45 et PaCO2 inférieure à 26 mmHg",
+              "Les vomissements chroniques sont une cause fréquente"
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          },
+          {
+            "question": "Le potentiel hydrogène dans le sang :",
+            "options": [
+              "Reflète la concentration en H+ dans le sang",
+              "Sa variation entraîne une modification de la structure tertiaire des protéines et enzymes",
+              "Entraîne des modifications de la kaliémie et la calcémie menaçant le pronostic vital",
+              "Les systèmes tampons : le rein et la rate jouent un rôle essentiel dans sa régulation"
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              2
+            ]
+          },
+          {
+            "question": "Un malade admis pour la prise en charge d'une douleur thoracique. Un gaz du sang objective : PH: 7.49, HCO3-: 22 mmol/l, PaCO2: 20 mmHg",
+            "options": [
+              "Le patient est en état d'hyperventilation",
+              "Une alcalémie est expliquée par l'hyperventilation",
+              "C'est une alcalose respiratoire",
+              "C'est une acidose respiratoire"
+            ],
+            "correct_option_ids": [
+              0,
+              2
+            ]
+          }
+        ],
+        "2022": [
+          {
+            "question": "L'acidose métabolique associe :",
+            "options": [
+              "Une chute du taux de HCO3",
+              "Une alcalémie avec PH < 7,38",
+              "Hyperventilation.",
+              "Une alcalémie avec PH > 7,42"
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              2
+            ]
+          },
+          {
+            "question": "L'acidose métabolique est définie par la diminution de taux plasmatiques des bicarbonates inférieurs à 22 mmol/l ; dont les étiologies sont multiples :",
+            "options": [
+              "Excès d'acide comme lactates et corps cétoniques.",
+              "Déficit en chlore.",
+              "Utilisation des diurétiques.",
+              "Pertes rénales ou digestives de bicarbonates.",
+              "Augmentation de l'aldostérone plasmatique."
+            ],
+            "correct_option_ids": [
+              0,
+              3
+            ]
+          },
+          {
+            "question": "Le PH sanguin dépend de :",
+            "options": [
+              "Concentration plasmatique en H+.",
+              "De concentration de HCO3.",
+              "PaCO2.",
+              "PaO2 et NH3+."
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              2
+            ]
+          },
+          {
+            "question": "Parmi les causes d'acidose métabolique :",
+            "options": [
+              "Vomissements chroniques.",
+              "Intoxication aspirine.",
+              "Insuffisance rénale.",
+              "Insuffisance respiratoire chronique."
+            ],
+            "correct_option_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "question": "Un PH d'une solution correspond à :",
+            "options": [
+              "Son Potentiel Hydrogène.",
+              "PH = - log [H+].",
+              "PH sanguin = pKa + log [HCO3-] / PaCO2.",
+              "Le foie joue un rôle primordial dans la régulation du PH sanguin."
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              2
+            ]
+          },
+          {
+            "question": "L'alcalose respiratoire est un trouble de l'équilibre acido-basique rencontrée au cours de certaines pathologies respiratoires ; ce trouble est caractérisé par :",
+            "options": [
+              "Une baisse de la PaCO2.",
+              "Une augmentation de la PaCO2.",
+              "Compensation par baisse de bicarbonates.",
+              "Hypokaliémie avec hyperchlorémie.",
+              "Hyperkaliémie avec hypochlorémie."
+            ],
+            "correct_option_ids": [
+              0,
+              2,
+              3
+            ]
+          },
+          {
+            "question": "Les résultats gazométriques suivants : PH=7,30 ; PaCO2=30 mmHg ; HCO3=17 mmol/l correspondent à :",
+            "options": [
+              "Acidose métabolique compensée.",
+              "Acidose métabolique partiellement compensée par une hyperventilation.",
+              "Acidose métabolique non compensée.",
+              "Acidose mixte métabolique et respiratoire.",
+              "Acidose respiratoire partiellement compensée par une rétention de bicarbonates."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Vous recevez un patient chez qui vous avez pratiqué une gazométrie dont les résultats sont : PH=7,25 ; PCO2=58 mmHg ; HCO3=26 mmol/l ; interprétez les résultats :",
+            "options": [
+              "Il s'agit d'une acidose métabolique avec compensation respiratoire.",
+              "Il s'agit d'une alcalose métabolique avec compensation respiratoire.",
+              "Il s'agit d'une acidose respiratoire avec compensation rénale.",
+              "Il s'agit d'une acidose respiratoire non compensée.",
+              "Il s'agit d'un trouble de l'équilibre acido-basique dont l'anomalie primaire est une hypoventilation alvéolaire."
+            ],
+            "correct_option_ids": [
+              3,
+              4
+            ]
+          }
+        ],
+        "2020": [
+          {
+            "question": "A propos du PH sanguin ; quelques sont les propositions justes (Cochez la réponse fausse.) :",
+            "options": [
+              "Parmi les tampons sanguins le plus efficace est le tampon phosphate.",
+              "Le PH du sang veineux est inférieur au PH du sang artériel.",
+              "Le PH de référence se mesure dans le sang artériel.",
+              "Le CO2 dissous est un acide faible."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "L'alcalose respiratoire : (Cochez la réponse juste.)",
+            "options": [
+              "Est liée à une baisse de la PaCO2.",
+              "Peut être liée à une hyperventilation.",
+              "Peut être liée à la présence d'acide lactique.",
+              "Est liée à une baisse de la PaO2."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "L'alcalose respiratoire est caractérisée par : (Cochez la réponse juste.)",
+            "options": [
+              "Le mécanisme de compensation se fait par augmentation du taux de bicarbonate.",
+              "L'anomalie primaire est une diminution de la PaCO2 par l'hyperventilation.",
+              "La broncho-pneumopathie chronique obstructive (BPCO) est une cause.",
+              "L'anomalie primaire est une augmentation de la PaCO2 par l'hypoventilation."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Le maintien d'un PH plasmatique constant dépend de (Cochez la réponse fausse.) :",
+            "options": [
+              "Système tampon plasmatique bicarbonate/acide carbonique.",
+              "Système de compensation ventilatoire.",
+              "Système d'adaptation rénale par réabsorption d'ions H+ et élimination de HCO3-.",
+              "Système d'adaptation rénale par excrétion d'ions H+, et réabsorption de HCO3-."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Parmi les propositions suivantes ; les étiologies de l'alcalose métabolique sont (Cochez la réponse fausse.) :",
+            "options": [
+              "Excès de bicarbonate par apport exagéré ou transfusion massive.",
+              "Déficit en chlore par perte rénale ou extrarénale.",
+              "Activité excessive des minéralocorticoïdes.",
+              "Expansion de volume extracellulaire."
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          },
+          {
+            "question": "Une acidose respiratoire : (Cochez la réponse fausse.)",
+            "options": [
+              "Conduit à une réabsorption des HCO3- au niveau rénal.",
+              "Est due à une augmentation de la PaCO2.",
+              "Est liée à une baisse de l'HCO3-.",
+              "Peut être liée à un trouble au niveau du système nerveux central."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          }
+        ],
+        "2019": [
+          {
+            "question": "L'alcalose respiratoire : (Cochez la réponse juste.)",
+            "options": [
+              "Est liée à une baisse de la PaCO2.",
+              "Est liée à une hypoventilation.",
+              "Peut être liée à la présence d'acide lactique.",
+              "Est liée à une augmentation de la PaCO2."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "L'alcalose respiratoire est caractérisée par : (Cochez la réponse juste.)",
+            "options": [
+              "Le mécanisme de compensation se fait par augmentation du taux de bicarbonate.",
+              "L'anomalie primaire est une diminution de la PaCO2 par hyperventilation.",
+              "La broncho-pneumopathie chronique obstructive est une cause.",
+              "L'anomalie primaire est une augmentation de la PaCO2 par hypoventilation."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Les résultats gazométriques suivants : PH=7,30 ; PaCO2=30 mmHg ; HCO3=17 mmol/l correspondent à : (Cochez la réponse juste.)",
+            "options": [
+              "Acidose métabolique compensée.",
+              "Acidose métabolique partiellement compensée par une hyperventilation.",
+              "Acidose métabolique partiellement compensée par une hypoventilation.",
+              "Acidose mixte métabolique et respiratoire."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Les résultats gazométriques suivants : PH=7,50 ; PaCO2=29 mmHg ; HCO3=23 mmol/l correspondent à : (Cochez la réponse juste.)",
+            "options": [
+              "Alcalose respiratoire non compensée.",
+              "Alcalose respiratoire compensée.",
+              "Alcalose mixte respiratoire et métabolique.",
+              "Alcalose métabolique partiellement compensée par une hypoventilation."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Les résultats suivants : PH=7.25 ; PCO2=58 mmHg ; HCO3=26 mmol/l sont les caractéristiques du trouble acido-basique suivant : (Cochez la réponse juste.)",
+            "options": [
+              "Acidose métabolique avec compensation respiratoire.",
+              "Alcalose métabolique avec compensation respiratoire.",
+              "Acidose métabolique avec compensation rénale.",
+              "Acidose respiratoire non compensée."
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          },
+          {
+            "question": "Un PH artériel augmenté ; une PaCO2 augmentée et des carbonates augmentées : (Cochez la réponse juste.)",
+            "options": [
+              "Caractérisent une alcalose respiratoire compensée.",
+              "Caractérisent une alcalose métabolique partiellement compensée par hypoventilation.",
+              "Peuvent être secondaires à une hyperventilation.",
+              "Sont souvent associés à une PaCO2 basse."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Un PH augmenté, une PaCO2 augmentée et des bicarbonates augmentés : (Cochez la réponse juste.)",
+            "options": [
+              "Caractérisent une alcalose respiratoire compensée.",
+              "Caractérisent une alcalose métabolique partiellement compensée par hypoventilation.",
+              "Peuvent être secondaires à une hyperventilation.",
+              "Sont souvent associés à une PaCO2 basse."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          }
+        ],
+        "2018": [
+          {
+            "question": "Cochez la réponse juste :",
+            "options": [
+              "Un acide fort ne dissocie pas complètement dans le sang.",
+              "Un acide faible se dissocie partiellement dans le sang.",
+              "Un acide est un accepteur de protons.",
+              "Une base est un donneur de protons."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "L'adaptation de l'organisme au changement de PH dépend de ces mécanismes sauf un lequel :",
+            "options": [
+              "Les systèmes tampons.",
+              "La régulation hépatique de NH3 et NH4+.",
+              "La ventilation.",
+              "La régulation rénale d'H+ et HCO3."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Le trou anionique : (Cochez la réponse juste.)",
+            "options": [
+              "Représente les cations non dosés.",
+              "Acidose métabolique à trou anionique élevé est hyperchlorémique.",
+              "Acidose métabolique à trou anionique élevé est normochlorémique.",
+              "Représente les anions non dosés."
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          },
+          {
+            "question": "Les différents troubles de l'équilibre acido-basique : (Cochez la réponse juste.)",
+            "options": [
+              "L'acidémie est définie par une diminution de la concentration d'ions H+ dans le sang.",
+              "L'alcalémie est définie par une augmentation de la concentration d'ions H+ dans le sang.",
+              "L'acidose est un processus qui tend à produire une acidémie.",
+              "L'alcalose est un processus qui tend à produire une alcalo-acidémie."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Les étiologies de l'acidose métabolique : (Cochez la réponse juste.)",
+            "options": [
+              "Excès d'acides comme lactates et corps cétoniques.",
+              "Déficit en chlore.",
+              "Rétention rénale ou digestive des bicarbonates.",
+              "Sécrétion tubulaire d'acides augmentée."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "Les étiologies de l'alcalose métabolique : (Cochez la réponse juste.)",
+            "options": [
+              "Excès de chlore.",
+              "Apport d'acides excessif.",
+              "Excès de bicarbonates.",
+              "Le jeûne prolongé."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Les précautions à prendre lors de la réalisation de la gazométrie sont, sauf une :",
+            "options": [
+              "Mélanger l'échantillon avec l'héparine.",
+              "Le transport de l'échantillon dans un délai inférieur à 6 heures dans un sac réchauffé.",
+              "Nécessité d'expulsion des bulles d'air.",
+              "La température et l'hématocrite sont indispensables pour l'interprétation correcte."
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          },
+          {
+            "question": "Les principaux systèmes tampons sont : (Cochez la réponse juste.)",
+            "options": [
+              "H2CO3 / HCO3- SO4HNa/SO4Ha Protéinate/Protéine/Hb/Hb02.",
+              "H2CO3 / HCO3- PO4Hna/PO4ha Protéinate/Protéine Hb/Libo2.",
+              "H2CO3 / HCO3- PO4Hna/PO4ha Sulfate/Sulfite/Hb/Hbo2.",
+              "H2CO3 / HCO3- PO4Hna/PO4ha Protéinate/Protéine NH3/NH4."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Les résultats gazométriques suivants : PH=7,30 ; PaCO2=30 mmHg ; HCO3=17 mmol/l correspondent à : (Cochez la réponse juste.)",
+            "options": [
+              "Acidose métabolique compensée.",
+              "Acidose métabolique partiellement compensée par une hyperventilation.",
+              "Acidose métabolique partiellement compensée par une hyperventilation.",
+              "Acidose mixte métabolique et respiratoire."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Les résultats gazométriques suivants : PH=7,50 ; PaCO2=29 mmHg ; HCO3=23 mmol/l correspondent à : (Cochez la réponse juste.)",
+            "options": [
+              "Alcalose respiratoire non compensée.",
+              "Alcalose respiratoire compensée.",
+              "Alcalose mixte métabolique et respiratoire.",
+              "Alcalose métabolique partiellement compensée par une hyperventilation."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          }
+        ],
+        "2017": [
+          {
+            "question": "A quelle occasion peut-on faire le diagnostic d'une acidose métabolique à trou anionique normal : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Intoxication par l'acide salicylique.",
+              "Diarrhée aiguë.",
+              "Intoxication par l'éthylène glycol.",
+              "Acidose tubulaire rénale."
+            ],
+            "correct_option_ids": [
+              1,
+              3
+            ]
+          },
+          {
+            "question": "Dans l'alcalose métabolique : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "L'anomalie primaire est une augmentation de HCO3-.",
+              "L'anomalie primaire est une diminution de HCO3-.",
+              "On a une hypokaliémie.",
+              "On a une hyperkaliémie."
+            ],
+            "correct_option_ids": [
+              0,
+              2
+            ]
+          },
+          {
+            "question": "Parmi les situations suivantes quelle est la cause d'acidose métabolique à trou anionique élevé : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Déshydratation.",
+              "Diarrhées abondantes.",
+              "Intoxication salicylique.",
+              "Acidocétose."
+            ],
+            "correct_option_ids": [
+              2,
+              3
+            ]
+          },
+          {
+            "question": "Un patient consulte aux urgences pour diarrhée aiguë, l'examen clinique retrouve une hyperventilation, avec dyspnée, hyperkaliémie et un pH=7,30 ; il s'agit d'une : (Cochez la réponse juste.)",
+            "options": [
+              "Acidose lactique.",
+              "Acidose métabolique.",
+              "Acidose respiratoire.",
+              "Alcalose métabolique."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Un patient qui a ingéré un corps étranger est retrouvé avec tachycardie, sueurs, céphalées et anxiété puis devient rapidement hypoxique et confus, la biologie retrouve une hyperkaliémie et un pH=7,30 ; il s'agit d'une : (Cochez la réponse juste.)",
+            "options": [
+              "Acidose lactique.",
+              "Acidose métabolique.",
+              "Acidose respiratoire.",
+              "Alcalose métabolique."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Une alcalose respiratoire comporte : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Une hypoventilation.",
+              "Un PH urinaire augmenté.",
+              "Une hyperchlorémie.",
+              "Une hyperkaliémie."
+            ],
+            "correct_option_ids": [
+              1,
+              2
+            ]
+          }
+        ],
+        "2016": [
+          {
+            "question": "Au cours de l'acidose métabolique : (Cochez la réponse juste.)",
+            "options": [
+              "La diminution des bicarbonates plasmatiques représente le primum movens.",
+              "Le trou anionique plasmatique est toujours élevé.",
+              "Le trou anionique urinaire est toujours bas.",
+              "Toutes les réponses sont exactes."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "L'acidose est définie par : (Cochez la réponse juste.)",
+            "options": [
+              "Tout processus aboutissant à la formation d'acides dans l'organisme.",
+              "Abaissement quasi constant du pH plasmatique.",
+              "L'augmentation du trou anionique plasmatique.",
+              "L'augmentation du trou anionique urinaire."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "L'acidose tubulaire rénale se caractérise par : (Cochez la réponse juste.)",
+            "options": [
+              "Un taux de bicarbonate plasmatique diminué.",
+              "Un trou anionique urinaire positif.",
+              "Un trou anionique plasmatique normal.",
+              "Toutes les propositions sont justes."
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          },
+          {
+            "question": "La concentration plasmatique des ions hydrogènes est : (Cochez la réponse juste.)",
+            "options": [
+              "140 mEq/l.",
+              "0,4 mEq/l.",
+              "40 nEq/l.",
+              "Toutes les propositions sont fausses."
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          },
+          {
+            "question": "Le concept de Henderson-Hasselbalch stipule que le pH : (Cochez la réponse juste.)",
+            "options": [
+              "Est inversement proportionnel à la PaCO2.",
+              "Est inversement proportionnel au taux de bicarbonate plasmatique.",
+              "Varie à chaque fois que le pKa HCO3-/H2CO3 varie.",
+              "Toutes les réponses sont correctes."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "Le système tampon bicarbonate - acide carbonique : (Cochez la réponse juste.)",
+            "options": [
+              "Le principal tampon urinaire.",
+              "Performant du fait de son mode de fonctionnement.",
+              "Son pKa est à 10.",
+              "Toutes les propositions sont correctes."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          }
+        ]
+      },
+      "2.2 Hypertension intracrânienne": {
+        "2023": [
+          {
+            "question": "Chez l'adulte, une tumeur intracrânienne peut augmenter la pression intracrânienne, ce qui provoque :",
+            "options": [
+              "Engagement cérébral",
+              "Migration d'un tissu cérébral vers une zone à faible pression",
+              "Ischémie cérébrale",
+              "Une hypotension artérielle"
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              2
+            ]
+          },
+          {
+            "question": "L'engagement cérébral est une complication de l'hypertension intracrânienne. L'augmentation de la pression intracrânienne peut résulter de :",
+            "options": [
+              "Lésion intra cérébrale expansive comme une tumeur parenchymateuse",
+              "Un œdème cérébral généralisé",
+              "Changement de position",
+              "Fuite de LCR par ponction lombaire"
+            ],
+            "correct_option_ids": [
+              0,
+              1
+            ]
+          },
+          {
+            "question": "La pression intracrânienne (PIC) est influencée par :",
+            "options": [
+              "L'interaction production-résorption du LCR",
+              "L'afflux artériel et l'écoulement veineux",
+              "La taille et le poids des malades",
+              "Le déséquilibre acido-basique"
+            ],
+            "correct_option_ids": [
+              0,
+              1
+            ]
+          },
+          {
+            "question": "Les caractéristiques hémodynamiques cérébrales expliquent les données :",
+            "options": [
+              "La pression de perfusion cérébrale est un facteur déterminant du débit cérébral",
+              "Le débit cérébral est un facteur déterminant de la pression intracrânienne",
+              "Le traitement de l'hypertension artérielle est urgent pour contrôler la HIC grave",
+              "La PPC dépend de la pression artérielle moyenne et la pression intracrânienne"
+            ],
+            "correct_option_ids": [
+              0,
+              3
+            ]
+          },
+          {
+            "question": "Une obstruction du flux du LCR due à une hydrocéphalie est responsable :",
+            "options": [
+              "HIC avec céphalée en casque facilement calmée par les antalgiques habituels",
+              "Vomissements faciles en jet",
+              "De douleur abdominale",
+              "Troubles visuels",
+              "D'un déséquilibre des volumes à l'intérieur de cavité crânienne"
+            ],
+            "correct_option_ids": [
+              1,
+              3,
+              4
+            ]
+          }
+        ],
+        "2022": [
+          {
+            "question": "L'apparition de l'hypertension intracrânienne dépend de :",
+            "options": [
+              "L'importance du volume néoformé.",
+              "De la vitesse d'installation du néo volume.",
+              "Périmètre de la boîte crânienne.",
+              "Du poids du patient."
+            ],
+            "correct_option_ids": [
+              0,
+              1
+            ]
+          },
+          {
+            "question": "L'hypertension intracrânienne est :",
+            "options": [
+              "Le résultat d'un conflit d'espace entre contenant et contenu crânien.",
+              "Un signe de dépassement des mécanismes de compensation volumique intracrânien.",
+              "Une augmentation aiguë et durable de la pression intracrânienne.",
+              "La conséquence de la baisse brutale de PPC."
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              2
+            ]
+          },
+          {
+            "question": "Le débit sanguin cérébral représente :",
+            "options": [
+              "14 à 15% du débit cardiaque.",
+              "20% du débit cardiaque.",
+              "Chute au cours de l'HTA.",
+              "Dépend de la PPC et résistances vasculaires cérébraux."
+            ],
+            "correct_option_ids": [
+              0,
+              3
+            ]
+          },
+          {
+            "question": "Le développement de la HIC peut être causé par :",
+            "options": [
+              "Un hématome cérébral.",
+              "Une hydrocéphalie.",
+              "Une tumeur cérébrale.",
+              "Une intoxication alimentaire."
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              2
+            ]
+          },
+          {
+            "question": "Chez un sujet présentant une grosse tumeur cérébrale :",
+            "options": [
+              "La pression intracrânienne est maintenue constante.",
+              "La pression intracrânienne est augmentée.",
+              "La constatation d'une HTA est un signe d'alarme de dépassement de l'autorégulation cérébrale.",
+              "La PPC est maintenue par une baisse de PAM.",
+              "La réduction de production de LCR équivalente au volume de la tumeur cérébrale maintient la PIC constante."
+            ],
+            "correct_option_ids": [
+              1,
+              2,
+              4
+            ]
+          },
+          {
+            "question": "Selon la courbe pression/volume de LANGFITT au cours de HIC ; il existe deux phases de HIC compensée et décompensée :",
+            "options": [
+              "La première partie correspond à une compliance élevée.",
+              "La 2ème partie correspond à une compliance effondrée.",
+              "La 1ère partie correspond à une compliance effondrée.",
+              "La 2ème partie correspond à une compliance stable.",
+              "La compliance du LCR diminue en cas de valeurs de PIC élevée."
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              4
+            ]
+          },
+          {
+            "question": "L'hypertension intra crânienne est : (Cochez la réponse juste.)",
+            "options": [
+              "Définie par une augmentation de PIC au-dessus de 15 mmHg.",
+              "Est synonyme d'œdème cérébral.",
+              "N'est jamais constante au stade initial de l'œdème cérébral.",
+              "Toujours associée à un AVC."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "L'hypertension intra crânienne est : (Cochez la réponse juste.)",
+            "options": [
+              "Due à une augmentation du volume de l'un des constituants du cerveau.",
+              "N'est pas responsable d'un œdème papillaire.",
+              "Nécessite une PL ponction lombaire en urgence.",
+              "Entraîne des diarrhées, vomissements."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "L'œdème cérébral est : (Cochez la réponse juste.)",
+            "options": [
+              "Soit cytotoxique soit vasogénique.",
+              "Caractérisé par l'altération de la barrière hémato encéphalique.",
+              "Visible sur la radiographie du crâne.",
+              "Dû à un mauvais drainage du LCR."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "La pression de perfusion cérébrale : (Cochez la réponse juste.)",
+            "options": [
+              "Dépend de la pression intra crânienne.",
+              "Dépend de la pression artérielle diastolique.",
+              "Résulte de la somme DC-PIC.",
+              "Augmentation en cas d'HIC."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "Les conséquences systémiques de l'HIC sont : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Réflexe de Cushing.",
+              "Augmentation de la pression artérielle systémique.",
+              "Réduction de pression artérielle systémique.",
+              "Arrêt circulatoire cérébral."
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              3
+            ]
+          },
+          {
+            "question": "Parmi les propositions suivantes au sujet de la pression intracrânienne : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "La PIC normale est de 5 à 15 mmHg.",
+              "La PIC peut être physiologiquement négative en position assise.",
+              "La PIC normale est de 5 à 25 mmHg.",
+              "La PIC est la pression qui règne dans la boîte crânienne."
+            ],
+            "correct_option_ids": [
+              0,
+              3
+            ]
+          },
+          {
+            "question": "Parmi les propositions suivantes, lesquelles sont des conséquences de l'HIC : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Engagement cérébral.",
+              "Ischémie cérébrale.",
+              "Ischémie myocardique.",
+              "Œdème pulmonaire."
+            ],
+            "correct_option_ids": [
+              0,
+              1
+            ]
+          }
+        ],
+        "2018": [
+          {
+            "question": "Cochez la réponse fausse :",
+            "options": [
+              "La PIC normale est de 5 à 15 mmHg.",
+              "La PIC peut être physiologiquement négative en position assise.",
+              "La PIC normale est de 5 à 25 mmHg.",
+              "La PIC est la pression qui règne dans la boîte crânienne."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "En cas d'augmentation de la PIC sup à 25 mmHg : (Cochez la réponse fausse.)",
+            "options": [
+              "Il est important de prendre en compte de la durée, la valeur de la PAM.",
+              "Il est important de prendre en compte la cause de l'augmentation de la PIC.",
+              "Seule la valeur de la PIC a une importante signification dans la décision thérapeutique.",
+              "Il est important de prendre en compte le retentissement clinique et circulatoire de l'HIC."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "L'augmentation de volume du secteur parenchymateux qui se charge d'eau : l'œdème relève : (Cochez la réponse juste.)",
+            "options": [
+              "Désordre d'échange BHE et de la membrane plasmatique des astrocytes = œdème vasogénique et cytotoxique.",
+              "Augmentation du secteur parenchymateux.",
+              "Désordre échange barrière hémato-encéphalique = œdème cytotoxique.",
+              "Augmentation du secteur vasculaire."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "Le réflexe de Cushing au cours de l'HIC est lié à une décharge des catécholamines en réponse à : (Cochez la réponse juste.)",
+            "options": [
+              "Augmentation de la pression de perfusion cérébrale.",
+              "Une diminution de la pression de perfusion cérébrale.",
+              "Une diminution de la pression artérielle moyenne.",
+              "Correspond à l'épuisement des réserves de compliance cérébrale."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Le tableau clinique de l'HIC associe certains signes, lesquels : (Cochez la réponse juste.)",
+            "options": [
+              "Céphalées, vomissements, douleurs abdominales.",
+              "Céphalées, vomissements, troubles visuels.",
+              "Céphalées, vomissements, hypotension artérielle systémique.",
+              "Céphalées, vomissements, troubles visuels, cervicalgies."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Les conséquences systémiques de l'HIC sont : (Cochez la réponse fausse.)",
+            "options": [
+              "Réflexe de Cushing.",
+              "Augmentation de la pression artérielle systémique.",
+              "Réduction de la pression artérielle systémique.",
+              "Arrêt circulatoire cérébral."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Les conséquences systémiques de l'HIC sont, sauf une :",
+            "options": [
+              "Réflexe de Cushing.",
+              "Augmentation de la pression artérielle systémique.",
+              "Réduction de la pression systémique.",
+              "Arrêt circulatoire cérébral."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Œdème cérébral post-traumatique est de nature : (Cochez la réponse juste.)",
+            "options": [
+              "Cytotoxique par désorganisation des flux ioniques au niveau de la membrane.",
+              "Vasogénique par augmentation de la perméabilité capillaire.",
+              "Mécanique par augmentation de la pression osmotique.",
+              "Lymphatique."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "Parmi les propositions suivantes laquelle est une conséquence de l'HIC : (Cochez la réponse juste.)",
+            "options": [
+              "Hémorragie cérébrale.",
+              "Ischémie cérébrale.",
+              "Ischémie myocardique.",
+              "Œdème pulmonaire."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Parmi les propositions suivantes, laquelle est la conséquence de l'HIC : (Cochez la réponse juste.)",
+            "options": [
+              "Thrombose veineuse cérébrale.",
+              "Ischémie cérébrale.",
+              "Ischémie myocardique.",
+              "Œdème pulmonaire."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Selon la courbe pression/volume de LANGFITT au cours de HIC, il existe deux phases de HIC compensée et décompensée : (Cochez la réponse juste.)",
+            "options": [
+              "La 2ème partie correspond à une compliance élevée.",
+              "La 2ème partie correspond à une compliance effondrée.",
+              "La 1ère partie correspond à une compliance effondrée.",
+              "La 2ème partie correspond à une compliance stable."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          }
+        ],
+        "2017": [
+          {
+            "question": "Dans l'examen neurologique d'un comateux : (Cochez la réponse fausse.)",
+            "options": [
+              "Les stimulations doivent explorer le côté atteint.",
+              "Est utilisé le test au froid.",
+              "Les meilleures réponses sont retenues.",
+              "La sédation n'influence en rien l'évaluation."
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          },
+          {
+            "question": "L'HIC est une situation pathologique caractérisée par : (Cochez la réponse juste.)",
+            "options": [
+              "Augmentation du volume d'un ou de plusieurs constituants de la boîte crânienne.",
+              "Résultat d'une augmentation de la pression de perfusion cérébrale.",
+              "Ne s'observe pas en cas d'hydrocéphalie.",
+              "Est la conséquence d'un œdème cérébral localisé."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "L'hydrocéphalie chez l'enfant entraîne HIC ; elle est secondaire à : (Cochez la réponse juste.)",
+            "options": [
+              "Une augmentation du secteur vasculaire cérébral.",
+              "Une augmentation du volume du parenchyme cérébral.",
+              "Une réduction de la production du LCR.",
+              "Une augmentation de la production dépassant les capacités de résorption du LCR."
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          },
+          {
+            "question": "L'œdème cérébral peut : (Cochez la réponse juste.)",
+            "options": [
+              "Se compliquer d'HIC.",
+              "Être synonyme d'HIC.",
+              "Résulter d'une augmentation du secteur vasculaire.",
+              "Être toujours extracellulaire."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "La pression régnant dans la boîte crânienne : (Cochez la réponse juste.)",
+            "options": [
+              "Est supérieure à 20 cm Hg au repos cérébral.",
+              "Peut être négative en position assise.",
+              "Ne varie pas avec la respiration.",
+              "N'est pas un facteur déterminant de la pression de perfusion cérébrale."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Le torticolis d'apparition récente chez un enfant est un signe : (Cochez la réponse juste.)",
+            "options": [
+              "D'engagement cérébral.",
+              "De tumeur de la fosse postérieure jusqu'à preuve du contraire.",
+              "D'un hématome extradural.",
+              "D'œdème cérébral."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Les céphalées de l'HIC sont caractérisées par : (Cochez la réponse juste.)",
+            "options": [
+              "Leur excellente réponse aux antalgiques habituels.",
+              "La localisation en casque.",
+              "Le fait qu'elles réveillent le malade.",
+              "Le fait qu'elles soulagent les vomissements."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Les conséquences de l'HIC : (Cochez la réponse juste.)",
+            "options": [
+              "Sont graves lorsque l'installation de HIC est rapide.",
+              "Entraînent une hyperperfusion cérébrale.",
+              "Sont indépendantes de l'efficacité des mécanismes de compensation physiologiques.",
+              "Sont neurologiques, respiratoires, cardiaques."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "Les examens complémentaires en cas d'HIC sont : (Cochez la réponse fausse.)",
+            "options": [
+              "IRM.",
+              "TDM.",
+              "Radiographie du crâne.",
+              "Ponction lombaire."
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          },
+          {
+            "question": "Selon la courbe pression/volume cérébral, les déterminants de la survenue de HIC sont : (Cochez la réponse juste.)",
+            "options": [
+              "La distensibilité de la boîte crânienne.",
+              "Vitesse de l'installation de l'agression crânienne.",
+              "Chiffres de pression artérielle moyenne (PAM).",
+              "Ponction lombaire."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Un coma associé à une mydriase unilatérale peut évoquer : (Cochez la réponse juste.)",
+            "options": [
+              "Un hématome intra-crânien avec engagement.",
+              "Une overdose à la cocaïne.",
+              "Une hypoglycémie.",
+              "Un hématome cortical sans effet de masse."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          }
+        ]
+      },
+      "2.3 Physiopathologie de la douleur": {
+        "2024": [
+          {
+            "question": "Sélectionnez les affirmations exactes :",
+            "options": [
+              "Les nocicepteurs sont des récepteurs spécifiques, déclenchés par des stimuli douloureux spécifiques ; stimuli susceptibles d'endommager les tissus",
+              "Les nocicepteurs sont des récepteurs somesthésiques",
+              "Les nocicepteurs sont sur les terminaisons libres de FAP et peuvent être classés selon leurs modes de stimulation",
+              "Les nocicepteurs sont des cellules particulières"
+            ],
+            "correct_option_ids": [
+              0,
+              2
+            ]
+          },
+          {
+            "question": "Sélectionnez les affirmations exactes :",
+            "options": [
+              "La douleur résulte d'une multitude d'interactions et d'échanges d'informations à plusieurs étages du système nerveux.",
+              "Le \"contrôle inhibiteur diffus nociceptif\" (CIDN) est à l'origine du phénomène de masquage d'une douleur par une autre douleur.",
+              "Le cerveau est un récepteur passif des messages nociceptifs. Le cerveau n'a pas de rôle de contrôle central (supraspinal) de la douleur.",
+              "La douleur est traitée dans une structure unique du cerveau."
+            ],
+            "correct_option_ids": [
+              0,
+              1
+            ]
+          }
+        ],
+        "2022": [
+          {
+            "question": "À propos de la douleur :",
+            "options": [
+              "Elle est objective.",
+              "Elle est subjective.",
+              "Elle peut être de type nociceptif et neuropathique.",
+              "Sa composante sensori-discriminative est représentée par l'intensité de la douleur.",
+              "Sa composante affective et cognitive lui confère son aspect désagréable."
+            ],
+            "correct_option_ids": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "question": "Sélectionnez les affirmations exactes :",
+            "options": [
+              "Les nocicepteurs sont des récepteurs spécifiques, déclenchés par des stimuli douloureux spécifiques ; stimuli susceptibles d'endommager les tissus.",
+              "Les nocicepteurs sont des récepteurs somesthésiques.",
+              "Les nocicepteurs sont sur les terminaisons libres de FAP et peuvent être classés selon leurs modes de stimulation.",
+              "Les nocicepteurs sont des cellules particulières.",
+              "Deux sortes de fibres nociceptives : les fibres C, amyéliniques, plus lentes que les fibres A delta, myélinisées ; sensations transmises différentes."
+            ],
+            "correct_option_ids": [
+              0,
+              2,
+              4
+            ]
+          }
+        ],
+        "2021": [
+          {
+            "question": "La douleur neuropathique :",
+            "options": [
+              "Est toujours en rapport avec une lésion du système nerveux central et périphérique.",
+              "Ne se rencontre qu'en cas de lésion du système nerveux central.",
+              "Est liée à une libération de substances algogènes au niveau des récepteurs nociceptifs périphériques.",
+              "N'est habituellement pas contrôlée par la prise d'antalgiques classiques.",
+              "Le DNA permet de faire le diagnostic."
+            ],
+            "correct_option_ids": [
+              0,
+              3,
+              4
+            ]
+          },
+          {
+            "question": "Le contrôle de la douleur est un phénomène :",
+            "options": [
+              "Chimique, dont les enképhalines et les endorphines font partie.",
+              "Électrophysiologique, appelé le « Gate control ».",
+              "De situation spinale.",
+              "De situation supra spinale.",
+              "La noradrénaline et la sérotonine n'interviennent pas dans son contrôle."
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "question": "Au niveau central, le faisceau responsable de la sensibilité thermo-algésique est : (Cochez la réponse juste.)",
+            "options": [
+              "La voie lemniscale.",
+              "La voie extralemniscale.",
+              "Situé au niveau du cordon dorsal.",
+              "Un faisceau de fibres nerveuses riche en myéline."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "La douleur est : (Cochez la réponse juste.)",
+            "options": [
+              "Une sensation objective spécifique.",
+              "Une sensation subjective non spécifique.",
+              "Une sensation subjective spécifique.",
+              "Une sensation objective non spécifique."
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          },
+          {
+            "question": "La douleur nociceptive : (Cochez la réponse juste.)",
+            "options": [
+              "Est une lésion nerveuse.",
+              "Est une lésion de la moelle.",
+              "Est un excès de substances algogènes qui stimule le nocicepteur.",
+              "N'est pas inflammatoire."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "La douleur projetée est liée à : (Cochez la réponse juste.)",
+            "options": [
+              "Une divergence des fibres au niveau de la moelle.",
+              "Une convergence des fibres au niveau de la moelle.",
+              "Une convergence des fibres au niveau du thalamus.",
+              "Une libération de sérotonine."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Le gâte contrôle est : (Cochez la réponse juste.)",
+            "options": [
+              "Un système de frein de la douleur au niveau médullaire.",
+              "Un système de frein de la douleur de type chimique.",
+              "Un système de transmission de la douleur vers l'hypothalamus.",
+              "Un système de frein de la douleur provenant du cerveau."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "Le nocicepteur cutané : (Cochez la réponse juste.)",
+            "options": [
+              "Est polymodal.",
+              "N'est pas une terminaison libre.",
+              "Se situe dans l'hypoderme.",
+              "Se trouve exclusivement au niveau de la peau."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "Le noyau qui reçoit les fibres nerveuses nociceptives est : (Cochez la réponse juste.)",
+            "options": [
+              "Le noyau antérieur.",
+              "Le noyau postérieur.",
+              "Le noyau ventro-latéral.",
+              "Le noyau central."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Les fibres à l'origine de la transmission douloureuse sont : (Cochez la réponse juste.)",
+            "options": [
+              "Très myélinisées.",
+              "Peu myélinisées.",
+              "À conduction rapide.",
+              "À gros diamètre."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Les fibres de la douleur sont : (Cochez la réponse juste.)",
+            "options": [
+              "Les fibres Aα.",
+              "Les fibres Aλ et B.",
+              "Les fibres Aδ et C.",
+              "Les fibres Aμ."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Les mécanismes physiopathologiques dans la transmission de la douleur font intervenir : (Cochez la réponse juste.)",
+            "options": [
+              "Les fibres Aαβ et Aβ.",
+              "Les fibres Aδ et C.",
+              "Les fibres Aα et C.",
+              "Les fibres Aβ et δ."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Parmi les types de douleurs, on a : (Cochez la réponse juste.)",
+            "options": [
+              "Les douleurs nociceptives neuropathiques.",
+              "Les douleurs neuropathiques.",
+              "Les douleurs psychiques.",
+              "Les douleurs idiopathiques."
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              2
+            ]
+          }
+        ],
+        "2019": [
+          {
+            "question": "A propos des voies de la douleur : (Cochez la réponse juste.)",
+            "options": [
+              "Il existe un seul type de fibre nerveuse capable de conduire le message douloureux.",
+              "Les axones des neurones nociceptifs permettent la transmission directe du message au cerveau.",
+              "La résultante finale est la libération de neuropeptides inhibiteurs.",
+              "Il existe des mécanismes de contrôle sur les voies ascendantes et descendantes."
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          },
+          {
+            "question": "La prostaglandine fait partie des médiateurs impliqués dans la nociception : (Cochez la réponse juste.)",
+            "options": [
+              "Elle résulte de la transformation de la sécrétine.",
+              "Elle résulte de la transformation de l'acide arachidonique.",
+              "Elle résulte de la transformation de l'histamine.",
+              "Elle résulte de la transformation de la bradykinine."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Le mécanisme de la douleur nociceptive est : (Cochez la réponse juste.)",
+            "options": [
+              "Une lésion nerveuse.",
+              "Un excès de stimulation nociceptive.",
+              "Une douleur sans substratum anatomique.",
+              "Un dysfonctionnement des voies nociceptives."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Sélectionnez l'affirmation exacte :",
+            "options": [
+              "La douleur chronique est une douleur qui subsiste (supérieure à 3 mois), et peut avoir des répercussions sur l'appétit, le sommeil, etc., du patient.",
+              "La douleur se manifeste toujours dans l'organe concerné.",
+              "Une douleur est dite chronique si elle dure plus de quelques minutes.",
+              "Un stimuli nociceptif est détecté par un récepteur quelconque des FAP et engendre une douleur neurogène."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "Sélectionnez l'affirmation exacte :",
+            "options": [
+              "Même en l'absence de lésion, la douleur peut être transmise par les fibres de gros diamètre (exemple fibres A bêta).",
+              "Les nocicepteurs sont des cellules particulières.",
+              "Deux sortes de fibres nociceptives : les fibres C, amyéliniques, plus lentes que les fibres A delta, myélinisées ; sensations transmises différentes.",
+              "Les fibres nociceptives sont à forte vitesse de conduction du PA."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          }
+        ],
+        "2018": [
+          {
+            "question": "La douleur neuropathique : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Est une lésion nerveuse uniquement périphérique.",
+              "Est une lésion nerveuse périphérique et centrale.",
+              "Est une douleur liée à un excès de substances algogènes qui stimule le nocicepteur.",
+              "N'est pas inflammatoire."
+            ],
+            "correct_option_ids": [
+              1,
+              3
+            ]
+          },
+          {
+            "question": "La voie extra-lemniscale : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Est une voie antéro-latérale.",
+              "Est responsable de la sensibilité thermo-algésique.",
+              "N'est pas une voie sensitive.",
+              "Est la voie spino-thalamique."
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              3
+            ]
+          },
+          {
+            "question": "Le neurone primaire du système nociceptif : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Vient de la périphérie.",
+              "Appartient aux fibres A delta et C.",
+              "Précède le faisceau extralemniscal.",
+              "Son axone se termine au niveau du cortex somesthésique."
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              2
+            ]
+          },
+          {
+            "question": "Le noyau ventro postéro-latéral du thalamus est : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Responsable de la sensibilité proprioceptive.",
+              "Est un relais somesthésique.",
+              "Recueille des différences des voies motrices.",
+              "Est à l'origine du 2ème neurone."
+            ],
+            "correct_option_ids": [
+              0,
+              1
+            ]
+          },
+          {
+            "question": "Les neurones du système nociceptif : (Cochez la réponse juste.)",
+            "options": [
+              "Occupent les couches I, II et V.",
+              "Occupent les couches II, V et VI.",
+              "Occupent les couches VII et VIII.",
+              "Occupent les couches I - VIII et X."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "Les substances inhibitrices de la douleur comprennent :",
+            "options": [
+              "Le glutamate, aspartate.",
+              "Le GABA et la noradrénaline.",
+              "Les leucotriènes.",
+              "Le CGRP, la sérotonine."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          }
+        ],
+        "2017": [
+          {
+            "question": "La douleur nociceptive : (Cochez la réponse juste.)",
+            "options": [
+              "Est une lésion nerveuse.",
+              "Est une lésion de la moelle.",
+              "Est un excès de substances algogènes qui stimule le nocicepteur.",
+              "N'est pas inflammatoire."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "La douleur projetée est liée à : (Cochez la réponse juste.)",
+            "options": [
+              "Une divergence des fibres au niveau de la moelle.",
+              "Une convergence des fibres au niveau de la moelle.",
+              "Une convergence des fibres au niveau du thalamus.",
+              "Une libération de sérotonine."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Le nocicepteur cutané : (Cochez la réponse juste.)",
+            "options": [
+              "Est polymodal.",
+              "N'est pas une terminaison libre.",
+              "Se situe dans l'hypoderme.",
+              "Se trouve exclusivement au niveau de la peau."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "Le gâte contrôle est : (Cochez la réponse juste.)",
+            "options": [
+              "Un système de frein de la douleur au niveau médullaire.",
+              "Un système de frein de la douleur de type chimique.",
+              "Un système de transmission de la douleur vers l'hypothalamus.",
+              "Un système de frein de la douleur provenant du cerveau."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "Le système nociceptif comprend : (Cochez la réponse juste.)",
+            "options": [
+              "1 neurone.",
+              "2 neurones.",
+              "3 neurones.",
+              "4 neurones."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Le système nociceptif emprunte : (Cochez la réponse juste.)",
+            "options": [
+              "La voie lemniscale.",
+              "La voie extra lemniscale.",
+              "La voie pyramidale.",
+              "La voie extra pyramidale."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Les fibres de la douleur sont : (Cochez la réponse juste.)",
+            "options": [
+              "Les fibres Aα et β.",
+              "Les fibres Aλ et β.",
+              "Les fibres Aδ et C.",
+              "Les fibres Aμ."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Les substances excitatrices comprennent : (Cochez la réponse juste.)",
+            "options": [
+              "Le glutamate.",
+              "Le GABA.",
+              "Les enképhalines.",
+              "Les endorphines."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "On décrit différents types de douleur sauf une laquelle :",
+            "options": [
+              "Neuropathique.",
+              "Nociceptive.",
+              "Psychogène.",
+              "Obsessionnelle."
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          }
+        ]
+      },
+      "2.4 Physiopathologie des œdèmes périphériques": {
+        "2024": [
+          {
+            "question": "Les mécanismes physiopathologiques pour la formation des œdèmes par altération de l'hémodynamique capillaire sont :",
+            "options": [
+              "Diminution de la P. hydrostatique capillaire (Pc)",
+              "Diminution de la pression oncotique capillaire (πc)",
+              "Augmentation de la perméabilité capillaire (Kf)",
+              "Diminution de la pression oncotique interstitielle"
+            ],
+            "correct_option_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "question": "Quelles sont les propositions justes :",
+            "options": [
+              "L'eau totale constitue 60% du poids du sujet adulte, dont 2/3 sont intracellulaires et 1/3 sont extracellulaires",
+              "L'eau totale constitue 60% du poids du sujet adulte, dont 1/3 sont intracellulaires et 2/3 sont extracellulaires",
+              "Le volume circulant effectif est le volume de sang artériel qui perfuse efficacement les tissus",
+              "L'augmentation de volume circulant effectif peut stimuler la sécrétion de rénine"
+            ],
+            "correct_option_ids": [
+              0,
+              2
+            ]
+          },
+          {
+            "question": "Quelles sont les propositions justes :",
+            "options": [
+              "L'eau totale constitue 60 % du poids du sujet adulte, dont 1/3 sont intracellulaires et 2/3 sont extracellulaires",
+              "L'eau totale constitue 60 % du poids du sujet adulte, dont 2/3 sont intracellulaires et 1/3 sont extracellulaires",
+              "Le volume circulant effectif est le volume de sang artériel qui perfuse efficacement les tissus",
+              "L'augmentation de volume circulant effectif peut stimuler la sécrétion de rénine"
+            ],
+            "correct_option_ids": [
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    },
+    "Radiologie": {
+      "3.1 Imagerie ostéoarticulaire": {
+        "2025": [
+          {
+            "question": "En imagerie, les signes de dégénérescence articulaire incluent :",
+            "options": [
+              "Pincement articulaire asymétrique",
+              "Ostéophytes marginaux",
+              "Épaississement synovial diffus",
+              "Géodes sous-chondrales",
+              "Aucune réponse n'est juste"
+            ],
+            "correct_option_ids": [
+              4
+            ]
+          },
+          {
+            "question": "En IRM, les signes d'arthrite active incluent :",
+            "options": [
+              "Synovite en hypersignal T2 avec rehaussement post-gadolinium",
+              "Épanchement intra-articulaire",
+              "Érosion osseuse marginale",
+              "Ostéosclérose sous-chondrale",
+              "Aucune réponse n'est juste"
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "En IRM, un hypersignal T2 peut traduire :",
+            "options": [
+              "Un œdème",
+              "Une tumeur nécrosée",
+              "Une hémorragie aiguë",
+              "Une démyélinisation",
+              "Aucune réponse n'est juste"
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Quel examen visualise le mieux une lésion médullaire ?",
+            "options": [
+              "Radiographie standard",
+              "Échographie",
+              "IRM",
+              "TDM",
+              "Aucune réponse n'est juste"
+            ],
+            "correct_option_ids": [
+              0,
+              3
+            ]
+          },
+          {
+            "question": "Sémiologie d'un AVC hémorragique en TDM sans injection (phase aiguë) :",
+            "options": [
+              "Zone hyperdense spontanée",
+              "Effet de masse avec refoulement",
+              "Hypodensité homogène",
+              "Risque de rupture ventriculaire",
+              "Aucune réponse n'est juste"
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "Sémiologie radiologique d'un hématome extra-durai en TDM sans injection :",
+            "options": [
+              "Hyperdensité biconvexe",
+              "Respect des sutures crâniennes",
+              "Œdème péri-lésionnel marqué",
+              "Association fréquente à une fracture osseuse",
+              "Aucune réponse n'est juste"
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Signes d'hydrocéphalie active en imagerie :",
+            "options": [
+              "Dilatation des ventricules latéraux",
+              "Affaissement des cornes frontales",
+              "Effacement des sillons corticaux",
+              "Rétrécissement des citernes de la base",
+              "Aucune réponse n'est juste"
+            ],
+            "correct_option_ids": [
+              1,
+              2
+            ]
+          }
+        ],
+        "2024": [
+          {
+            "question": "Concernant les anomalies de l'interligne articulaire :",
+            "options": [
+              "Un interligne normal élimine une arthrose",
+              "Une ankylose est définie par une disparition de l'interligne articulaire",
+              "Un interligne pincé globalement reliée une arthropathie mécanique",
+              "On ne peut pas déduire la présence d'un épanchement intra-articulaire à partir des anomalies de l'interligne articulaire"
+            ],
+            "correct_option_ids": [
+              0,
+              1
+            ]
+          },
+          {
+            "question": "L'arthrite associé :",
+            "options": [
+              "Un pincement diffus de l'interligne",
+              "Déminéralisation osseuse sous chondrale",
+              "Des ostéophytes",
+              "Douleur de type mécanique"
+            ],
+            "correct_option_ids": [
+              0,
+              1
+            ]
+          },
+          {
+            "question": "Devant une infection disco-vertébrale :",
+            "options": [
+              "Le premier examen d'imagerie à réaliser : (radiographies face+ profil)",
+              "L'IRM correspond à l'examen de beaucoup plus sensible que les radiographies.",
+              "L'IRM montre des anomalies des parties molles et de la moelle osseuse dès les premiers jours",
+              "Les radiographies sont normales pendant les deux premiers mois d'évolution",
+              "Le pincement discal est le premier signe visible sur la radiographie"
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              2,
+              4
+            ]
+          },
+          {
+            "question": "Une arthrose du genou se manifeste radiologiquement par :",
+            "options": [
+              "Un élargissement de l'interligne articulaire",
+              "Des ostéophytes latéraux",
+              "Des géodes sous-chondrales",
+              "Une condensation sous-chondrale",
+              "Un pincement de l'interligne articulaire"
+            ],
+            "correct_option_ids": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "question": "Une déminéralisation osseuse diffuse peut être en rapport avec :",
+            "options": [
+              "Une ostéomalacie",
+              "Une ostéoporose",
+              "Un rachitisme",
+              "Une intoxication au fluor",
+              "Une tumeur ostéogénique"
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              2
+            ]
+          },
+          {
+            "question": "Une image d'ostéolyse est probablement bénigne si elle est :",
+            "options": [
+              "De type A de Lodwick",
+              "De type II de Lodwick",
+              "De siège métaphysaire",
+              "De siège épiphysaire",
+              "De type III de Lodwick"
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "Devant une spondylodiscite :",
+            "options": [
+              "Les radiographies standards initiales sont normales.",
+              "L'IRM correspond à l'examen clé, plus sensible que les radiographies.",
+              "L'IRM montre des anomalies de la moelle osseuse et des parties molles dès les premiers jours.",
+              "Les radiographies standards en phase d'état montrent un pincement discal et une érosion des plateaux vertébraux.",
+              "Les radiographies standards tardives montrent un bloc vertébral."
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "question": "Les signes radiologiques en rapport avec une arthropathie dégénérative :",
+            "options": [
+              "Pincement articulaire.",
+              "Déminéralisation osseuse sous chondrale.",
+              "Ostéophytes péri-articulaires.",
+              "Ostéo-condensation et géodes sous-chondrales.",
+              "Séquestre osseux."
+            ],
+            "correct_option_ids": [
+              0,
+              2,
+              3
+            ]
+          },
+          {
+            "question": "Une ostéolyse bénigne réalise sur une radiographie :",
+            "options": [
+              "Un remaniement osseux mixte.",
+              "Une corticale non rompue.",
+              "Un éperon de Codman.",
+              "Un liseré condensant bénin.",
+              "Une lacune type IA de Lodwick."
+            ],
+            "correct_option_ids": [
+              1,
+              4
+            ]
+          },
+          {
+            "question": "Une réaction périostée en feu d'herbe :",
+            "options": [
+              "Témoigne d'un processus lentement évolutif.",
+              "La corticale osseuse sous-jacente est souvent respectée.",
+              "Est faite de lamelles périostées parallèles entre elles et à l'os porteur.",
+              "Peut accompagner une tumeur bénigne.",
+              "Toutes les réponses sont fausses."
+            ],
+            "correct_option_ids": [
+              4
+            ]
+          }
+        ],
+        "2021": [
+          {
+            "question": "Devant une infection disco-vertébrale :",
+            "options": [
+              "Le 1er examen à réaliser : radiographie face + profil.",
+              "L'IRM correspond à l'examen clé ; plus sensible que les radiographies.",
+              "L'IRM montre des anomalies de la moelle osseuse et des parties molles dès les premiers jours.",
+              "Les radiographies sont normales pendant les 2 premiers mois d'évolution.",
+              "Toutes les réponses sont fausses."
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              2
+            ]
+          },
+          {
+            "question": "L'échographie permet :",
+            "options": [
+              "La recherche d'un épanchement intra-articulaire.",
+              "L'analyse des parties molles.",
+              "L'étude d'un processus tumoral intra-médullaire.",
+              "L'étude de la continuité de la corticale et la recherche d'un abcès sous-périosté.",
+              "Toutes les réponses sont fausses."
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              3
+            ]
+          },
+          {
+            "question": "Les signes radiologiques en rapport avec une ostéite chronique :",
+            "options": [
+              "Élargissement du fût diaphysaire.",
+              "Plages d'ostéolyse mal limitées.",
+              "Réaction périostée type pleine.",
+              "Abcès de Brodie.",
+              "Séquestre osseux et fistules."
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "question": "Parmi les tumeurs osseuses bénignes, une a un risque de dégénérescence maligne :",
+            "options": [
+              "Kyste essentiel.",
+              "Fibrome non ossifiant.",
+              "Kyste anévrysmal.",
+              "Exostose.",
+              "Toutes les réponses sont fausses."
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          },
+          {
+            "question": "Une ostéolyse péjorative réalisée sur une radiographie :",
+            "options": [
+              "Un remaniement osseux mixte.",
+              "Une corticale non rompue.",
+              "Un éperon de Codman.",
+              "Une réaction périostée mono-lamellaire.",
+              "Toutes les réponses sont fausses."
+            ],
+            "correct_option_ids": [
+              0,
+              2
+            ]
+          }
+        ],
+        "2020": [
+          {
+            "question": "L'examen de choix pour explorer la moelle osseuse est :",
+            "options": [
+              "Arthrographie.",
+              "Échographie.",
+              "TDM.",
+              "IRM.",
+              "Scintigraphie osseuse."
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          },
+          {
+            "question": "La première approche diagnostique des tumeurs osseuses repose sur :",
+            "options": [
+              "Échographie des parties molles.",
+              "Radiographies standards.",
+              "TDM.",
+              "IRM.",
+              "Scintigraphie osseuse."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Quels sont les signes d'une lacune osseuse bénigne : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Condensation osseuse.",
+              "Limites nettes.",
+              "Extension dans les parties molles.",
+              "Pas de réaction périostée.",
+              "Ostéolyse cernée par une ostéosclérose périphérique."
+            ],
+            "correct_option_ids": [
+              1,
+              3,
+              4
+            ]
+          }
+        ],
+        "2019": [
+          {
+            "question": "Les signes de l'ostéopénie sont : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Augmentation de la transparence osseuse.",
+              "Condensation osseuse.",
+              "Tassement vertébral.",
+              "Amincissement des corticales osseuses.",
+              "Épaississement des corticales osseuses."
+            ],
+            "correct_option_ids": [
+              0,
+              2,
+              3
+            ]
+          },
+          {
+            "question": "Une ostéolyse à contours irréguliers avec rupture de la corticale et réaction périostée spécifiée sur radiographie du tibia vous fait évoquer : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Ostéomalacie.",
+              "Ostéoporose.",
+              "Maladie de Paget.",
+              "Tumeur bénigne.",
+              "Tumeur maligne."
+            ],
+            "correct_option_ids": [
+              4
+            ]
+          }
+        ],
+        "2018": [
+          {
+            "question": "Les tumeurs osseuses bénignes nécessitent une surveillance radiologique : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Chondrome.",
+              "Exostose.",
+              "Kyste osseux.",
+              "Kyste anévrysmal."
+            ],
+            "correct_option_ids": [
+              0,
+              1
+            ]
+          },
+          {
+            "question": "Un bilan d'extension d'une tumeur maligne du genou : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Radio thoracique de face.",
+              "Échographie abdominale.",
+              "TDM thoraco-abdomino-pelvienne.",
+              "IRM du genou et du fémur."
+            ],
+            "correct_option_ids": [
+              2,
+              3
+            ]
+          }
+        ],
+        "2017": [
+          {
+            "question": "Critères de bénignité d'une tumeur osseuse à la radiographie standard : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Parties molles calcifiées.",
+              "Condensation péri-lésionnelle.",
+              "Lésion homogène.",
+              "Rupture de la corticale."
+            ],
+            "correct_option_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "question": "Critères de malignité d'une tumeur osseuse à la radiographie standard : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Zone de transition mal définie.",
+              "Réaction périostée présente.",
+              "Lésions bifocales.",
+              "Parties molles condensées."
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              3
+            ]
+          },
+          {
+            "question": "Un bilan d'extension à distance d'une tumeur maligne agressive : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Radio thoracique face.",
+              "Échographie abdominale.",
+              "TDM thoraco-abdomino-pelvienne.",
+              "IRM abdominale."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Une tumeur bénigne osseuse nécessite une surveillance radiologique : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Tumeur à cellules géantes.",
+              "Kyste simple.",
+              "Fibrome non ossifiant.",
+              "Kyste anévrysmal."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          }
+        ],
+        "2015": [
+          {
+            "question": "Une arthrose du genou se manifeste radiologiquement par : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Un élargissement de l'interligne articulaire.",
+              "Des ostéophytes latéraux.",
+              "Des géodes sous-chondrales.",
+              "Une condensation sous-chondrale."
+            ],
+            "correct_option_ids": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "question": "Une lacune osseuse est probablement maligne si : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Elle a des contours nets entourés d'un liseré d'ostéosclérose.",
+              "Elle a des contours nets sans liseré d'ostéosclérose.",
+              "Elle a des limites floues.",
+              "Est de siège métaphysaire."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Une réaction périostée en feu d'herbe : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Témoigne d'un processus agressif.",
+              "La corticale osseuse sous-jacente est souvent respectée.",
+              "Est faite de lamelles périostées parallèles entre elles et à l'os porteur.",
+              "Peut accompagner une tumeur bénigne."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          }
+        ]
+      },
+      "3.2 Sémiologie neuro radiologique": {
+        "2024": [
+          {
+            "question": "À propos des temps de l'IRM :",
+            "options": [
+              "Le LCR est noir en T1, et la substance grise est en hyposignal par rapport à la substance blanche",
+              "Le FLAIR est un T1 à LCR blanc",
+              "Malgré le signal aboli du LCR en FLAIR, l'œdème est bien visualisé",
+              "La T2* est utilisée pour rechercher la présence d'une tumeur cérébrale"
+            ],
+            "correct_option_ids": [
+              0,
+              2
+            ]
+          },
+          {
+            "question": "A propos des temps de l'IRM :",
+            "options": [
+              "Le LCR est noir en T1, et la substance grise est en hyposignal par rapport à la substance blanche",
+              "Le FLAIR est un T1 à LCR blanc",
+              "Malgré le signal aboli du LCR en FLAIR, l'œdème bien visualisé",
+              "Le LCR est blanc en T2, la substance grise est en hypersignal par rapport à la substance blanche"
+            ],
+            "correct_option_ids": [
+              0,
+              2,
+              3
+            ]
+          },
+          {
+            "question": "L'angiographie numérisée :",
+            "options": [
+              "Se fait en injectant un produit de contraste azoté au niveau artériel",
+              "Elle étudie les vaisseaux de l'origine du tronc supra-aortique jusqu'aux branches terminales encéphaliques",
+              "Elle a une indication thérapeutique en cas d'embolie",
+              "Pratiquée par un cathétérisme d'une artère périphérique"
+            ],
+            "correct_option_ids": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "question": "L'échographie transfontanellaire :",
+            "options": [
+              "Est utilisée chez l'enfant et l'adulte",
+              "Elle évalue le système ventriculaire et les structures médianes",
+              "Elle explore l'encéphale par voie transfontanellaire",
+              "N'est pas utile pour rechercher un syndrome de masse"
+            ],
+            "correct_option_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "question": "L'échographie transfontanellaire :",
+            "options": [
+              "Elle évalue les ventricules et les structures médianes.",
+              "Elle explore l'encéphale par voie transfontanellaire.",
+              "N'est pas utile pour rechercher un syndrome de masse.",
+              "C'est un examen prépondérant en néonatalogie."
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              3
+            ]
+          },
+          {
+            "question": "L'Ostéopénie :",
+            "options": [
+              "Elle est perceptible radiologiquement par une hyper opacité lorsque la perte calcique est supérieure à 30%",
+              "Une arthrite peut être la cause d'une Ostéopénie localisée",
+              "La corticale est dense et l'os est déminéralisé",
+              "L'ostéoporose, l'ostéomalacie et l'hyperparathyroïdie peuvent être la cause d'une Ostéopénie diffuse"
+            ],
+            "correct_option_ids": [
+              1,
+              3
+            ]
+          },
+          {
+            "question": "Quelle(s) est(sont), parmi les lésions suivantes, celle(s) qui se manifeste(nt) par une image hyperdense :",
+            "options": [
+              "Une encéphalite",
+              "Un hématome sous durai aigu",
+              "Des calcifications parenchymateuses",
+              "Un AVC hémorragique type hémorragie méningée"
+            ],
+            "correct_option_ids": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "question": "Quelle(s) est(sont), parmi les lésions suivantes, celle(s) qui se manifeste(nt) par une image hyperdense :",
+            "options": [
+              "Un œdème cérébral en séquence T2 FLAIR",
+              "Une encéphalite",
+              "Un hématome sous-durai aigu",
+              "Des calcifications parenchymateuses"
+            ],
+            "correct_option_ids": [
+              2,
+              3
+            ]
+          },
+          {
+            "question": "Sur une IRM cérébrale, une lésion extra-axiale en hyposignal T1, hypersignal T2 se rehaussant en périphérie par le GADO évoque un(e) :",
+            "options": [
+              "Abcès cérébral",
+              "Empyème",
+              "Tumeur cérébrale",
+              "Tuberculome"
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Sur une IRM cérébrale, une lésion extra-axiale en hyposignal T1, hypersignal T2 se rehaussant en périphérie par le GADO évoque un(e) :",
+            "options": [
+              "Abcès cérébral",
+              "Empyème",
+              "Tumeur cérébrale",
+              "Hématome chronique"
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Une TDM cérébrale montrant une image périphérique hyperdense évoque :",
+            "options": [
+              "Un hématome extra-axial",
+              "Un hématome extra-durai",
+              "Un empyème",
+              "Un hygrome"
+            ],
+            "correct_option_ids": [
+              0,
+              1
+            ]
+          },
+          {
+            "question": "Une TDM cérébrale montrant une image périphérique hyperdense évoque :",
+            "options": [
+              "Un hématome extra axial",
+              "Un hématome extra durai",
+              "Un empyème",
+              "Un hématome sous durai aigu"
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              3
+            ]
+          }
+        ],
+        "2023": [
+          {
+            "question": "Dans une TDM cérébrale, la densité des noyaux gris centraux est :",
+            "options": [
+              "Iso-dense au cortex cérébral",
+              "Hypodense au cortex cérébral",
+              "Hyperdense au cortex cérébral",
+              "De 40 UH",
+              "Une densité graisseuse"
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "En IRM, l'AVC ischémique est diagnostiqué précocement grâce à :",
+            "options": [
+              "La séquence FLAIR",
+              "La séquence T1",
+              "La séquence T2",
+              "La séquence de diffusion",
+              "La séquence FATSAT"
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          },
+          {
+            "question": "Quelle(s) est/sont, parmi les lésions suivantes, celle(s) qui se manifeste(nt) par une image hyperdense ? :",
+            "options": [
+              "La table externe",
+              "La table interne",
+              "Les éclats métalliques d'une arme à feu",
+              "Un hématome sous durai sub aigu"
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Quelle(s) est/sont, parmi les lésions suivantes, celle(s) qui se manifeste(nt) par une image hypodense ? :",
+            "options": [
+              "L'œdème cérébral vasogénique",
+              "Un œdème cérébral cytotoxique",
+              "Un AVC ischémique aigu",
+              "Une encéphalite",
+              "Un abcès cérébral"
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "question": "Sur un scanner cérébral, une collection extra axiale en croissant hémisphérique de 40 UH de densité est en rapport avec :",
+            "options": [
+              "Un hématome extra durai aigu",
+              "Un hématome sous durai chronique",
+              "Un hématome sous durai sub aigu",
+              "Un empyème",
+              "Un hématome sous durai aigu"
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          }
+        ],
+        "2022": [
+          {
+            "question": "En cas de suspicion d'une compression médullaire, l'examen de 1ère intention est :",
+            "options": [
+              "TDM.",
+              "Scintigraphie osseuse.",
+              "Myélographie.",
+              "IRM.",
+              "Toutes les réponses sont fausses."
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          },
+          {
+            "question": "L'angiographie cérébrale est un examen :",
+            "options": [
+              "Non invasif.",
+              "Pratiqué par l'injection intraveineuse de produit de contraste.",
+              "De première intention pour l'exploration vasculaire.",
+              "Pratiqué par un cathétérisme d'une artère périphérique.",
+              "Pré-thérapeutique pour une cartographie vasculaire."
+            ],
+            "correct_option_ids": [
+              3,
+              4
+            ]
+          },
+          {
+            "question": "Quelle(s) est/sont, parmi les lésions suivantes, celle(s) qui se manifeste(nt) par une image hypodense :",
+            "options": [
+              "Un œdème cérébral en séquence T1.",
+              "Une encéphalite.",
+              "Un hématome sous durai subaigu.",
+              "Des calcifications parenchymateuses en séquence T2.",
+              "Un kyste arachnoïdien."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Sur une IRM cérébrale, une lésion parenchymateuse en hyposignal T1, hypersignal T2 se rehaussant en périphérie par le GADO évoque un(e) :",
+            "options": [
+              "Abcès cérébral.",
+              "Empyème.",
+              "Tumeur cérébrale.",
+              "Tuberculome.",
+              "Hématome chronique."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "Une TDM cérébrale montrant une image intra axiale hypodense systématisée évoque :",
+            "options": [
+              "Un hématome sous durai chronique.",
+              "Une encéphalite.",
+              "Un hématome sous durai aigu.",
+              "Une méningite.",
+              "Un AVC ischémique constitué."
+            ],
+            "correct_option_ids": [
+              4
+            ]
+          }
+        ],
+        "2021": [
+          {
+            "question": "Après un traumatisme crânien ; en TDM ; une lésion hyperdense périphérique à bords parallèles refoulant le parenchyme cérébral ; correspond :",
+            "options": [
+              "Un AVC hémorragique.",
+              "Un hématome extra durai.",
+              "Un hématome sous dural subaigu.",
+              "Un foyer de contusion œdémato-hémorragique.",
+              "Toutes les réponses sont fausses."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Dans une TDM cérébrale ; les noyaux gris centraux sont :",
+            "options": [
+              "Iso-denses au cortex cérébral.",
+              "Hypodenses au cortex cérébral.",
+              "Hyperdenses au cortex cérébral.",
+              "De densité entre 90 et 100 UH.",
+              "Discrètement hyperdense par rapport à la substance blanche."
+            ],
+            "correct_option_ids": [
+              4
+            ]
+          },
+          {
+            "question": "Quelle(s) est/sont, parmi les lésions suivantes, celle(s) qui se manifeste(nt) par une image hyperdense :",
+            "options": [
+              "Un œdème cérébral en séquence T2.",
+              "Une encéphalite.",
+              "Un hématome.",
+              "Des calcifications parenchymateuses.",
+              "Un corps étranger métallique."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Une TDM cérébrale montrant une image périphérique hypodense en croissant évoque :",
+            "options": [
+              "Un hématome sous dural.",
+              "Un hématome extra dural.",
+              "Un empyème.",
+              "Une méningite.",
+              "Une tumeur du diploé."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "Les principales indications des moyens d'exploration cranio-encéphalique : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Traumatisme par chute ou accident de la circulation.",
+              "AVP (accident de la voie publique).",
+              "Hémorragies méningées par rupture d'anévrisme.",
+              "Malformations vasculaires.",
+              "Pathologie tumorale, inflammatoire et infectieuse."
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ]
+          }
+        ],
+        "2018": [
+          {
+            "question": "À l'IRM, la séquence la plus sensible pour la détection d'une lésion ischémique cérébrale hyperaiguë : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "3 DTOF.",
+              "Diffusion.",
+              "T1 + Gado.",
+              "Flair."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "À la TDM l'hématome sous dural : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Un croissant.",
+              "Lentille biconvexe.",
+              "Parfois de siège hémisphérique.",
+              "Arrêt net en regard de la suture."
+            ],
+            "correct_option_ids": [
+              0,
+              2
+            ]
+          },
+          {
+            "question": "Accident vasculaire cérébral hémorragique aigu à la TDM : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Lésion spontanément hypodense.",
+              "Lésion spontanément hyper dense.",
+              "Lésion de densité liquidienne.",
+              "Lésion biconvexe."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          },
+          {
+            "question": "Céphalée atroce avec flou visuel, TDM cérébrale recherche : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Hydrocéphalie active.",
+              "Hémorragie méningée.",
+              "Lésion ischémique tardive.",
+              "Signes d'hypertension intra-crânienne."
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              3
+            ]
+          },
+          {
+            "question": "Engagement sous falcique à la TDM : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Abaissement des amygdales cérébelleuses dans le foramen de magnum.",
+              "Déviation de la ligne médiane.",
+              "Un ventricule latéral est collabé.",
+              "Effacement des citernes de la base."
+            ],
+            "correct_option_ids": [
+              1,
+              2
+            ]
+          },
+          {
+            "question": "La glande hypophyse est explorée par : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "TDM hypophyse.",
+              "RX selle turcique.",
+              "IRM hypophyse.",
+              "ETF."
+            ],
+            "correct_option_ids": [
+              2
+            ]
+          },
+          {
+            "question": "Paraplégie post traumatique, examens radiologiques demandés : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "TDM cérébrale.",
+              "IRM médullaire.",
+              "IRM cérébrale.",
+              "TDM du rachis dorso-lombaire."
+            ],
+            "correct_option_ids": [
+              1,
+              3
+            ]
+          },
+          {
+            "question": "Parmi les intérêts de la TDM cérébrale sans injection de produit de contraste : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Recherche des corps étrangers métalliques.",
+              "Recherche des calcifications.",
+              "Siège des structures anatomiques.",
+              "Détection des lésions hémorragiques."
+            ],
+            "correct_option_ids": [
+              0,
+              1,
+              3
+            ]
+          }
+        ],
+        "2017": [
+          {
+            "question": "En cas d'hydrocéphalie tri-ventriculaire, intérêt de l'IRM cérébrale : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Recherche une sténose de trou de Monro.",
+              "Détecter les signes d'HIC.",
+              "Rechercher une lésion ischémique.",
+              "Rechercher une sténose ou compression de l'aqueduc de Sylvius."
+            ],
+            "correct_option_ids": [
+              1,
+              3
+            ]
+          },
+          {
+            "question": "En TDM, l'hématome extra dural est : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Un croissant.",
+              "Lentille biconvexe.",
+              "Lentille biconcave.",
+              "Arrêt net en regard de la suture."
+            ],
+            "correct_option_ids": [
+              1,
+              3
+            ]
+          },
+          {
+            "question": "Examen de première intention en cas de traumatisme crânien grave : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Radiographie de crâne face et profil.",
+              "TDM cérébrale sans injection de produit de contraste.",
+              "IRM cérébrale sans injection de produit de contraste.",
+              "Angiographie à titre diagnostique."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          }
+        ],
+        "2016": [
+          {
+            "question": "Pour l'embolisation en cas d'AVC ischémique on fait : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Un scanner avant 6 heures.",
+              "Une IRM avant 6 heures.",
+              "Une IRM après 6 heures.",
+              "Un cliché standard."
+            ],
+            "correct_option_ids": [
+              1
+            ]
+          }
+        ],
+        "2015": [
+          {
+            "question": "Dans un TDM cérébrale, la densité des noyaux gris centraux est : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Iso dense au cortex cérébral.",
+              "Hypo dense au cortex cérébral.",
+              "Hyper dense au cortex cérébral.",
+              "Une densité graisseuse."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "En IRM, l'AVC ischémique est diagnostiqué précocement grâce à : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "La séquence FLAIR.",
+              "La séquence T1.",
+              "La séquence T2.",
+              "La séquence de diffusion."
+            ],
+            "correct_option_ids": [
+              3
+            ]
+          },
+          {
+            "question": "L'hématome extra-dural : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Est une urgence neurochirurgicale.",
+              "Est une collection sanguine entre l'arachnoïde et la dure-mère.",
+              "Secondaire à une plaie veineuse.",
+              "Évolue pour devenir hypodense à la phase chronique."
+            ],
+            "correct_option_ids": [
+              0
+            ]
+          },
+          {
+            "question": "Une tumeur cérébrale extra-axiale : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Se raccorde à angle aigu avec la paroi osseuse.",
+              "Se raccorde à angle ouvert avec la paroi osseuse.",
+              "Plutôt centrale.",
+              "Plutôt périphérique."
+            ],
+            "correct_option_ids": [
+              1,
+              3
+            ]
+          },
+          {
+            "question": "Une tumeur cérébrale maligne : (Cochez la ou les réponse(s) justes.)",
+            "options": [
+              "Ne prend pas le contraste.",
+              "Est souvent hétérogène.",
+              "Est entourée d'un œdème péri-tumoral.",
+              "N'entraîne aucun effet de masse sur les structures de voisinage."
+            ],
+            "correct_option_ids": [
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

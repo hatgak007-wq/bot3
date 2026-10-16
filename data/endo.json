@@ -1,0 +1,253 @@
+{
+  "module": "UEI : ENDOCRINO / URO-NEPHRO",
+  "lessons": {
+    "1.1 Exploration biochimique de l'équilibre hydro électrolytique": {
+      "2025": [
+        {"question": "A propos des électrolytes:", "options": ["Le sodium est le principal cation intracellulaire.", "Le potassium est majoritaire dans le liquide intracellulaire.", "Les électrolytes se dissocient en ions dans l'eau.", "Le chlore est le principal anion intracellulaire"], "correct_option_ids": [1, 2]},
+        {"question": "Concernant les pressions impliquées dans les transferts liquidiens:", "options": ["La pression hydrostatique est liée à la concentration en protéines.", "La pression oncotique favorise l'absorption d'eau vers les zones riches en protéines.", "La pression osmotique dépend de la concentration en solutés dissous.", "La pression osmotique favorise un flux d'eau vers les compartiments hypotonique"], "correct_option_ids": [1, 2]},
+        {"question": "une hyponatrémie", "options": ["Stimule la sécrétion de l'aldostérone", "Stimule la sécrétion du facteur natriurétique auriculaire", "Stimule les osmorécepteurs", "Stimule la sécrétion ADH"], "correct_option_ids": [0]}
+      ]
+    },
+    "1.2 Explorations biochimiques des endocrinopathies": {
+      "2024": [
+        {"question": "A propos du test au synacthène, cochez les affirmations justes", "options": ["Est un test de stimulation à l'ACTH utilisé pour diagnostiquer ou exclure une insuffisance surrénalienne.", "Est utilisé dans le diagnostic étiologique des dysthyroïdies.", "Est un test dynamique permettant d'explorer l'axe corticotrope en cas d'hypercorticisme.", "Il permet de freiner la sécrétion d'ACTH qui est objectivée par une diminution de la cortisolémie."], "correct_option_ids": [2]}
+      ]
+    },
+    "1.3 Explorations biochimiques en néphrologie": {
+      "2025": [
+        {"question": "Concernant la diurèse", "options": ["La diurèse normale de l'adulte varie entre 750ml/24 H-1500 ML/24 H", "L'oligurie correspond à une diurèse au-dessous de 100 ml/24H", "L'anurie correspond à une diurèse qui dépasse 500 ml/24H", "La polyurie correspond à une diurèse au-dessus de 2500 ml/24H"], "correct_option_ids": [0, 3]},
+        {"question": "L'examen macroscopique des urines permet", "options": ["D'analyser l'aspect des urines clair ou trouble", "D'analyser la couleur des urines", "d'analyser l'odeur des urines", "D'analyser le taux d'urée"], "correct_option_ids": [0, 1, 2]},
+        {"question": "L'exploration fonctionnelle de l'anse de Henle et du TCD repose sur", "options": ["Mesure de l'osmolalité urinaire", "Épreuve d'élimination du phénol sulfone phtaléine", "Épreuve de restriction hydrique", "Dosage de la cystatine C"], "correct_option_ids": [0, 2]},
+        {"question": "La cystatine C est préférée à la créatinine dans certaines situations car:", "options": ["Elle dépend de la masse musculaire", "Elle est influencée par l'alimentation", "Elle est indépendante du sexe et de l'âge", "Elle est moins coûteuse à doser"], "correct_option_ids": [2]},
+        {"question": "le taux d'urée diminue", "options": ["Insuffisance hépatique terminale", "Myasthénie grave", "Prééclampsie", "Carences nutritionnelles"], "correct_option_ids": [0, 3]},
+        {"question": "Parmi les éléments biologiques suivants, lequel permet de définir le stade d'une Insuffisance rénale chronique ?", "options": ["Urémie", "Protéinurie", "Clairance de la créatinine", "Hématurie"], "correct_option_ids": [2]},
+        {"question": "Parmi les paramètres suivants, lequel n'est pas évalué par les bandelettes urinaires?", "options": ["pH", "Glucose", "Protéines", "Créatinine"], "correct_option_ids": [3]},
+        {"question": "Parmi les propositions suivantes concernant les protéinuries, laquelle (lesquelles) est (sont) exacte(s)?", "options": ["La protéinurie physiologique est inférieure à 150 mg/24h", "l'orthostatisme peut être cause de protéinurie", "La protéinurie est supérieure à 3 g/24h dans le syndrome néphrotique", "Une protéinurie normale exclut une pathologie rénale"], "correct_option_ids": [0, 1, 2]}
+      ],
+      "2024": [
+        {"question": "Des concentrations urinaires d'albumine supérieures à 30 mg/24 heures constituent (qcm):", "options": ["La micro albuminurie.", "Est le premier signe d'une néphropathie débutante", "Détectée à la bandelette urinaire", "Est un signe d'insuffisance rénale stade 3B"], "correct_option_ids": [0, 1]},
+        {"question": "En néphrologie la créatinine occupe une place primordiale car elle s'individualise par plusieurs avantages", "options": ["La créatinine est éliminée dans les urines par filtration glomérulaire", "Elle n'est ni réabsorbée ni sécrétée", "Indépendante de l'état d'hydratation et de l'alimentation", "Elle constitue le marqueur de choix pour l'évaluation de la fonction rénale"], "correct_option_ids": [0, 1, 2, 3]},
+        {"question": "L'aspect macroscopique des urines est un signe d'appel d'importance particulière en matière de néphrologie, leur aspect rougeâtre ou noirâtre est en faveur", "options": ["D'une hémoglobinurie", "D'une Chylurie", "La présence de globules rouges", "D'une betteraverie"], "correct_option_ids": [0, 2, 3]},
+        {"question": "L'estimation de la fonction rénale repose sur une seule proposition qui paraît la plus raisonnable :", "options": ["L'uréurie", "Clairance de la créatinine sérique", "L'urémie", "Clairance de la créatinine urinaire"], "correct_option_ids": [1]},
+        {"question": "L'exploration fonctionnelle rénale repose sur :", "options": ["L'interprétation de variables biologiques urinaires", "Explorations biologiques plasmatiques", "Scintigraphie rénale", "Exploration ultrasonographique rénale"], "correct_option_ids": [0, 1]},
+        {"question": "La bandelette urinaire est l'un des moyens d'investigation en médecine générale les différents paramètres que l'on peut apprécier actuellement sont les suivants :", "options": ["pH", "Densité", "Sang", "Infection urinaire"], "correct_option_ids": [0, 1, 2]},
+        {"question": "Le rein assure des fonctions indispensables à l'équilibre du milieu intérieur, à l'exception de deux :", "options": ["fonction de sécrétion (équilibre de l'eau, électrolytes, acide/base, protéines)", "fonction endocrine (équilibre de la PA, érythropoïétine, vit-D, prostaglandines..)", "Ne subit l'action d'autres hormones : PTH, insuline, NAF, ADH...)", "Stockage de glucose"], "correct_option_ids": [0, 2]},
+        {"question": "Le rein contribue au maintien de l'homéostasie de l'organisme, dont les principales fonctions suivantes sauf une, laquelle ?", "options": ["Le maintien du volume et de la composition ionique des liquides extracellulaires", "Le maintien de la pression artérielle pulmonaire", "L'excrétion des déchets métaboliques terminaux (urée, créatinine, acide urique, etc.)", "L'élimination de certains médicaments et/ou de leurs métabolites"], "correct_option_ids": [1]},
+        {"question": "Les variations de la créatininémie sont ; validez les réponses justes:", "options": ["Âge: augmenté", "Masse musculaire: augmentée", "Exercice musculaire: augmenté", "Grossesse: diminue (hyper volémie)"], "correct_option_ids": [0, 1, 2]},
+        {"question": "On demande un bilan biochimique rénal devant une sémiologie médicale d'orientation suivante, une réponse n'est juste, laquelle ? :", "options": ["Trouble qualitatif de la miction", "Anomalie quantitative de la diurèse.", "Trouble macroscopique urinaire", "Trouble du comportement"], "correct_option_ids": [3]},
+        {"question": "Protéinurie tubulaire : qcm", "options": ["Elles sont plus rares que les protéinuries glomérulaires.", "Sur le plan quantitatif elles sont d'expression faible (<1g/24h)", "composées de protéines de faible poids moléculaire en l'occurrence, l'α1 microglobuline, rétinol binding protéine (RBP).", "S'accompagne de petits reins"], "correct_option_ids": [0, 1, 2]},
+        {"question": "Protéinuries glomérulaires : qcm", "options": ["Elles sont dues le plus souvent à une altération de la perméabilité glomérulaire.", "Elles sont quantitativement importantes, généralement supérieures à 2 g/24 h", "Constituées essentiellement d'albumine et de protéines de poids moléculaire + élevé.", "Elles peuvent se voir chez l'enfant et l'adulte."], "correct_option_ids": [0, 1, 2, 3]}
+      ],
+      "2022": [
+        {"question": "Concernant la créatinine plasmatique : (Cochez la réponse fausse)", "options": ["Représente un déchet du catabolisme musculaire.", "Représente l'examen biochimique le plus utilisé en pratique pour évaluer la fonction rénale.", "Pour le même individu, elle reste constante quel que soit la situation clinique.", "Elle reflète le débit de filtration glomérulaire."], "correct_option_ids": [2]},
+        {"question": "Concernant les méthodes de dosage de la créatinine en routine : (Cochez la réponse fausse)", "options": ["La réaction de Jaffé dose la créatinine en présence de l'acide picrique dans un milieu acide ; donnant le complexe picrate-créatinine rouge orange.", "La méthode enzymatique est moins utilisée car elle coûte cher.", "La réaction de Jaffé manque de spécificité.", "La méthode enzymatique est plus spécifique."], "correct_option_ids": [0]},
+        {"question": "Le taux de créatinine est augmenté dans les situations suivantes : (Cochez la réponse fausse)", "options": ["L'exercice musculaire intense.", "L'insuffisance rénale aiguë.", "Chez les individus de la race noire.", "En cas de grossesse."], "correct_option_ids": [3]}
+      ],
+      "2021": [
+        {"question": "Concernant la créatinine, lesquelles de ces propositions sont justes : 1- Sa réabsorption dépend de l'état hydrique de l'organisme 2- Son dosage est basé sur la réaction de Jaffé où la créatinine réagit avec l'acide picrique en milieu alcalin pour donner un complexe jaune orange à 520 nm 3- Est d'élimination exclusivement rénale 4- Elle représente le catabolite final des acides nucléiques 5- Est physiologiquement plus élevée chez la femme que chez l'homme.", "options": ["(1; 2; 3).", "(2; 3).", "(1; 2; 3; 4).", "(2; 5)."], "correct_option_ids": [1]},
+        {"question": "Donnez-la ou les réponses exactes. Dans l'insuffisance rénale chronique, on observe. 1- Une anémie 2- Une hypo uricémie 3- Une augmentation du taux d'urée sanguine et de la créatininémie 4- Une diminution de la clairance de la créatinine 5- Une hypercalcémie avec hypophosphatémie.", "options": ["(1; 2; 3).", "(2; 4).", "(1; 3; 5).", "(2; 5)."], "correct_option_ids": [2]}
+      ]
+    },
+    "1.4 Explorations du métabolisme glucidique": {
+      "2025": [
+        {"question": "Concernant l'hémoglobine glyquée:", "options": ["Il s'agit d'une fraction de l'hémoglobine ayant fixé le glucose par réaction non enzymatique irréversible", "Le jeûne est nécessaire pour son dosage", "Elle peut être utilisée comme moyen diagnostic du diabète sucré", "Un taux anormalement élevé d'hémoglobine glyquée est toujours associé à une situation d'hyperglycémie"], "correct_option_ids": [0, 2]},
+        {"question": "la (les)quel(les) parmi les propositions suivantes est(sont) seuil(s) diagnostic du diabète sucré?", "options": ["Glycémie veineuse à jeun ≥ 1.26g/l", "Glycémie veineuse à n'importe quel moment de la journée ≥ 2 g/l", "Glycémie 2h après HGPO ≥ 1.40 g/l", "HbA1c ≥ 5.7%"], "correct_option_ids": [0, 1]},
+        {"question": "Les paramètres utilisés dans le diagnostic du diabète sont:", "options": ["la glycémie capillaire, l'HbA1c et la glucosurie", "la glycémie veineuse, la glycémie capillaire et l'HbA1c", "la glycosurie, la glycémie veineuse et l'HbA1", "aucune de ces propositions"], "correct_option_ids": [3]},
+        {"question": "Parmi les propositions suivantes concernant les manifestations cliniques du syndrome cardinal du diabète sucré, la(les)quelle(s) est (sont) exacte(s) ?", "options": ["Asthénie et amaigrissement", "Asthénie et polyphagie", "Syndrome polyuro-polydipsique", "Prise de poids et polyphagie"], "correct_option_ids": [0, 1, 2]},
+        {"question": "Une patiente âgée de 42 ans, obèse avec pâleur extrême et qui présente une anémie sévère, son HbA1c est à 8%. une seule réponse est juste:", "options": ["La patiente présente un diabète sucré", "L'HbA1c ne peut être interprétable dans ce contexte", "Il faut refaire une 2ème HbA1c pour confirmer le diagnostic du diabète sucré", "La patiente présente un pré diabète"], "correct_option_ids": [1]}
+      ],
+      "2024": [
+        {"question": "Chez le sujet non diabétique, l'hémoglobine glyquée est :", "options": ["Entre 4-6%", "Entre 2-3%", "Supérieure à 7%", "Supérieure à 8,5%"], "correct_option_ids": [0]}
+      ],
+      "2023": [
+        {"question": "La (les)quel(les) parmi les propositions suivantes est(sont) seuil(s) diagnostic du diabète sucré ?", "options": ["Glycémie veineuse à jeun ≥ 1,26g/l", "Glycémie veineuse à n'importe quel moment de la journée ≥ 2g/l", "Glycémie 2 h après HGPO ≥ 1,40g/l", "HbA1c >5,7%"], "correct_option_ids": [0, 1]},
+        {"question": "La définition de l'hypoglycémie chez le non diabétique :", "options": ["Repose sur la glycémie capillaire", "Repose sur la glycémie veineuse", "Repose sur la présence de signes cliniques adrénergiques", "Repose sur la triade de Whipple"], "correct_option_ids": [3]},
+        {"question": "La pathogénie de l'hypoglycémie dans le diabète de type 2 inclut tous ses mécanismes sauf :", "options": ["Réduction de la sécrétion du glucagon par le pancréas", "Réduction de la sécrétion de l'insuline par le pancréas", "Diminution du captage du glucose par le muscle squelettique", "Augmentation de la lipolyse"], "correct_option_ids": [0]},
+        {"question": "Parmi les propositions suivantes concernant l'hémoglobine glyquée, indiquer celle(s) qui est (sont) exacte(s) :", "options": ["Il s'agit d'une fraction de l'hémoglobine ayant fixé du glucose par une réaction non enzymatique", "Elle peut être utilisée comme moyen diagnostic du diabète sucré", "Elle reflète l'équilibre glycémique des 2-4 semaines précédentes", "Son dosage nécessite que le patient soit à jeun"], "correct_option_ids": [0, 1]},
+        {"question": "Une patiente âgée de 28 ans prend du méthylprednisolone (solumédrol®) de façon prolongée, est à risque de développer :", "options": ["Une hypoglycémie", "Une intolérance au glucose et diabète sucré", "Un syndrome de Cushing", "Une hypertension artérielle"], "correct_option_ids": [1, 3]},
+        {"question": "Une patiente âgée de 45 ans, obèse avec pâleur extrême et qui présente des ménorragies depuis 2 ans, son HbA1c est à 7% :", "options": ["L'HbA1c peut être interprétable dans ce contexte", "Il faut refaire une 2ème HbA1c pour confirmer le diagnostic du diabète sucré", "La patiente présente un pré-diabète", "La patiente présente un diabète sucré"], "correct_option_ids": [0]}
+      ]
+    },
+    "1.5 Explorations du métabolisme phospho-calcique et remodelage osseu": {
+      "2025": [
+        {"question": "Dans l'hypercalcémie aiguë, on retrouve les signes suivants :", "options": ["Anorexie", "Troubles du rythme", "Nausées", "Troubles neuropsychiques"], "correct_option_ids": [0, 1, 2, 3]},
+        {"question": "Dans l'hyperparathyroïdie primaire, les signes cliniques dépendent :", "options": ["Du degré d'hypercalcémie", "Du degré d'hypocalcémie", "De la rapidité d'installation de l'hypercalcémie", "De la rapidité d'installation de l'hypocalcémie"], "correct_option_ids": [0, 2]},
+        {"question": "La régulation de la calcémie dépend de :", "options": ["La PTH", "La vitamine D", "La calcitonine", "L'insuline"], "correct_option_ids": [0, 1, 2]},
+        {"question": "Concernant le dosage de la calcémie :", "options": ["Le dosage est effectué exclusivement sur sérum.", "Eviter la présence d'EDTA dans les tubes de prélèvement.", "Les méthodes les plus fréquemment utilisées dont le calcium total.", "Les modifications de la concentration plasmatique de l'albumine affectent la concentration du calcium total"], "correct_option_ids": [1]},
+        {"question": "Parmi les propositions suivantes concernant le métabolisme phosphocalcique, indiquer celles qui sont exactes:", "options": ["L'hormone parathyroïdienne favorise la réabsorption tubulaire du calcium.", "La vitamine D favorise l'absorption intestinale du calcium", "L'hypophosphatémie est retrouvée dans l'hypoparathyroïdie primaire et secondaire.", "L'hypocalcémie est retrouvée dans les troubles du métabolisme de la vitamine D suite à un défaut d'exposition aux UV."], "correct_option_ids": [0, 1, 3]},
+        {"question": "Quelles sont les étiologies des hyperphosphatémies;", "options": ["L'hyperparathyroïdie primaire.", "Les métastases osseuses ostéolytiques.", "Le déficit en Vitamine D.", "L'insuffisance rénale."], "correct_option_ids": [2, 3]},
+        {"question": "Quels sont les marqueurs de la résorption osseuses:", "options": ["La pyridinoline et la déoxypyridinoline", "L'hydroxyproline", "Les télopeptides N et C terminaux du collagène type I", "Les phosphatases alcalines totales"], "correct_option_ids": [0, 1, 2]}
+      ],
+      "2021": [
+        {"question": "Concernant le tissu osseux : 1- Le squelette est la forme de réserve de calcium sous forme ionisé. 2- Le collagène type 1 est le composant majoritaire de la matrice organique. 3- La PTH stimule la formation osseuse. 4- La vitamine D est une hormone hypercalcémiante en stimulant la résorption osseuse. 5- La vitamine D favorise la minéralisation osseuse.", "options": ["(1; 2; 3).", "(2; 4).", "(1; 2; 3; 4).", "(2; 5)."], "correct_option_ids": [3]}
+      ]
+    },
+    "1.6 Explorations hormonales et immunologiques en pathologies de reproduction": {
+      "2023": [
+        {"question": "Concernant la progestérone :", "options": ["Le dosage se fait à J22 du cycle menstruel", "Sa sécrétion augmente en phase folliculaire", "Elle atteste d'ovulation si son taux est supérieur à 03 ng/ml", "Est sécrétée par le corps jaune"], "correct_option_ids": [0, 2, 3]},
+        {"question": "Le bilan biologique à demander chez l'homme en 1er intention dans un contexte de la pathologie de reproduction comporte (choisir les bonnes réponses) :", "options": ["Un spermogramme", "Une biopsie testiculaire", "Un spermocytogramme", "Un caryotype"], "correct_option_ids": [0, 2]},
+        {"question": "Le bilan hormonal de base à demander en 1er intention chez la femme dans la pathologie de reproduction comporte (choisir les bonnes réponses) :", "options": ["Le taux de FSH", "Le taux de 17 OH-progestérone", "Le taux d'œstradiol", "Le taux de testostérone"], "correct_option_ids": [0, 2]},
+        {"question": "Pour confirmer une pathologie au niveau du spermogramme quelles sont les conditions à respecter :", "options": ["Réaliser 02 spermogrammes", "Réaliser 03 spermogrammes", "Intervalle de 03 mois", "Intervalle de 06 mois"], "correct_option_ids": [0, 2]}
+      ]
+    },
+    "1.7 Métabolisme de l'acide urique": {
+      "2023": [
+        {"question": "Parmi les articulations suivantes, laquelle est le plus souvent touchée par l'accumulation de cristaux d'acide urique et les crises de goutte ?", "options": ["Gros orteil", "Doigt", "Hanche", "Epaule"], "correct_option_ids": [0]},
+        {"question": "Parmi les éléments suivants, lequel n'est pas un facteur déclencheur connu d'une crise de goutte soudaine ?", "options": ["Maladie", "Blessure", "Prise de certains antidépresseurs", "Prise de certains médicaments pour la tension artérielle"], "correct_option_ids": [2]},
+        {"question": "Parmi les propositions suivantes, quelle est la cause la plus fréquente d'un taux élevé d'acide urique dans le sang ?", "options": ["Consommation excessive d'alcool", "Elimination insuffisante de l'acide urique par les reins", "Infection entraînant une accumulation d'acide urique", "Production excessive d'acide urique dans l'organisme"], "correct_option_ids": [1]}
+      ]
+    },
+    "2.1 Dysmagnésémie": {
+      "2022": [
+        {"question": "Un symptôme clinique n'est situé en cas d'hypomagnésémie, lequel ?", "options": ["Les myoclonies", "Hyporéflexie", "Confusion", "Tachycardie"], "correct_option_ids": [1]}
+      ]
+    },
+    "2.2 Insuffisance rénale aigue (ira)": {
+      "2025": [
+        {"question": "Au cours de l'IRA fonctionnelle, trouvez la réponse fausse :", "options": ["le débit plasmatique rénal diminue", "la pression hydrostatique capillaire glomérulaire diminue", "La pression intra tubulaire augmente", "les résistances des artérioles afférentes augmentent"], "correct_option_ids": [2]},
+        {"question": "Au cours de l'IRA obstructive, trouvez la réponse juste:", "options": ["les résistances des artérioles efférentes diminuent", "la pression intra tubulaire augmente", "les résistances des artérioles afférentes augmentent", "la pression hydrostatique capillaire glomérulaire diminue"], "correct_option_ids": [1]},
+        {"question": "Les étiologies de l'IRA fonctionnelle trouvez la réponse fausse", "options": ["déshydratation extra cellulaire", "hypovolémie efficace par 3ème secteur", "nécrose tubulaire aiguë d'origine ischémique", "perturbation de l'hémodynamique glomérulaire par l'association IEC et AINS"], "correct_option_ids": [2]},
+        {"question": "Les étiologies de l'IRA obstructive", "options": ["calcul unilatéral sur rein fonctionnel unique", "cancer de la prostate", "adénome de la prostate", "toutes les réponses sont justes"], "correct_option_ids": [3]},
+        {"question": "Les étiologies de l'IRA organique : trouvez la réponse fausse", "options": ["nécrose tubulaire aiguë", "perturbation de l'hémodynamique glomérulaire par l'association IEC et AINS", "néphrite interstitielle aiguë", "néphropathie glomérulaire aiguë"], "correct_option_ids": [1]}
+      ],
+      "2021": [
+        {"question": "L'anémie est :", "options": ["Un signe constant de l'IRA.", "Un signe constant de l'IRC.", "Jamais retrouvée en cas de l'IRA.", "Peut accompagner dans certains cas l'IRA."], "correct_option_ids": [3]},
+        {"question": "L'hypocalcémie de l'IRC :", "options": ["Est secondaire à une hypoparathyroïdie.", "Est secondaire à une hypothyroïdie.", "Est secondaire à un déficit en vitamine D active.", "Est un signe constant et pathognomonique de l'IRC."], "correct_option_ids": [2]},
+        {"question": "L'IRA est :", "options": ["Une perte des fonctions de filtration et fonctions endocrines.", "Une perte des fonctions de filtration uniquement.", "Une perte des fonctions endocrines uniquement.", "Toutes ces réponses sont justes."], "correct_option_ids": [1]},
+        {"question": "L'IRA est : (Cochez la réponse fausse.)", "options": ["Une augmentation rapide de la créatininémie en quelques heures à quelques jours.", "Fonctionnelle urologique ou parenchymateuse.", "Peut-être à diurèse conservée ou oligoanurique.", "Exclusivement anurique."], "correct_option_ids": [3]},
+        {"question": "L'IRA fonctionnelle peut être secondaire : (Cochez la réponse fausse)", "options": ["A une hypovolémie par déshydratation.", "A une hémorragie profuse.", "A une dysfonction cardiaque.", "A certains médicaments tels que les AINS.", "A une tumeur vésicale."], "correct_option_ids": [4]},
+        {"question": "L'IRA parenchymateuse : (Cochez la réponse fausse)", "options": ["Peut-être secondaire à une atteinte tubulaire dans ce cas elle est silencieuse sans HTA ni protéinurie ni hématurie.", "Peut-être secondaire à une atteinte interstitielle dans ce cas elle est silencieuse sans HTA ni protéinurie ni hématurie.", "Peut-être secondaire à une atteinte glomérulaire dans ce cas elle est très symptomatique avec HTA : protéinurie et hématurie.", "Peut-être secondaire à une atteinte vasculaire dans ce cas la protéinurie est au premier plan."], "correct_option_ids": [3]},
+        {"question": "L'IRC : (Cochez la réponse fausse)", "options": ["Est dite légère si la clairance de la créatinine est entre 60-90 ml/min.", "Est dite modérée si la clairance de la créatinine est entre 30-60 ml/min.", "Est dite sévère si la clairance de la créatinine est inférieure à 30 ml/min.", "Est dite modérée si la clairance de la créatinine est inférieure à 90ml/min."], "correct_option_ids": [3]},
+        {"question": "La taille des reins est conservée dans l'IRC en cas de :", "options": ["Diabète sucre.", "Polykystose rénale.", "Myélome multiple.", "Thrombose de la veine rénale.", "Toutes ces réponses"], "correct_option_ids": [4]}
+      ],
+      "2020": [
+        {"question": "Au cours de l'IRA fonctionnelle : (Cochez la ou les réponse(s) justes.)", "options": ["Le sodium urinaire est bas.", "Peut se compliquer d'un syndrome de levée d'obstacle.", "L'origine toxique est la cause la plus fréquente.", "Alimentaire est diminué."], "correct_option_ids": [0, 3]},
+        {"question": "L'insuffisance rénale aiguë fonctionnelle est caractérisée par : (Cochez la réponse juste.)", "options": ["L'existence des lésions organiques récentes du parenchyme rénal.", "L'irréversibilité lors du rétablissement de l'état hémodynamique.", "Une réduction du débit de filtration glomérulaire (DFG).", "La nécrose porte essentiellement sur le glomérule."], "correct_option_ids": [2]},
+        {"question": "Le syndrome levée d'obstacle est observé après : (Cochez la réponse juste.)", "options": ["Insuffisance rénale aiguë post rénale.", "Insuffisance rénale aiguë fonctionnelle.", "Insuffisance rénale aiguë intrinsèque.", "Insuffisance rénale aiguë pré rénale."], "correct_option_ids": [0]},
+        {"question": "Parmi les propositions suivantes concernant la nécrose tubulaire aiguë ; laquelle est juste :", "options": ["La nécrose porte essentiellement sur le glomérule.", "Elle est toujours d'origine médicamenteuse.", "Peut compliquer tous les états de choc.", "La diurèse est toujours fortement diminuée."], "correct_option_ids": [2]},
+        {"question": "Quelles sont les principales complications de l'IRA à rechercher en urgence : (Cochez la ou les réponse(s) justes.)", "options": ["Une hypercalcémie.", "Une hyperkaliémie.", "Hyponatrémie.", "Une acidose métabolique."], "correct_option_ids": [1, 2, 3]},
+        {"question": "Tous ces médicaments peuvent être à l'origine d'une nécrose tubulaire aiguë toxique sauf un lequel ?", "options": ["Aminosides.", "Bêta-lactamines.", "Chimiothérapie anti cancéreuse.", "Produit de contraste iodé."], "correct_option_ids": [1]},
+        {"question": "Une femme de 35 ans sans antécédents a eu une septicémie post-partum compliquée d'une insuffisance rénale aiguë justifiant le recours à des hémodialyses répétées ; 6 semaines plus tard la diurèse n'a pas repris ; quelle en est la cause probable ?", "options": ["Néphropathies vasculaires aiguës par thrombose aiguë de l'artère rénale.", "Néphropathie glomérulaire aiguë.", "Néphropathies vasculaires aiguës par nécrose corticale bilatérale.", "Nécrose tubulaire aiguë."], "correct_option_ids": [2]}
+      ],
+      "2019": [
+        {"question": "Au cours de l'insuffisance rénale aiguë fonctionnelle : (Cochez la ou les réponse(s) justes.)", "options": ["Il existe une polyurie.", "Il y a une réabsorption accrue d'urée.", "Le sodium urinaire est effondré.", "L'irréversibilité lors du rétablissement de l'état hémodynamique."], "correct_option_ids": [1, 2]},
+        {"question": "La néphrite interstitielle aiguë est caractérisée par : (Cochez la réponse juste.)", "options": ["Une agression toxique tubulaire.", "L'œdème au niveau de l'interstitium du parenchyme rénal.", "Une hypoperfusion rénale.", "Une précipitation intra tubulaire rénale."], "correct_option_ids": [1]},
+        {"question": "Le syndrome de levée d'obstacle est observé après : (Cochez la réponse juste.)", "options": ["Insuffisance rénale aiguë obstructive.", "Insuffisance rénale aiguë fonctionnelle.", "Insuffisance rénale aiguë intrinsèque.", "Insuffisance rénale chronique."], "correct_option_ids": [0]},
+        {"question": "Les conséquences d'une insuffisance rénale aiguë anurique sont : (Cochez la ou les réponse(s) justes.)", "options": ["L'hyperkaliémie.", "L'acidose métabolique.", "L'œdème cérébral.", "Autre"], "correct_option_ids": [0, 1, 2]},
+        {"question": "Parmi les propositions concernant la nécrose tubulaire aiguë , lesquelles sont exactes : (Cochez la ou les réponse(s) justes.)", "options": ["L'œdème au niveau de l'interstitium du parenchyme rénal.", "Peut reconnaître un mécanisme toxique.", "Peut compliquer les états de chocs correctement traités.", "Peut connaître un mécanisme ischémique."], "correct_option_ids": [1, 3]},
+        {"question": "Une femme de 35 ans sans antécédent, a eu une septicémie post-abortum, compliquée d'une insuffisance rénale aiguë anurique justifiant le recours à des hémodialyses répétées, 6 semaines plus tard la diurèse n'a pas repris. Quelle en est la cause probable :", "options": ["Néphropathies vasculaires aiguës par thrombose aiguë de l'artère rénale.", "Néphropathies glomérulaires aiguës.", "Néphropathies vasculaire par nécrose corticale bilatérale.", "Nécrose tubulaire aiguë."], "correct_option_ids": [2]}
+      ],
+      "2018": [
+        {"question": "Au cours de l'IRA fonctionnelle : (Cochez la réponse juste.)", "options": ["Le sodium urinaire est bas.", "Peut se compliquer d'un syndrome de levée d'obstacle.", "L'origine toxique est la cause la plus fréquente.", "Le débit de filtration glomérulaire est constant."], "correct_option_ids": [0]},
+        {"question": "L'insuffisance rénale aiguë fonctionnelle est caractérisée par : (Cochez la réponse juste.)", "options": ["L'existence des lésions organiques récentes du parenchyme rénal.", "L'irréversibilité lors du rétablissement de l'état hémodynamique.", "Une réduction du débit de filtration glomérulaire (DFG).", "La nécrose porte essentiellement sur le glomérule."], "correct_option_ids": [2]},
+        {"question": "La nécrose tubulaire aiguë NTA est une : (Cochez la réponse juste.)", "options": ["Insuffisance rénale aiguë fonctionnelle.", "Due à une diminution de la filtration glomérulaire.", "Secondaire à une insuffisance rénale aiguë pré rénale mal traitée.", "Elle est toujours d'origine médicamenteuse."], "correct_option_ids": [2]},
+        {"question": "La nécrose tubulaire aiguë peut être causée par :", "options": ["Une infection virale.", "Un choc septique.", "Une hypertension artérielle", "Une déshydratation"], "correct_option_ids": [1]}
+      ],
+      "2017": [
+        {"question": "L'insuffisance rénale aiguë : (Cochez la ou les réponse(s) justes.)", "options": ["Toujours symptomatique.", "Est toujours réversible.", "Nécessite toujours la recherche d'un obstacle sur les voies excrétrices.", "Ne s'accompagne pas toujours d'une hypocalcémie."], "correct_option_ids": [2, 3]},
+        {"question": "Le décès d'un malade atteint d'une insuffisance rénale aiguë anurique peut être consécutif à : (Cochez la ou les réponse(s) justes.)", "options": ["Hyperkaliémie.", "Alcalose métabolique.", "Œdème cérébral.", "Hypoglycémie."], "correct_option_ids": [0, 2]},
+        {"question": "Parmi les propositions suivantes concernant la nécrose tubulaire aiguë : (Cochez la ou les réponse(s) justes.)", "options": ["L'œdème au niveau de l'interstitium du parenchyme rénal.", "Peut reconnaître un mécanisme toxique.", "Peut compliquer les états de chocs.", "S'exprime toujours par une anurie."], "correct_option_ids": [1, 2]}
+      ],
+      "2016": [
+        {"question": "Les causes de l'IRA post rénale sont : (Cochez la réponse juste.)", "options": ["Toxicité tubulaire directe.", "Obstacle unilatéral sur deux reins fonctionnels.", "Lithiases urinaires.", "Nécrose tubulaire aiguë."], "correct_option_ids": [2]},
+        {"question": "Les causes de l'IRA pré rénale sont : (Cochez la réponse juste.)", "options": ["Une toxicité tubulaire directe.", "La DEC.", "Une origine immuno-allergique est incriminée.", "L'utilisation d'aminosides."], "correct_option_ids": [1]},
+        {"question": "Les conséquences de l'insuffisance rénale aiguë fonctionnelle sont : (Cochez la réponse juste.)", "options": ["Une réabsorption accrue d'eau et d'urée au niveau tubulaire rénal.", "Augmentation de la pression intra tubulaire rénale.", "La synthèse de cytokines inflammatoires au niveau tubulaire rénal.", "L'hypoaldostéronisme."], "correct_option_ids": [0]},
+        {"question": "Les étiologies de la nécrose tubulaire aiguë sont : (Cochez la réponse juste.)", "options": ["Les états de choc sévères.", "L'IRA fonctionnelle correctement traitée.", "Une origine immuno-allergique est incriminée.", "Une toxicité tubulaire directe."], "correct_option_ids": [3]}
+      ]
+    },
+    "2.3 Les complications métaboliques de diabète - coma hyperosmolaire": {
+      "2018": [
+        {"question": "Au cours du coma hyperosmolaire la déshydratation est : (Cochez la réponse juste.)", "options": ["Intra cellulaire.", "Extra cellulaire.", "Globale.", "Absente."], "correct_option_ids": [2]},
+        {"question": "L'hyperglycémie au cours du coma hyperosmolaire est due à : (Cochez la réponse fausse.)", "options": ["Déficit en insuline.", "Augmentation de l'utilisation périphérique du glucose.", "Activation de la protéolyse.", "Activation de la glycogénolyse."], "correct_option_ids": [1]},
+        {"question": "Le tableau clinique au cours du coma hyperosmolaire associe : (Cochez la réponse fausse.)", "options": ["Perte de poids.", "Hypotension.", "Dyspnée de Kussmaul.", "État stuporeux."], "correct_option_ids": [2]},
+        {"question": "Quel est le bilan qui correspond à un malade présentant un coma hyperosmolaire : (Cochez la réponse juste.)", "options": ["Glycémie à 3 g/l , Natrémie à 135 mEq/l , pH = 7,1.", "G à 6 g/l , N à 123 mEq/l , pH = 6,2.", "G à 7 g/l , N à 150 mEq/l , pH = 7,4.", "G à 4 g/l ; N à 145 mEq/l , pH = 6,3."], "correct_option_ids": [2]}
+      ]
+    },
+    "2.4 Les complications métaboliques de diabète- acidose diabétique": {
+      "2025": [
+        {"question": "L'insuline exerce l'effet métabolique suivant:", "options": ["la lipolyse, l'anabolisme", "Le transfert de potassium du milieu intracellulaire vers le milieu extracellulaire", "l'hypoglycémie", "l'absorption de la vitamine D"], "correct_option_ids": [2]},
+        {"question": "Parmi les propositions suivantes caractérisant l'acidocétose chez le sujet diabétique, une seule est fausse. Laquelle ?", "options": ["Déshydratation", "Dyspnée", "Abaissement du pH sanguin", "Sueurs abondantes"], "correct_option_ids": [3]},
+        {"question": "Parmi les propositions suivantes concernant l'acido-cétose diabétique, donner celle(s) qui est (sont) exacte(s).", "options": ["Elle s'accompagne d'une acidose métabolique", "Elle peut être le mode de révélation d'un diabète de type 1 seulement", "Elle s'accompagne d'une insulinopénie, diminution du glucagon", "Elle est caractérisée par la présence d'une protéinurie"], "correct_option_ids": [0]}
+      ],
+      "2023": [
+        {"question": "L'acidocétose diabétique est caractérisée par :", "options": ["Un début brutal", "Des signes neurologiques de localisation", "Une altération de l'état de conscience", "Des troubles digestifs avec déshydratation"], "correct_option_ids": [2, 3]}
+      ],
+      "2020": [
+        {"question": "L'hypercétonémie de l'acidocétose diabétique n'est pas due à : (Cochez la réponse fausse.)", "options": ["Un accroissement de la lipolyse.", "Une réduction de la lipogenèse.", "Un arrêt du cycle de Krebs.", "Un arrêt de l'utilisation tissulaire des corps cétoniques."], "correct_option_ids": [0]},
+        {"question": "Un coma acidocétosique chez un diabétique insulino-dépendant est déclenché par : (Cochez la réponse juste.)", "options": ["Un arrêt de l'insuline.", "Un exercice physique intense", "Un surcharge en insuline.", "Une anxiété"], "correct_option_ids": [0]}
+      ],
+      "2019": [
+        {"question": "Au cours d'un coma acidocétosique :", "options": ["Le sérum glucose est contre indiqué.", "Eau per os ou par sonde gastrique indiqué.", "Les diurétiques de l'anse sont indiqués.", "Le sérum physiologique est contre indiqué."], "correct_option_ids": [1]},
+        {"question": "La synthèse des corps cétoniques au cours des complications du diabète est due à : (Cochez la réponse juste.)", "options": ["Carence absolue en insuline.", "Carence relative en insuline.", "L'insuffisance rénale.", "La déshydratation extracellulaire."], "correct_option_ids": [0]},
+        {"question": "Parmi les critères suivants lesquels sont compatibles avec la définition biologique d'une acidocétose : (Cochez la réponse juste.)", "options": ["pH artériel < 7,30", "Cétonurie +.", "Hyperglycémie à 2 g/l.", "HCO3- à 20."], "correct_option_ids": [0, 3]}
+      ],
+      "2016": [
+        {"question": "Au cours de l'acidocétose diabétique on note : (Cochez la réponse juste.)", "options": ["Une hyperkaliémie.", "Une hypernatrémie.", "Une hypokaliémie.", "Une hyperphosphorémie."], "correct_option_ids": [2]},
+        {"question": "Dans l'acidocétose diabétique il y a : (Cochez la réponse juste.)", "options": ["Une diminution des hormones de la contre régulation.", "Un déficit partiel ou complet de l'insuline.", "Une diminution de la production hépatique du glucose.", "Toutes ces réponses sont justes."], "correct_option_ids": [1]},
+        {"question": "L'acidocétose diabétique est définie comme : (Cochez la réponse juste.)", "options": ["pH sup ou égal à 7.45.", "Une cétonurie négative.", "Une glycémie sup à 13 mmol/l.", "Bicarbonate sup à 25 mg/l."], "correct_option_ids": [2]}
+      ]
+    },
+    "2.5 Les dysmagnésémies": {
+      "2024": [
+        {"question": "Dans le diabète sucré l'amaigrissement:", "options": ["Contraste avec la polyphagie", "Est d'intensité variable", "Traduit un hypocatabolisme", "Est lié à une carence en insuline"], "correct_option_ids": [3]},
+        {"question": "Dans le diabète sucré le syndrome polyuro-polydipsique est :", "options": ["Essentiellement nocturne", "> 3 L/24h", "Associé à une nycturie", "Lié à l'hyperglycémie"], "correct_option_ids": [0, 2]},
+        {"question": "La carence brutale en insuline est à l'origine de plusieurs perturbations à l'exception d'une, laquelle", "options": ["Soif intense", "Polyurie osmotique", "Déshydratation globale", "Douleur abdominale"], "correct_option_ids": [3]},
+        {"question": "La classification pédagogique du diabète sucré admise par les experts comprend toutes les propositions suivantes sauf une, laquelle ?", "options": ["Type 1", "Type 2", "Diabète de la femme ménopausée", "Les diabètes sucrés secondaires"], "correct_option_ids": [2]},
+        {"question": "Le diabète sucré est la maladie métabolique la plus répandue dans le monde, on lui attribue le caractère chronique, et des complications aiguës, une notion n'est pas juste parmi les suivantes, laquelle.?", "options": ["Le diabète type 1 peut être auto-immun", "Le diabète type 2 s'installe soudainement", "Le diabète gestationnel, est la forme de la femme enceinte", "Il existe des diabètes sucrés secondaires"], "correct_option_ids": [1]},
+        {"question": "Le diabète type 1 est réputé par des caractères, comme (QCM):", "options": ["Surpoids", "Début brutal", "Pas de notion de diabète dans la famille", "Survient chez l'enfant et l'adulte jeune"], "correct_option_ids": [1, 2, 3]},
+        {"question": "Le diagnostic biologique du diabète sucré est évoqué devant :", "options": ["Signes cliniques évocateurs du diabète", "Glycémie ≥ 2 g/l quel que soit le moment de la journée", "Gly à jeun ≥ 1,26 g/L (8h de jeûne) à 2 reprises", "HbA1c ≥ 6.5%"], "correct_option_ids": [0, 1, 3]},
+        {"question": "Le syndrome cardinal du diabète sucré associe les signes suivants, sauf un:", "options": ["Polyurie", "Polydipsie", "Dysphagie", "Amaigrissement"], "correct_option_ids": [2]}
+      ]
+    },
+    "2.6 Physiologie et pathologies de la grossesse": {
+      "2022": [
+        {"question": "La grossesse extra-utérine se situe au niveau : (Cochez la réponse juste)", "options": ["Au niveau des trompes.", "Au niveau de l'ovaire.", "Au niveau abdominal.", "Toutes ces réponses sont justes."], "correct_option_ids": [3]},
+        {"question": "La grossesse pathologique se définit par : (Cochez la réponse juste.)", "options": ["La pathologie survient au cours de la grossesse.", "La pathologie survient après la grossesse.", "La pathologie survient en dehors de la grossesse.", "C'est l'existence et/ou l'apparition d'une pathologie au cours de la grossesse."], "correct_option_ids": [3]},
+        {"question": "Parmi ces propositions quelle est la pathologie du 1er trimestre :", "options": ["L'hématome rétro placentaire.", "Placenta praevia.", "L'éclampsie.", "Avortement précoce."], "correct_option_ids": [3]},
+        {"question": "Parmi ces propositions quelle est la pathologie du 1er trimestre :", "options": ["La grossesse extra-utérine.", "La rupture prématurée des membranes.", "Menace d'accouchement précoce.", "Souffrance fœtale chronique."], "correct_option_ids": [0]},
+        {"question": "Parmi les pathologies générales associées à la grossesse, une est fausse :", "options": ["Lupus érythémateux disséminé.", "Hypertension artérielle.", "Diabète.", "Menace d'accouchement prématuré."], "correct_option_ids": [3]},
+        {"question": "Parmi les pathologies gynécologiques associées à la grossesse une est fausse :", "options": ["Kyste ovarien.", "Fibrome utérin.", "L'infection vaginale.", "Bride amniotique."], "correct_option_ids": [3]},
+        {"question": "Parmi les signes cliniques suivants de la grossesse extra-utérine non compliquée un est faux :", "options": ["Douleur pelvienne.", "Métrorragie noirâtre.", "Un état de choc.", "Présence d'une masse latéro-utérine au toucher vaginal."], "correct_option_ids": [2]}
+      ]
+    },
+    "2.7 Physiopathologie phospho-calcique": {
+      "2023": [
+        {"question": "Parmi les pathologies suivantes laquelle peut être responsable d'une hypercalcémie ?", "options": ["tétanie", "scorbut", "hypoparathyroïdie", "myélome multiple"], "correct_option_ids": []},
+        {"question": "Parmi les propositions suivantes relatives au métabolisme phosphocalcique, laquelle (lesquelles) est (sont) exacte(s)?", "options": ["La parathormone diminue la réabsorption tubulaire des phosphates", "La parathormone favorise l'ostéolyse", "La parathormone diminue la réabsorption tubulaire du calcium", "La parathormone stimule l'hydroxylation du 25 hydroxy-cholécalciférol"], "correct_option_ids": []},
+        {"question": "Quel est l'effet de l'hyperalbuminémie sur la calcémie ?", "options": ["diminue la calcémie totale", "augmente la fraction ionisée du calcium", "augmente la calcémie totale", "diminue la fraction ionisée du calcium"], "correct_option_ids": []},
+        {"question": "Une hypercalcémie :", "options": ["accompagnée d'une hyperphosphorémie est liée à une intoxication à la vitamine D3", "peut se retrouver lors d'une hyperthyroïdie", "peut-être iatrogène suite à un traitement par furosémide", "doit être diagnostiquée après analyse de la protidémie et du pH sanguin"], "correct_option_ids": []},
+        {"question": "Une ostéoporose possède les caractéristiques suivantes :", "options": ["elle survient souvent chez une femme ménopausée", "elle entraîne une hypocalcémie", "elle se caractérise par une hyperphosphorémie", "souvent on retrouve une augmentation des phosphatases alcalines"], "correct_option_ids": []}
+      ],
+      "2021": [
+        {"question": "L'hypercalcémie provoque : (Cochez la réponse fausse.)", "options": ["Une diminution du QT.", "Un allongement du QT.", "Des nausées et vomissements.", "Des troubles neurologiques."], "correct_option_ids": []},
+        {"question": "L'hyperphosphatémie : (Cochez la réponse fausse.)", "options": ["Induit des calcifications des viscères.", "Provoquée par l'hyperparathyroïdie.", "Provoquée par l'hyperparathyroïdie.", "Provoquée par la perfusion de solutés riches en phosphates.", "Provoquée par une intoxication à la vitamine D."], "correct_option_ids": []},
+        {"question": "L'hypocalcémie provoque : (Cochez la réponse fausse.)", "options": ["Un élargissement du QT.", "Le signe de Chvostek.", "Le signe de Trousseau.", "Faiblesse musculaire.", "Des calcifications d'organes au long cours."], "correct_option_ids": []},
+        {"question": "L'hypophosphatémie est induite : (Cochez la réponse fausse.)", "options": ["Des diarrhées.", "Hyperparathyroïdie.", "Déficit vitamine D.", "Intoxication à la vitamine D.", "L'insuline."], "correct_option_ids": []},
+        {"question": "Le calcium est : (Cochez la réponse fausse.)", "options": ["Un ion essentiellement intra cellulaire.", "Un ion essentiellement extra cellulaire.", "Régulé par deux hormones la PTH et la vitamine D.", "La PTH est une hormone hypercalcémiante.", "La vitamine D est une hormone hypercalcémiante."], "correct_option_ids": []},
+        {"question": "Le phosphore : (Cochez la réponse fausse.)", "options": ["Un ion essentiellement intra cellulaire.", "Un ion essentiellement extra cellulaire.", "Régulé par trois hormones la PTH, la calcitonine et la vitamine D.", "La PTH est une hormone hypophosphatémiante.", "La vitamine D est une hormone hyperphosphatémiante."], "correct_option_ids": []}
+      ],
+      "2020": [
+        {"question": "Le syndrome d'hypercalcémie aiguë peut s'accompagner de signes suivants : (Cochez la réponse juste.)", "options": ["Déshydratation aiguë avec une insuffisance rénale.", "Sans trouble de la conscience.", "Allongement de l'intervalle QT à l'ECG.", "Crise de tétanie."], "correct_option_ids": []},
+        {"question": "Parmi les affections suivantes laquelle peut s'accompagner d'une hypercalcémie : (Cochez la réponse juste.)", "options": ["Pseudo hypoparathyroïdie.", "Hypovitaminose D.", "Hyperparathyroïdie primaire.", "Hypomagnésémie."], "correct_option_ids": []},
+        {"question": "Parmi les affections suivantes laquelle peut s'accompagner d'une hypocalcémie : (Cochez la réponse juste.)", "options": ["Cancer osseux.", "Hyperparathyroïdie primaire.", "Proposition manquante.", "Hypovitaminose D par insuffisance rénale chronique."], "correct_option_ids": []},
+        {"question": "Parmi les propositions suivantes concernant le métabolisme phosphocalcique laquelle est juste ?", "options": ["Le calcium sous forme ionisée est inactif.", "La parathormone est une hormone hypocalcémiante et hyperphosphorémiante.", "La vitamine D3 nécessite deux hydroxylations pour être active.", "La calcitonine est une hormone hypercalcémiante sécrétée par la thyroïde."], "correct_option_ids": []},
+        {"question": "Parmi les propositions suivantes l'hypocalcémie est caractérisée par : (Cochez la réponse fausse.)", "options": ["Hyperexcitabilité neuromusculaire.", "Anomalie de la contractilité myocardique.", "Raccourcissement de l'intervalle QT à l'ECG avec HTA.", "Risque de convulsions généralisées."], "correct_option_ids": []}
+      ],
+      "2019": [
+        {"question": "Le syndrome d'hypercalcémie aiguë peut s'accompagner d'un des signes suivant : (Cochez la réponse juste.)", "options": ["Déshydratation aiguë avec insuffisance rénale.", "Trouble visuel.", "Allongement de l'intervalle QT à l'ECG.", "Crise de tétanie."], "correct_option_ids": []},
+        {"question": "Parmi les affections suivantes : laquelle peut s'accompagner d'une hypercalcémie : (Cochez la réponse juste.)", "options": ["Pseudo hypoparathyroïdie.", "Hypovitaminose D.", "Hyperparathyroïdie primaire.", "Hypomagnésémie."], "correct_option_ids": []},
+        {"question": "Parmi les affections suivantes : laquelle peut s'accompagner d'une hypocalcémie : (Cochez la réponse juste.)", "options": ["Cancer osseux.", "Hyperparathyroïdie primaire.", "Proposition manquante.", "Hypovitaminose D par insuffisance rénale chronique."], "correct_option_ids": []},
+        {"question": "Parmi les propositions concernant le métabolisme phosphocalcique, laquelle est fausse :", "options": ["Seul le calcium ionisé est actif.", "La parathormone est une hormone hypercalcémiante et hyperphosphorémiante.", "La vit D3 nécessite une double activation pour être active.", "La calcitonine est une hormone hypocalcémiante sécrétée par la thyroïde."], "correct_option_ids": []},
+        {"question": "Parmi les signes de l'hypocalcémie, laquelle est fausse :", "options": ["Hyperexcitabilité neuromusculaire.", "Anomalie de la contraction myocardique.", "Raccourcissement de l'intervalle QT à l'ECG avec HTA.", "Risque de convulsions généralisées."], "correct_option_ids": []}
+      ],
+      "2018": [
+        {"question": "Hypercalcémie parathormone indépendante est : (Cochez la réponse juste.)", "options": ["Caractérisée par la présence fréquente d'hypophosphorémie.", "Secondaire à une augmentation de l'absorption intestinale de calcium.", "Ne peut être secondaire à une tumeur paranéoplasique.", "Secondaire à une hyperparathyroïdie primaire."], "correct_option_ids": []},
+        {"question": "L'hypercalcémie à retentissement clinique sévère a pour symptômes sauf un lequel : (Cochez la réponse juste.)", "options": ["Anorexie, vomissements.", "Polyurie, déshydratation.", "Allongement de l'intervalle QT.", "Troubles du rythme ventriculaire."], "correct_option_ids": []},
+        {"question": "La calcitonine : (Cochez la réponse juste.)", "options": ["Produite par la thyroïde.", "Produite par la parathyroïde.", "Son action est hypercalcémiante.", "Son effet principal est l'absorption intestinale du calcium."], "correct_option_ids": []},
+        {"question": "La parathormone est une hormone : (Cochez la réponse juste.)", "options": ["Hypo-calcémiante ; hypophosphorémiante.", "Hyper-calcémiante hyperphosphorémiante.", "Hypo-calcémiante hyperphosphorémiante.", "Hyper-calcémiante hypophosphorémiante."], "correct_option_ids": []},
+        {"question": "Parmi les causes principales de l'hypercalcémie choisir la réponse fausse :", "options": ["L'hyperparathyroïdie.", "Les cancers.", "Les pancréatites aiguës.", "Vitamine D."], "correct_option_ids": []},
+        {"question": "L'hypercalcémie PTH dépendante se caractérise par : (Cochez la réponse juste.)", "options": ["Une hyperphosphorémie.", "Retrouvée au cours d'une lyse osseuse d'origine métastatique.", "Une association avec hyperthyroïdie.", "Peut être associée à un syndrome paranéoplasique."], "correct_option_ids": []}
+      ]
+    }
+  }
+}
